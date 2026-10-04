@@ -1,0 +1,13 @@
+# Python 3.12 recommended. Versions from the Assessment 2 Conda export.
+# Full clean-environment installation has not been verified for this edition.
+owlready2==0.49
+pandas==2.3.3
+numpy==2.3.5
+pyvis==0.3.2
+pymc==5.26.1
+pytensor==2.35.1
+arviz==0.22.0
+matplotlib==3.10.8
+tqdm==4.67.1
+jupyterlab==4.4.10
+ipykernel==7.1.0

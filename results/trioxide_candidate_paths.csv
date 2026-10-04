@@ -1,0 +1,4 @@
+compound_id,compound_label,protein_id,gene_id,disease_id,source_notebook,source_cell,validation,status
+COMPOUND_1149,Arsenic trioxide,PROTEIN_916,GENE_29198,DISEASE_17027,assessment_2,35,All three path edges confirmed by read-only record lookup in saved Assessment 2/code/oregano.owl.,Additional graph-connected candidate; no treatment validation or indication-code match established.
+COMPOUND_1149,Arsenic trioxide,PROTEIN_916,GENE_29198,DISEASE_17128,assessment_2,35,All three path edges confirmed by read-only record lookup in saved Assessment 2/code/oregano.owl.,Additional graph-connected candidate; no treatment validation or indication-code match established.
+COMPOUND_1149,Arsenic trioxide,PROTEIN_1503,GENE_32278,DISEASE_3387,assessment_2,35,All three path edges confirmed by read-only record lookup in saved Assessment 2/code/oregano.owl.,Additional graph-connected candidate; no treatment validation or indication-code match established.

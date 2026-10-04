@@ -1,0 +1,18 @@
+relation,count,source_notebook,source_cell,evidence
+has_target,201912,assessment_1,28,saved text/html table
+increase_activity,10518,assessment_1,28,saved text/html table
+has_activity,12584,assessment_1,28,saved text/html table
+decrease_activity,3331,assessment_1,28,saved text/html table
+increase_effect,18999,assessment_1,28,saved text/html table
+has_effect,19160,assessment_1,28,saved text/html table
+decrease_effect,255,assessment_1,28,saved text/html table
+increase_efficacy,44114,assessment_1,28,saved text/html table
+decrease_efficacy,215222,assessment_1,28,saved text/html table
+causes_condition,16337,assessment_1,28,saved text/html table
+has_phenotype,87247,assessment_1,28,saved text/html table
+is_affecting,8905,assessment_1,28,saved text/html table
+is_substance_that_treats,1394,assessment_1,28,saved text/html table
+acts_within,44865,assessment_1,28,saved text/html table
+has_indication,8225,assessment_1,28,saved text/html table
+has_side_effect,112532,assessment_1,28,saved text/html table
+gene_product_of,10881,assessment_1,28,saved text/html table

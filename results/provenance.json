@@ -1,0 +1,41 @@
+{
+  "cell_indexing": "All source cells use zero-based indexing in the original assessment notebook.",
+  "sources": {
+    "assessment_1": {
+      "description": "Original Assessment 1 executed notebook. Substantive cells are consolidated into notebooks/oregano-study.ipynb with original-source and original-cell metadata.",
+      "source_notebook_sha256": "a47267999ed5f48e83c830269ba0ed34c13e3f959c84d9b47a865bd3988ff23b",
+      "combined_notebook": "notebooks/oregano-study.ipynb",
+      "combined_metadata_source": "assessment-1"
+    },
+    "assessment_2": {
+      "description": "Original Assessment 2 canonical code notebook. Substantive cells are consolidated into notebooks/oregano-study.ipynb with original-source and original-cell metadata.",
+      "source_notebook_sha256": "1a90a8b74740c63d95e05f6a1d9006536713ad09412b65e96036cbd6d4362d72",
+      "combined_notebook": "notebooks/oregano-study.ipynb",
+      "combined_metadata_source": "assessment-2"
+    }
+  },
+  "method": "Extracted saved tables, text outputs, and embedded vis.DataSet arrays without rerunning the original analyses.",
+  "coverage_caveat": "Saved node counts are preserved. The original cell 36 SELECT lacks DISTINCT; ratios derived here are descriptive and require a corrected query for independent validation.",
+  "label_correction": "Disease IDs and their saved UMLS values are primary. Corrected labels were verified during public-release preparation; original prose labels remain alongside them in bayesian_rankings.csv.",
+  "ranking_caveat": "Only the saved top-three raw counts are exported. No full posterior trace or verified denominator is available. These are model-dependent sample counts, not clinical probabilities.",
+  "candidate_path_caveat": "The indication-code agreement recovers recorded indication associations. These pairs have not been independently clinically validated for this edition; the matching codes are not evidence of novel drug repurposing.",
+  "visualizations": "Graph node/edge arrays exported from the saved HTML. Colours and layout are reformatted by build_visuals.py; biological assertions are preserved.",
+  "figures": {
+    "workflow": "workflow.csv",
+    "graph_composition": "entity_counts.csv and relation_counts.csv",
+    "candidate_paths": "candidate_paths.csv and exported compound graph arrays",
+    "bayesian_network": "exported bayesian_network.json; Assessment 2 cell 39 factorization",
+    "posterior_rankings": "bayesian_rankings.csv",
+    "trioxide_paths": "trioxide_candidate_paths.csv; Assessment 2 cell 35 and read-only saved OWL edge checks"
+  },
+  "node_total": 189847,
+  "object_assertion_total": 816481,
+  "disease_label_references": {
+    "DISEASE_13735": "https://www.ncbi.nlm.nih.gov/medgen/41523",
+    "DISEASE_13720": "https://www.ncbi.nlm.nih.gov/medgen/3170",
+    "DISEASE_2810": "https://www.ncbi.nlm.nih.gov/medgen/20551",
+    "DISEASE_160": "https://www.ncbi.nlm.nih.gov/medgen/274",
+    "DISEASE_7426": "https://www.ncbi.nlm.nih.gov/medgen/651"
+  },
+  "compound_id_mapping": "NPASS values linked to ontology IDs by read-only saved OWL record lookup during publication review."
+}

@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="763.704pt" height="531.2304pt" viewBox="0 0 763.704 531.2304" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-04T17:32:27.663103</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>OREGANO research portfolio</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 531.2304 
+L 763.704 531.2304 
+L 763.704 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 301.343904 197.23032 
+L 416.991456 197.23032 
+Q 425.35152 197.23032 425.35152 193.585968 
+L 425.35152 143.172432 
+Q 425.35152 139.52808 416.991456 139.52808 
+L 301.343904 139.52808 
+Q 292.98384 139.52808 292.98384 143.172432 
+L 292.98384 193.585968 
+Q 292.98384 197.23032 301.343904 197.23032 
+z
+" clip-path="url(#pfc004416da)" style="fill: #edf5f5; stroke: #d5e2e7; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 412.811424 364.26312 
+L 528.458976 364.26312 
+Q 536.81904 364.26312 536.81904 360.618768 
+L 536.81904 310.205232 
+Q 536.81904 306.56088 528.458976 306.56088 
+L 412.811424 306.56088 
+Q 404.45136 306.56088 404.45136 310.205232 
+L 404.45136 360.618768 
+Q 404.45136 364.26312 412.811424 364.26312 
+z
+" clip-path="url(#pfc004416da)" style="fill: #edf5f5; stroke: #d5e2e7; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 607.879584 364.26312 
+L 723.527136 364.26312 
+Q 731.8872 364.26312 731.8872 360.618768 
+L 731.8872 310.205232 
+Q 731.8872 306.56088 723.527136 306.56088 
+L 607.879584 306.56088 
+Q 599.51952 306.56088 599.51952 310.205232 
+L 599.51952 360.618768 
+Q 599.51952 364.26312 607.879584 364.26312 
+z
+" clip-path="url(#pfc004416da)" style="fill: #edf5f5; stroke: #d5e2e7; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 78.408864 285.30216 
+L 194.056416 285.30216 
+Q 202.41648 285.30216 202.41648 281.657808 
+L 202.41648 231.244272 
+Q 202.41648 227.59992 194.056416 227.59992 
+L 78.408864 227.59992 
+Q 70.0488 227.59992 70.0488 231.244272 
+L 70.0488 281.657808 
+Q 70.0488 285.30216 78.408864 285.30216 
+z
+" clip-path="url(#pfc004416da)" style="fill: #edf5f5; stroke: #d5e2e7; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 381.682155 202.116882 
+Q 414.90008 251.893562 447.062973 300.089289 
+" clip-path="url(#pfc004416da)" style="fill: none; stroke: #207c80; stroke-width: 1.7; stroke-linecap: round"/>
+    <path d="M 446.339179 294.320743 
+L 447.062973 300.089289 
+L 442.01386 297.207197 
+z
+" clip-path="url(#pfc004416da)" style="fill: #207c80; stroke: #207c80; stroke-width: 1.7; stroke-linecap: round"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 549.266779 335.412 
+Q 568.169642 335.412 585.171847 335.412 
+" clip-path="url(#pfc004416da)" style="fill: none; stroke: #207c80; stroke-width: 1.7; stroke-linecap: round"/>
+    <path d="M 579.971847 332.812 
+L 585.171847 335.412 
+L 579.971847 338.012 
+z
+" clip-path="url(#pfc004416da)" style="fill: #207c80; stroke: #207c80; stroke-width: 1.7; stroke-linecap: round"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 194.876403 233.283466 
+Q 247.699556 212.415359 298.754995 192.245598 
+" clip-path="url(#pfc004416da)" style="fill: none; stroke: #207c80; stroke-width: 1.7; stroke-linecap: round"/>
+    <path d="M 292.963415 191.738059 
+L 298.754995 192.245598 
+L 294.874016 196.574339 
+z
+" clip-path="url(#pfc004416da)" style="fill: #207c80; stroke: #207c80; stroke-width: 1.7; stroke-linecap: round"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 205.562748 272.821644 
+Q 303.43436 295.931624 399.456183 318.604821 
+" clip-path="url(#pfc004416da)" style="fill: none; stroke: #207c80; stroke-width: 1.7; stroke-linecap: round"/>
+    <path d="M 394.992848 314.879416 
+L 399.456183 318.604821 
+L 393.797857 319.940245 
+z
+" clip-path="url(#pfc004416da)" style="fill: #207c80; stroke: #207c80; stroke-width: 1.7; stroke-linecap: round"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #153247" x="359.16768" y="171.69045" transform="rotate(-0 359.16768 171.69045)">Gene</text>
+   </g>
+   <g id="text_2">
+    <text style="font-weight: 700; font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #153247" x="470.6352" y="338.72325" transform="rotate(-0 470.6352 338.72325)">Protein</text>
+   </g>
+   <g id="text_3">
+    <text style="font-weight: 700; font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #153247" x="665.70336" y="338.72325" transform="rotate(-0 665.70336 338.72325)">Disease</text>
+   </g>
+   <g id="text_4">
+    <text style="font-weight: 700; font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #153247" x="136.23264" y="259.76229" transform="rotate(-0 136.23264 259.76229)">Compound</text>
+   </g>
+  </g>
+  <g id="text_5">
+   <text style="font-weight: 700; font-size: 20px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #153247" x="14.4" y="29.596875" transform="rotate(-0 14.4 29.596875)">The exploratory Bayesian network</text>
+  </g>
+  <g id="text_6">
+   <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #586b77" x="14.4" y="45.288759" transform="rotate(-0 14.4 45.288759)">A categorical model built from graph structure and heuristic conditional probability tables.</text>
+  </g>
+  <g id="text_7">
+   <!-- $P(C,G,P,D)=P(C)\,P(G\mid C)\,P(P\mid G,C)\,P(D\mid P)$ -->
+   <g style="fill: #153247" transform="translate(215.498 445.968)">
+    <text>
+     <tspan x="0" y="-0.890625" style="font-style: oblique; font-size: 17px; font-family: 'DejaVu Sans'; fill: #153247">P</tspan>
+     <tspan x="16.883789" y="-0.890625" style="font-style: oblique; font-size: 17px; font-family: 'DejaVu Sans'; fill: #153247">C</tspan>
+     <tspan x="37.469727" y="-0.890625" style="font-style: oblique; font-size: 17px; font-family: 'DejaVu Sans'; fill: #153247">G</tspan>
+     <tspan x="59.358887" y="-0.890625" style="font-style: oblique; font-size: 17px; font-family: 'DejaVu Sans'; fill: #153247">P</tspan>
+     <tspan x="78.326172" y="-0.890625" style="font-style: oblique; font-size: 17px; font-family: 'DejaVu Sans'; fill: #153247">D</tspan>
+     <tspan x="118.916992" y="-0.890625" style="font-style: oblique; font-size: 17px; font-family: 'DejaVu Sans'; fill: #153247">P</tspan>
+     <tspan x="135.800781" y="-0.890625" style="font-style: oblique; font-size: 17px; font-family: 'DejaVu Sans'; fill: #153247">C</tspan>
+     <tspan x="157.063288" y="-0.890625" style="font-style: oblique; font-size: 17px; font-family: 'DejaVu Sans'; fill: #153247">P</tspan>
+     <tspan x="173.947077" y="-0.890625" style="font-style: oblique; font-size: 17px; font-family: 'DejaVu Sans'; fill: #153247">G</tspan>
+     <tspan x="202.24444" y="-0.890625" style="font-style: oblique; font-size: 17px; font-family: 'DejaVu Sans'; fill: #153247">C</tspan>
+     <tspan x="223.506946" y="-0.890625" style="font-style: oblique; font-size: 17px; font-family: 'DejaVu Sans'; fill: #153247">P</tspan>
+     <tspan x="240.390735" y="-0.890625" style="font-style: oblique; font-size: 17px; font-family: 'DejaVu Sans'; fill: #153247">P</tspan>
+     <tspan x="265.766224" y="-0.890625" style="font-style: oblique; font-size: 17px; font-family: 'DejaVu Sans'; fill: #153247">G</tspan>
+     <tspan x="287.655384" y="-0.890625" style="font-style: oblique; font-size: 17px; font-family: 'DejaVu Sans'; fill: #153247">C</tspan>
+     <tspan x="308.91789" y="-0.890625" style="font-style: oblique; font-size: 17px; font-family: 'DejaVu Sans'; fill: #153247">P</tspan>
+     <tspan x="325.801679" y="-0.890625" style="font-style: oblique; font-size: 17px; font-family: 'DejaVu Sans'; fill: #153247">D</tspan>
+     <tspan x="354.016035" y="-0.890625" style="font-style: oblique; font-size: 17px; font-family: 'DejaVu Sans'; fill: #153247">P</tspan>
+     <tspan x="10.251465" y="-0.890625" style="font-size: 17px; font-family: 'DejaVu Sans'; fill: #153247">(</tspan>
+     <tspan x="28.753906" y="-0.890625" style="font-size: 17px; font-family: 'DejaVu Sans'; fill: #153247">,</tspan>
+     <tspan x="50.643066" y="-0.890625" style="font-size: 17px; font-family: 'DejaVu Sans'; fill: #153247">,</tspan>
+     <tspan x="69.610352" y="-0.890625" style="font-size: 17px; font-family: 'DejaVu Sans'; fill: #153247">,</tspan>
+     <tspan x="91.416504" y="-0.890625" style="font-size: 17px; font-family: 'DejaVu Sans'; fill: #153247">)</tspan>
+     <tspan x="101.36084" y="-0.890625" style="font-size: 17px; font-family: 'DejaVu Sans'; fill: #153247">=</tspan>
+     <tspan x="129.168457" y="-0.890625" style="font-size: 17px; font-family: 'DejaVu Sans'; fill: #153247">(</tspan>
+     <tspan x="147.670898" y="-0.890625" style="font-size: 17px; font-family: 'DejaVu Sans'; fill: #153247">)</tspan>
+     <tspan x="167.314752" y="-0.890625" style="font-size: 17px; font-family: 'DejaVu Sans'; fill: #153247">(</tspan>
+     <tspan x="190.432428" y="-0.890625" style="font-size: 17px; font-family: 'DejaVu Sans'; fill: #153247">∣</tspan>
+     <tspan x="214.114557" y="-0.890625" style="font-size: 17px; font-family: 'DejaVu Sans'; fill: #153247">)</tspan>
+     <tspan x="233.758411" y="-0.890625" style="font-size: 17px; font-family: 'DejaVu Sans'; fill: #153247">(</tspan>
+     <tspan x="253.954212" y="-0.890625" style="font-size: 17px; font-family: 'DejaVu Sans'; fill: #153247">∣</tspan>
+     <tspan x="278.939564" y="-0.890625" style="font-size: 17px; font-family: 'DejaVu Sans'; fill: #153247">,</tspan>
+     <tspan x="299.525501" y="-0.890625" style="font-size: 17px; font-family: 'DejaVu Sans'; fill: #153247">)</tspan>
+     <tspan x="319.169355" y="-0.890625" style="font-size: 17px; font-family: 'DejaVu Sans'; fill: #153247">(</tspan>
+     <tspan x="342.204023" y="-0.890625" style="font-size: 17px; font-family: 'DejaVu Sans'; fill: #153247">∣</tspan>
+     <tspan x="364.2675" y="-0.890625" style="font-size: 17px; font-family: 'DejaVu Sans'; fill: #153247">)</tspan>
+    </text>
+   </g>
+  </g>
+  <g id="text_8">
+   <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #586b77" x="14.4" y="515.062666" transform="rotate(-0 14.4 515.062666)">Source: Assessment 2 cells 38–39. Arrows describe the implemented model; they do not establish biological causation or treatment efficacy.</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pfc004416da">
+   <rect x="52.632" y="107.64" width="696.672" height="303.696"/>
+  </clipPath>
+ </defs>
+</svg>

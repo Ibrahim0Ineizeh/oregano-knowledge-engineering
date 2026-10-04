@@ -1,0 +1,9 @@
+slug,title,nodes,edges,source_notebook,source_cell
+ontology,Ontology schema,11,18,assessment_1,41
+efficacy_sample,Efficacy relation sample,1169,1000,assessment_1,93
+gene_disease_sample,Gene–disease relation sample,799,500,assessment_1,93
+general_sample,General knowledge graph sample,2394,1500,assessment_1,93
+compound_1,Arsenic trioxide neighbourhood,529,702,assessment_2,32
+compound_2,Desmopressin neighbourhood,202,219,assessment_2,33
+compound_3,Mifepristone neighbourhood,697,1043,assessment_2,34
+bayesian_network,Bayesian network structure,4,4,assessment_2,38

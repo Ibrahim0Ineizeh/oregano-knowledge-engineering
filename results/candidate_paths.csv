@@ -1,0 +1,4 @@
+compound_id,compound_label,protein_id,gene_id,disease_id,disease_label,disease_mesh,disease_umls,indication_code,indication_label,source_notebook,source_cell,status
+COMPOUND_1149,Arsenic trioxide,PROTEIN_1617,GENE_31050,DISEASE_1831,Acute Promyelocytic Leukemia,D015473,C0023487,C0023487,Acute Promyelocytic Leukemia,assessment_2,30,"Recorded graph path and code match; recorded indication association, without independent clinical validation."
+COMPOUND_34,Desmopressin,PROTEIN_72,GENE_31469,DISEASE_823,Nephrogenic Diabetes Insipidus,D018500,C0162283,C0162283,Nephrogenic Diabetes Insipidus,assessment_2,30,"Recorded graph path and code match; recorded indication association, without independent clinical validation."
+COMPOUND_817,Mifepristone,PROTEIN_770,GENE_28425,DISEASE_2526,Cushing Syndrome,D047748,C0010481,C0010481,Cushing Syndrome,assessment_2,30,"Recorded graph path and code match; recorded indication association, without independent clinical validation."

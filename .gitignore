@@ -1,0 +1,10 @@
+.DS_Store
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+.env
+*.owl
+data/*.tsv
+data/*.zip
+visualizations/generated/
+tmp/

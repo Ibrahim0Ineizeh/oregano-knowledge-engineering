@@ -1,0 +1,2764 @@
+{
+  "slug": "compound_2",
+  "title": "Desmopressin neighbourhood",
+  "subtitle": "Saved three-level neighbourhood; recorded path nodes are shown as diamonds.",
+  "source_notebook": "assessment_2",
+  "source_cell": 33,
+  "nodes": [
+    {
+      "color": "gray",
+      "id": "INDICATION_2452",
+      "label": "INDICATION_2452",
+      "shape": "dot",
+      "title": "INDICATION_2452/Central Diabetes Insipidus"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_15",
+      "label": "SIDE_EFFECT_15",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_15/Chest pain"
+    },
+    {
+      "color": null,
+      "id": "GENE_31388",
+      "label": "GENE_31388",
+      "shape": "dot",
+      "title": "GENE_31388/ "
+    },
+    {
+      "color": "gray",
+      "id": "INDICATION_1625",
+      "label": "INDICATION_1625",
+      "shape": "dot",
+      "title": "INDICATION_1625/Nocturia"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_281",
+      "label": "SIDE_EFFECT_281",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_281/Vasodilation procedure"
+    },
+    {
+      "color": "yellow",
+      "id": "EFFECT_5",
+      "label": "EFFECT_5",
+      "shape": "dot",
+      "title": "EFFECT_5/ adverse effects "
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_1916",
+      "label": "SIDE_EFFECT_1916",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_1916/Water intoxication"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_41",
+      "label": "SIDE_EFFECT_41",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_41/Muscle spasms"
+    },
+    {
+      "color": "yellow",
+      "id": "EFFECT_33",
+      "label": "EFFECT_33",
+      "shape": "dot",
+      "title": "EFFECT_33/ hypertension, hyponatremia, and water intoxication "
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_177",
+      "label": "SIDE_EFFECT_177",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_177/Shock"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_301",
+      "label": "SIDE_EFFECT_301",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_301/Hyperkinesia"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_81",
+      "label": "SIDE_EFFECT_81",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_81/Urticaria"
+    },
+    {
+      "color": "gray",
+      "id": "INDICATION_2455",
+      "label": "INDICATION_2455",
+      "shape": "dot",
+      "title": "INDICATION_2455/Primary nocturnal enuresis"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_53",
+      "label": "SIDE_EFFECT_53",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_53/Convulsion"
+    },
+    {
+      "color": "purple",
+      "id": "ACTIVITY_7",
+      "label": "ACTIVITY_7",
+      "shape": "dot",
+      "title": "ACTIVITY_7/ the excretion rate "
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_175",
+      "label": "SIDE_EFFECT_175",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_175/Syncope"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_375",
+      "label": "SIDE_EFFECT_375",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_375/Coma"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_48",
+      "label": "SIDE_EFFECT_48",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_48/Paraesthesia"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_280",
+      "label": "SIDE_EFFECT_280",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_280/Vasodilation"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_5124",
+      "label": "SIDE_EFFECT_5124",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_5124/Aspartate aminotransferase normal"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_3883",
+      "label": "SIDE_EFFECT_3883",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_3883/Pain burning"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_610",
+      "label": "SIDE_EFFECT_610",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_610/Aggression"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_392",
+      "label": "SIDE_EFFECT_392",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_392/Balanitis"
+    },
+    {
+      "color": "yellow",
+      "id": "EFFECT_32",
+      "label": "EFFECT_32",
+      "shape": "dot",
+      "title": "EFFECT_32/ hyponatremia and water intoxication "
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_2529",
+      "label": "SIDE_EFFECT_2529",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_2529/Hyponatraemic"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_16",
+      "label": "SIDE_EFFECT_16",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_16/Infection"
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_487",
+      "label": "PATHWAY_487",
+      "shape": "dot",
+      "title": "PATHWAY_487/ "
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_5126",
+      "label": "SIDE_EFFECT_5126",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_5126/Antidiuresis"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_707",
+      "label": "SIDE_EFFECT_707",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_707/Nightmare"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_253",
+      "label": "SIDE_EFFECT_253",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_253/Connective tissue disorder"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_44",
+      "label": "SIDE_EFFECT_44",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_44/Nausea"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_8",
+      "label": "SIDE_EFFECT_8",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_8/Anxiety"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_868",
+      "label": "SIDE_EFFECT_868",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_868/Altered state of consciousness"
+    },
+    {
+      "color": "gray",
+      "id": "INDICATION_900",
+      "label": "INDICATION_900",
+      "shape": "dot",
+      "title": "INDICATION_900/Enuresis"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_45",
+      "label": "SIDE_EFFECT_45",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_45/Pain"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_297",
+      "label": "SIDE_EFFECT_297",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_297/Abdominal distension"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_115",
+      "label": "SIDE_EFFECT_115",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_115/Chills"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_52",
+      "label": "SIDE_EFFECT_52",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_52/Rhinitis"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_3",
+      "label": "SIDE_EFFECT_3",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_3/Gastrointestinal pain"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_491",
+      "label": "SIDE_EFFECT_491",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_491/Visual impairment"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_435",
+      "label": "SIDE_EFFECT_435",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_435/Upper respiratory tract infection"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_59",
+      "label": "SIDE_EFFECT_59",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_59/Vomiting"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_299",
+      "label": "SIDE_EFFECT_299",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_299/Influenza like illness"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_1732",
+      "label": "SIDE_EFFECT_1732",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_1732/Abnormal behaviour"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_2",
+      "label": "SIDE_EFFECT_2",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_2/Abdominal pain"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_265",
+      "label": "SIDE_EFFECT_265",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_265/Mediastinal disorder"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_36",
+      "label": "SIDE_EFFECT_36",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_36/Hypersensitivity"
+    },
+    {
+      "color": "gray",
+      "id": "INDICATION_167",
+      "label": "INDICATION_167",
+      "shape": "dot",
+      "title": "INDICATION_167/Hemorrhage"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_724",
+      "label": "SIDE_EFFECT_724",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_724/Respiratory tract infection"
+    },
+    {
+      "color": "gray",
+      "id": "INDICATION_2453",
+      "label": "INDICATION_2453",
+      "shape": "dot",
+      "title": "INDICATION_2453/Nocturnal polyuria"
+    },
+    {
+      "color": null,
+      "id": "GENE_31433",
+      "label": "GENE_31433",
+      "shape": "dot",
+      "title": "GENE_31433/ "
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_790",
+      "label": "SIDE_EFFECT_790",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_790/Disturbance in attention"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_810",
+      "label": "SIDE_EFFECT_810",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_810/Hepatic enzyme increased"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_4798",
+      "label": "SIDE_EFFECT_4798",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_4798/Anxiety symptoms NOS"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_57",
+      "label": "SIDE_EFFECT_57",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_57/Angiopathy"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_100",
+      "label": "SIDE_EFFECT_100",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_100/Nervousness"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_535",
+      "label": "SIDE_EFFECT_535",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_535/Depressed level of consciousness"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_39",
+      "label": "SIDE_EFFECT_39",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_39/Influenza"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_1066",
+      "label": "SIDE_EFFECT_1066",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_1066/Abdominal bloating"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_27",
+      "label": "SIDE_EFFECT_27",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_27/Eye disorder"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_75",
+      "label": "SIDE_EFFECT_75",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_75/Insomnia"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_309",
+      "label": "SIDE_EFFECT_309",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_309/Somnolence"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_799",
+      "label": "SIDE_EFFECT_799",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_799/Memory impairment"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_244",
+      "label": "SIDE_EFFECT_244",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_244/Hyperhidrosis"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_178",
+      "label": "SIDE_EFFECT_178",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_178/Confusional state"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_114",
+      "label": "SIDE_EFFECT_114",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_114/Erythema"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_322",
+      "label": "SIDE_EFFECT_322",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_322/Nasal congestion"
+    },
+    {
+      "color": "gray",
+      "id": "INDICATION_1471",
+      "label": "INDICATION_1471",
+      "shape": "dot",
+      "title": "INDICATION_1471/Menorrhagia"
+    },
+    {
+      "color": "pink",
+      "id": "DISEASE_12376",
+      "label": "DISEASE_12376",
+      "shape": "dot",
+      "title": "DISEASE_12376/ "
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_251",
+      "label": "PATHWAY_251",
+      "shape": "dot",
+      "title": "PATHWAY_251/ "
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_50",
+      "label": "SIDE_EFFECT_50",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_50/Pruritus"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_21",
+      "label": "SIDE_EFFECT_21",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_21/Dizziness"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_340",
+      "label": "SIDE_EFFECT_340",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_340/Mood swings"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_99",
+      "label": "SIDE_EFFECT_99",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_99/Nervous system disorder"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_935",
+      "label": "SIDE_EFFECT_935",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_935/Emotional disorder"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_1",
+      "label": "SIDE_EFFECT_1",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_1/Abdominal cramps"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_972",
+      "label": "SIDE_EFFECT_972",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_972/Thrombosis"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_934",
+      "label": "SIDE_EFFECT_934",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_934/Emotional disturbance NOS"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_637",
+      "label": "SIDE_EFFECT_637",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_637/Conjunctivitis"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_595",
+      "label": "SIDE_EFFECT_595",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_595/Hyponatraemia"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_18",
+      "label": "SIDE_EFFECT_18",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_18/Cough"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_430",
+      "label": "SIDE_EFFECT_430",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_430/Swelling"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_55",
+      "label": "SIDE_EFFECT_55",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_55/Tachycardia"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_193",
+      "label": "SIDE_EFFECT_193",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_193/Dehydration"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_203",
+      "label": "SIDE_EFFECT_203",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_203/Immune system disorder"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_176",
+      "label": "SIDE_EFFECT_176",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_176/Loss of consciousness"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_657",
+      "label": "SIDE_EFFECT_657",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_657/Enuresis"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_650",
+      "label": "SIDE_EFFECT_650",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_650/Dermatitis atopic"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_58",
+      "label": "SIDE_EFFECT_58",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_58/Vertigo"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_17",
+      "label": "SIDE_EFFECT_17",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_17/Constipation"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_164",
+      "label": "SIDE_EFFECT_164",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_164/Wheezing"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_388",
+      "label": "SIDE_EFFECT_388",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_388/Water retention"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_60",
+      "label": "SIDE_EFFECT_60",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_60/Weight increased"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_1089",
+      "label": "SIDE_EFFECT_1089",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_1089/Oropharyngeal discomfort"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_523",
+      "label": "SIDE_EFFECT_523",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_523/Urinary tract disorder"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_28",
+      "label": "SIDE_EFFECT_28",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_28/Body temperature increased"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_199",
+      "label": "SIDE_EFFECT_199",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_199/Flushing"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_278",
+      "label": "SIDE_EFFECT_278",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_278/Sweating"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_5125",
+      "label": "SIDE_EFFECT_5125",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_5125/Rash both legs"
+    },
+    {
+      "color": "green",
+      "id": "COMPOUND_12243",
+      "label": "COMPOUND_12243",
+      "shape": "dot",
+      "title": "COMPOUND_12243/Lithium_hydroxide"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_389",
+      "label": "SIDE_EFFECT_389",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_389/Fluid retention"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_37",
+      "label": "SIDE_EFFECT_37",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_37/Hypertension"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_101",
+      "label": "SIDE_EFFECT_101",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_101/Tension"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_379",
+      "label": "SIDE_EFFECT_379",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_379/Irritability"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_206",
+      "label": "SIDE_EFFECT_206",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_206/Cramp muscle"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_1371",
+      "label": "SIDE_EFFECT_1371",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_1371/Nasal discomfort"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_264",
+      "label": "SIDE_EFFECT_264",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_264/Orthostatic hypotension"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_795",
+      "label": "SIDE_EFFECT_795",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_795/Mental disability"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_690",
+      "label": "SIDE_EFFECT_690",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_690/Inappropriate antidiuretic hormone secretion"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_670",
+      "label": "SIDE_EFFECT_670",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_670/Gastroenteritis"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_31",
+      "label": "SIDE_EFFECT_31",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_31/Headache"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_1258",
+      "label": "SIDE_EFFECT_1258",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_1258/Oliguria"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_2139",
+      "label": "SIDE_EFFECT_2139",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_2139/Eye oedema"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_167",
+      "label": "SIDE_EFFECT_167",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_167/Ill-defined disorder"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_166",
+      "label": "SIDE_EFFECT_166",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_166/Feeling abnormal"
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_323",
+      "label": "PATHWAY_323",
+      "shape": "dot",
+      "title": "PATHWAY_323/ "
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_1384",
+      "label": "SIDE_EFFECT_1384",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_1384/Intermittent headache"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_1088",
+      "label": "SIDE_EFFECT_1088",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_1088/Throat sore"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_90",
+      "label": "SIDE_EFFECT_90",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_90/Cardiac disorder"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_314",
+      "label": "SIDE_EFFECT_314",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_314/Hypernatraemia"
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_424",
+      "label": "PATHWAY_424",
+      "shape": "dot",
+      "title": "PATHWAY_424/ "
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_600",
+      "label": "SIDE_EFFECT_600",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_600/Hallucination"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_1090",
+      "label": "SIDE_EFFECT_1090",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_1090/Oropharyngeal pain"
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_1943",
+      "label": "PATHWAY_1943",
+      "shape": "dot",
+      "title": "PATHWAY_1943/ "
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_341",
+      "label": "SIDE_EFFECT_341",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_341/Affect lability"
+    },
+    {
+      "borderWidth": 2,
+      "color": {
+        "background": "red",
+        "border": "#000000"
+      },
+      "id": "PROTEIN_72",
+      "label": "PROTEIN_72",
+      "shape": "diamond",
+      "size": 80,
+      "title": "PROTEIN_72/ "
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_524",
+      "label": "SIDE_EFFECT_524",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_524/Malnutrition"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_87",
+      "label": "SIDE_EFFECT_87",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_87/Oedema"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_378",
+      "label": "SIDE_EFFECT_378",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_378/Hypokalaemia"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_25",
+      "label": "SIDE_EFFECT_25",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_25/Rash"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_30",
+      "label": "SIDE_EFFECT_30",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_30/Gastrointestinal disorder"
+    },
+    {
+      "color": "pink",
+      "id": "DISEASE_14049",
+      "label": "DISEASE_14049",
+      "shape": "dot",
+      "title": "DISEASE_14049/ "
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_1065",
+      "label": "SIDE_EFFECT_1065",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_1065/Blood pressure fluctuation"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_436",
+      "label": "SIDE_EFFECT_436",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_436/Urethral disorder"
+    },
+    {
+      "color": "green",
+      "id": "COMPOUND_5463",
+      "label": "COMPOUND_5463",
+      "shape": "dot",
+      "title": "COMPOUND_5463/Tolvaptan"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_834",
+      "label": "SIDE_EFFECT_834",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_834/Depressed mood"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_257",
+      "label": "SIDE_EFFECT_257",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_257/Epistaxis"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_4012",
+      "label": "SIDE_EFFECT_4012",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_4012/Painful respiration"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_789",
+      "label": "SIDE_EFFECT_789",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_789/Increased appetite"
+    },
+    {
+      "color": "red",
+      "id": "PROTEIN_73",
+      "label": "PROTEIN_73",
+      "shape": "dot",
+      "title": "PROTEIN_73/ "
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_26",
+      "label": "SIDE_EFFECT_26",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_26/Dermatitis"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_64",
+      "label": "SIDE_EFFECT_64",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_64/Oedema peripheral"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_794",
+      "label": "SIDE_EFFECT_794",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_794/Thinking abnormal"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_565",
+      "label": "SIDE_EFFECT_565",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_565/Drug interaction"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_6",
+      "label": "SIDE_EFFECT_6",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_6/Anorexia"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_23",
+      "label": "SIDE_EFFECT_23",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_23/Dyspepsia"
+    },
+    {
+      "borderWidth": 2,
+      "color": {
+        "background": null,
+        "border": "#000000"
+      },
+      "id": "GENE_31469",
+      "label": "GENE_31469",
+      "shape": "diamond",
+      "size": 80,
+      "title": "GENE_31469/ "
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_70",
+      "label": "SIDE_EFFECT_70",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_70/Myalgia"
+    },
+    {
+      "color": "red",
+      "id": "PROTEIN_74",
+      "label": "PROTEIN_74",
+      "shape": "dot",
+      "title": "PROTEIN_74/ "
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_71",
+      "label": "SIDE_EFFECT_71",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_71/Musculoskeletal discomfort"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_126",
+      "label": "SIDE_EFFECT_126",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_126/Unspecified disorder of skin and subcutaneous tissue"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_85",
+      "label": "SIDE_EFFECT_85",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_85/Mental disorder"
+    },
+    {
+      "color": "gray",
+      "id": "INDICATION_2448",
+      "label": "INDICATION_2448",
+      "shape": "dot",
+      "title": "INDICATION_2448/von Willebrand Disease"
+    },
+    {
+      "color": "gray",
+      "id": "INDICATION_274",
+      "label": "INDICATION_274",
+      "shape": "dot",
+      "title": "INDICATION_274/Diuresis"
+    },
+    {
+      "color": "green",
+      "id": "COMPOUND_12244",
+      "label": "COMPOUND_12244",
+      "shape": "dot",
+      "title": "COMPOUND_12244/Lithium_citrate"
+    },
+    {
+      "color": "green",
+      "id": "COMPOUND_12246",
+      "label": "COMPOUND_12246",
+      "shape": "dot",
+      "title": "COMPOUND_12246/Lithium_carbonate"
+    },
+    {
+      "color": "gray",
+      "id": "INDICATION_564",
+      "label": "INDICATION_564",
+      "shape": "dot",
+      "title": "INDICATION_564/Traumatic injury"
+    },
+    {
+      "color": "gray",
+      "id": "INDICATION_2447",
+      "label": "INDICATION_2447",
+      "shape": "dot",
+      "title": "INDICATION_2447/Rhinitis, Atrophic"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_129",
+      "label": "SIDE_EFFECT_129",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_129/Discomfort"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_1064",
+      "label": "SIDE_EFFECT_1064",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_1064/Change in blood pressure"
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_1985",
+      "label": "PATHWAY_1985",
+      "shape": "dot",
+      "title": "PATHWAY_1985/ "
+    },
+    {
+      "color": "gray",
+      "id": "INDICATION_1175",
+      "label": "INDICATION_1175",
+      "shape": "dot",
+      "title": "INDICATION_1175/Diabetes Insipidus"
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_1986",
+      "label": "PATHWAY_1986",
+      "shape": "dot",
+      "title": "PATHWAY_1986/ "
+    },
+    {
+      "borderWidth": 2,
+      "color": {
+        "background": "green",
+        "border": "#000000"
+      },
+      "id": "COMPOUND_34",
+      "label": "COMPOUND_34",
+      "shape": "diamond",
+      "size": 80,
+      "title": "COMPOUND_34/Desmopressin"
+    },
+    {
+      "color": "gray",
+      "id": "INDICATION_818",
+      "label": "INDICATION_818",
+      "shape": "dot",
+      "title": "INDICATION_818/Increased frequency of micturition"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_10",
+      "label": "SIDE_EFFECT_10",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_10/Asthenia"
+    },
+    {
+      "color": "green",
+      "id": "COMPOUND_604",
+      "label": "COMPOUND_604",
+      "shape": "dot",
+      "title": "COMPOUND_604/Demeclocycline"
+    },
+    {
+      "color": "gray",
+      "id": "INDICATION_119",
+      "label": "INDICATION_119",
+      "shape": "dot",
+      "title": "INDICATION_119/Wounds and Injuries"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_7",
+      "label": "SIDE_EFFECT_7",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_7/Decreased appetite"
+    },
+    {
+      "color": "gray",
+      "id": "INDICATION_2456",
+      "label": "INDICATION_2456",
+      "shape": "dot",
+      "title": "INDICATION_2456/Mucosal bleeding"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_19",
+      "label": "SIDE_EFFECT_19",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_19/Depression"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_20",
+      "label": "SIDE_EFFECT_20",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_20/Diarrhoea"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_46",
+      "label": "SIDE_EFFECT_46",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_46/Palpitations"
+    },
+    {
+      "borderWidth": 2,
+      "color": {
+        "background": "gray",
+        "border": "#000000"
+      },
+      "id": "INDICATION_2449",
+      "label": "INDICATION_2449",
+      "shape": "diamond",
+      "size": 80,
+      "title": "INDICATION_2449/Nephrogenic Diabetes Insipidus"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_160",
+      "label": "SIDE_EFFECT_160",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_160/Fatigue"
+    },
+    {
+      "color": "gray",
+      "id": "INDICATION_1183",
+      "label": "INDICATION_1183",
+      "shape": "dot",
+      "title": "INDICATION_1183/Polydipsia"
+    },
+    {
+      "color": "purple",
+      "id": "ACTIVITY_14",
+      "label": "ACTIVITY_14",
+      "shape": "dot",
+      "title": "ACTIVITY_14/ the antihypertensive activities "
+    },
+    {
+      "color": "purple",
+      "id": "ACTIVITY_15",
+      "label": "ACTIVITY_15",
+      "shape": "dot",
+      "title": "ACTIVITY_15/ the hypertensive activities "
+    },
+    {
+      "color": "gray",
+      "id": "INDICATION_2273",
+      "label": "INDICATION_2273",
+      "shape": "dot",
+      "title": "INDICATION_2273/Hemophilia A"
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_778",
+      "label": "PATHWAY_778",
+      "shape": "dot",
+      "title": "PATHWAY_778/ "
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_285",
+      "label": "SIDE_EFFECT_285",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_285/Agitation"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_79",
+      "label": "SIDE_EFFECT_79",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_79/Anaphylactic shock"
+    },
+    {
+      "color": "gray",
+      "id": "INDICATION_2451",
+      "label": "INDICATION_2451",
+      "shape": "dot",
+      "title": "INDICATION_2451/Plasma osmolality decreased"
+    },
+    {
+      "color": "gray",
+      "id": "INDICATION_901",
+      "label": "INDICATION_901",
+      "shape": "dot",
+      "title": "INDICATION_901/Bedwetting"
+    },
+    {
+      "color": "gray",
+      "id": "INDICATION_719",
+      "label": "INDICATION_719",
+      "shape": "dot",
+      "title": "INDICATION_719/Nasal congestion (finding)"
+    },
+    {
+      "color": "gray",
+      "id": "INDICATION_731",
+      "label": "INDICATION_731",
+      "shape": "dot",
+      "title": "INDICATION_731/Rhinorrhea"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_165",
+      "label": "SIDE_EFFECT_165",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_165/Malaise"
+    },
+    {
+      "color": "gray",
+      "id": "INDICATION_2445",
+      "label": "INDICATION_2445",
+      "shape": "dot",
+      "title": "INDICATION_2445/Hemophilia B"
+    },
+    {
+      "color": "yellow",
+      "id": "EFFECT_31",
+      "label": "EFFECT_31",
+      "shape": "dot",
+      "title": "EFFECT_31/ hypertension "
+    },
+    {
+      "color": "gray",
+      "id": "INDICATION_2454",
+      "label": "INDICATION_2454",
+      "shape": "dot",
+      "title": "INDICATION_2454/Nasal mucosa atrophy"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_258",
+      "label": "SIDE_EFFECT_258",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_258/Flatulence"
+    },
+    {
+      "color": null,
+      "id": "GENE_5823",
+      "label": "GENE_5823",
+      "shape": "dot",
+      "title": "GENE_5823/ "
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_24",
+      "label": "SIDE_EFFECT_24",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_24/Dyspnoea"
+    },
+    {
+      "color": "gray",
+      "id": "INDICATION_1018",
+      "label": "INDICATION_1018",
+      "shape": "dot",
+      "title": "INDICATION_1018/Craniocerebral Trauma"
+    },
+    {
+      "borderWidth": 2,
+      "color": {
+        "background": "pink",
+        "border": "#000000"
+      },
+      "id": "DISEASE_823",
+      "label": "DISEASE_823",
+      "shape": "diamond",
+      "size": 80,
+      "title": "DISEASE_823/ "
+    },
+    {
+      "color": "yellow",
+      "id": "EFFECT_30",
+      "label": "EFFECT_30",
+      "shape": "dot",
+      "title": "EFFECT_30/ hyponatremia "
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_120",
+      "label": "SIDE_EFFECT_120",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_120/Aspartate aminotransferase increased"
+    },
+    {
+      "color": "gray",
+      "id": "INDICATION_1180",
+      "label": "INDICATION_1180",
+      "shape": "dot",
+      "title": "INDICATION_1180/Polyuria"
+    },
+    {
+      "color": "gray",
+      "id": "INDICATION_2446",
+      "label": "INDICATION_2446",
+      "shape": "dot",
+      "title": "INDICATION_2446/Hemarthrosis"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_106",
+      "label": "SIDE_EFFECT_106",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_106/Skin disorder"
+    },
+    {
+      "color": "gray",
+      "id": "INDICATION_2450",
+      "label": "INDICATION_2450",
+      "shape": "dot",
+      "title": "INDICATION_2450/Muscle hematoma"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_2280",
+      "label": "SIDE_EFFECT_2280",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_2280/Acute myocardial infarction"
+    }
+  ],
+  "edges": [
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_392"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_indication",
+      "to": "INDICATION_818"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_430"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_264"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "increase_effect",
+      "to": "EFFECT_31"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_indication",
+      "to": "INDICATION_2456"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_57"
+    },
+    {
+      "arrows": "to",
+      "from": "PROTEIN_73",
+      "title": "gene_product_of",
+      "to": "GENE_31388"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_2139"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_indication",
+      "to": "INDICATION_900"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_99"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_707"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_129"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_314"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_297"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_31469",
+      "title": "acts_within",
+      "to": "PATHWAY_487"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_278"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_378"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_50"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_31388",
+      "title": "acts_within",
+      "to": "PATHWAY_1943"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_795"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_31388",
+      "title": "acts_within",
+      "to": "PATHWAY_323"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_indication",
+      "to": "INDICATION_2273"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_175"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_12244",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_34"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_4012"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_724"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_indication",
+      "to": "INDICATION_901"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_167"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_281"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_indication",
+      "to": "INDICATION_731"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_810"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_53"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_535"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_23"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_activity",
+      "to": "ACTIVITY_14"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_indication",
+      "to": "INDICATION_1471"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_160"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_12246"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_3"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_789"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_79"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_1"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_indication",
+      "to": "INDICATION_2446"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_44"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_39"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_64"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_595"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_436"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_193"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_25"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_258"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_106"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_114"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_565"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_24"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_effect",
+      "to": "EFFECT_30"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_301"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_375"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_389"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_610"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_1371"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_2529"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_indication",
+      "to": "INDICATION_119"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_670"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_21"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_1088"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_972"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_1064"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_1090"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_71"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_31469",
+      "title": "acts_within",
+      "to": "PATHWAY_424"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_31469",
+      "title": "causes_condition",
+      "to": "DISEASE_14049"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_48"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "increase_activity",
+      "to": "ACTIVITY_7"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_effect",
+      "to": "EFFECT_33"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_target",
+      "to": "PROTEIN_74"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_1732"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_834"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_indication",
+      "to": "INDICATION_2453"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_indication",
+      "to": "INDICATION_2451"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_31433",
+      "title": "acts_within",
+      "to": "PATHWAY_1985"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_790"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_indication",
+      "to": "INDICATION_719"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_101"
+    },
+    {
+      "arrows": "to",
+      "from": "PROTEIN_72",
+      "title": "gene_product_of",
+      "to": "GENE_31469"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_indication",
+      "to": "INDICATION_2445"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_199"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_12243",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_34"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "is_affecting",
+      "to": "GENE_5823"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "increase_effect",
+      "to": "EFFECT_32"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_1065"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_8"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_799"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_indication",
+      "to": "INDICATION_1018"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_12244"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_165"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_31469",
+      "title": "acts_within",
+      "to": "PATHWAY_1986"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_31433",
+      "title": "acts_within",
+      "to": "PATHWAY_1943"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_166"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_935"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_5463",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_34"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_indication",
+      "to": "INDICATION_1180"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_activity",
+      "to": "ACTIVITY_7"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_30"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_637"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_2"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_31433",
+      "title": "acts_within",
+      "to": "PATHWAY_323"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_indication",
+      "to": "INDICATION_1625"
+    },
+    {
+      "arrows": "to",
+      "from": "PROTEIN_74",
+      "title": "gene_product_of",
+      "to": "GENE_31433"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_58"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_59"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_1089"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_effect",
+      "to": "EFFECT_31"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_265"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_3883"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_indication",
+      "to": "INDICATION_1175"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_70"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_75"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_206"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_126"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_26"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_690"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_31469",
+      "title": "acts_within",
+      "to": "PATHWAY_778"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "decrease_activity",
+      "to": "ACTIVITY_14"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "increase_activity",
+      "to": "ACTIVITY_15"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_5126"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_5463"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_85"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_868"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_491"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_indication",
+      "to": "INDICATION_1183"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_299"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_176"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_15"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_17"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_18"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_203"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_10"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_37"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_19"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "increase_effect",
+      "to": "EFFECT_5"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_604",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_34"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_435"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_81"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_524"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_280"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_1066"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_253"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_16"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_322"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_31"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_indication",
+      "to": "INDICATION_2450"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_12243"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_target",
+      "to": "PROTEIN_72"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_115"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_650"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_1916"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_indication",
+      "to": "INDICATION_274"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_388"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_indication",
+      "to": "INDICATION_2447"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_340"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_257"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_36"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_2280"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_5125"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_27"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_285"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_379"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_31388",
+      "title": "acts_within",
+      "to": "PATHWAY_1985"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_244"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_target",
+      "to": "PROTEIN_73"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_309"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_6"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "increase_effect",
+      "to": "EFFECT_30"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_55"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_41"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_1384"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_60"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_178"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_600"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_indication",
+      "to": "INDICATION_2449"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "decrease_activity",
+      "to": "ACTIVITY_7"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_effect",
+      "to": "EFFECT_5"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_12246",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_34"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_indication",
+      "to": "INDICATION_167"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_523"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_7"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_31469",
+      "title": "acts_within",
+      "to": "PATHWAY_251"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_46"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_effect",
+      "to": "EFFECT_32"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "increase_effect",
+      "to": "EFFECT_33"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_52"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_177"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_4798"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_341"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_28"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_indication",
+      "to": "INDICATION_2454"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_1258"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_90"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_activity",
+      "to": "ACTIVITY_15"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_31469",
+      "title": "causes_condition",
+      "to": "DISEASE_12376"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_934"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_45"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_604"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_794"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_indication",
+      "to": "INDICATION_2452"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_87"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_657"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_indication",
+      "to": "INDICATION_2455"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_indication",
+      "to": "INDICATION_2448"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_164"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_120"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_indication",
+      "to": "INDICATION_564"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_20"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_100"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_31469",
+      "title": "causes_condition",
+      "to": "DISEASE_823"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_31469",
+      "title": "acts_within",
+      "to": "PATHWAY_1943"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_34",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_5124"
+    }
+  ]
+}

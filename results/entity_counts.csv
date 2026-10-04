@@ -1,0 +1,12 @@
+entity,count,source_notebook,source_cell,evidence
+COMPOUND,90868,assessment_1,33,saved text/html table
+MOLECULE,97,assessment_1,33,saved text/html table
+PROTEIN,21999,assessment_1,33,saved text/html table
+ACTIVITY,78,assessment_1,33,saved text/html table
+EFFECT,171,assessment_1,33,saved text/html table
+GENES,35794,assessment_1,33,saved text/html table
+DISEASES,18333,assessment_1,33,saved text/html table
+PHENOTYPES,11605,assessment_1,33,saved text/html table
+PATHWAYS,2128,assessment_1,33,saved text/html table
+INDICATION,2714,assessment_1,33,saved text/html table
+SIDE_EFFECT,6060,assessment_1,33,saved text/html table

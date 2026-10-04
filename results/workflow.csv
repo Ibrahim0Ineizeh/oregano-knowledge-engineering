@@ -1,0 +1,13 @@
+step,phase,title,detail,source_notebook,source_cells
+1,Build,Prepare the data,"Normalize identifiers; split
+targets into proteins and molecules.",assessment_1,7;8
+2,Build,Construct the ontology,"Create classes, attributes,
+instances, and 17 relations.",assessment_1,9;10;11;12;13;15;16;17;18;20
+3,Explore,Query and visualize,"Count entities and relations;
+inspect coverage and subgraphs.",assessment_1,26;28;33;36;41;92;93
+4,Trace,Follow indirect paths,"Trace compound–protein–gene–disease
+paths and match indication codes.",assessment_2,24;27;28;30
+5,Model,Build a Bayesian model,"Restrict the graph; assign heuristic
+conditional probability tables.",assessment_2,38;41;42;44;46;48;50
+6,Review,Rank and reflect,"Compare saved sample counts;
+check identifiers and limitations.",assessment_2,58;67;74;81;88

@@ -1,0 +1,7951 @@
+{
+  "slug": "compound_1",
+  "title": "Arsenic trioxide neighbourhood",
+  "subtitle": "Saved three-level neighbourhood; recorded path nodes are shown as diamonds.",
+  "source_notebook": "assessment_2",
+  "source_cell": 32,
+  "nodes": [
+    {
+      "color": null,
+      "id": "PATHWAY_502",
+      "label": "PATHWAY_502",
+      "shape": "dot",
+      "title": "PATHWAY_502/ "
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_704",
+      "label": "SIDE_EFFECT_704",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_704/Nasopharyngitis"
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_501",
+      "label": "PATHWAY_501",
+      "shape": "dot",
+      "title": "PATHWAY_501/ "
+    },
+    {
+      "color": "green",
+      "id": "COMPOUND_5739",
+      "label": "COMPOUND_5739",
+      "shape": "dot",
+      "title": "COMPOUND_5739/Sipuleucel-T"
+    },
+    {
+      "color": "red",
+      "id": "PROTEIN_916",
+      "label": "PROTEIN_916",
+      "shape": "dot",
+      "title": "PROTEIN_916/ "
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_500",
+      "label": "PATHWAY_500",
+      "shape": "dot",
+      "title": "PATHWAY_500/ "
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_499",
+      "label": "PATHWAY_499",
+      "shape": "dot",
+      "title": "PATHWAY_499/ "
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_498",
+      "label": "PATHWAY_498",
+      "shape": "dot",
+      "title": "PATHWAY_498/ "
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_497",
+      "label": "PATHWAY_497",
+      "shape": "dot",
+      "title": "PATHWAY_497/ "
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_331",
+      "label": "PATHWAY_331",
+      "shape": "dot",
+      "title": "PATHWAY_331/ "
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_496",
+      "label": "PATHWAY_496",
+      "shape": "dot",
+      "title": "PATHWAY_496/ "
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_495",
+      "label": "PATHWAY_495",
+      "shape": "dot",
+      "title": "PATHWAY_495/ "
+    },
+    {
+      "color": "green",
+      "id": "COMPOUND_7372",
+      "label": "COMPOUND_7372",
+      "shape": "dot",
+      "title": "COMPOUND_7372/Gosogliptin"
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_494",
+      "label": "PATHWAY_494",
+      "shape": "dot",
+      "title": "PATHWAY_494/ "
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_493",
+      "label": "PATHWAY_493",
+      "shape": "dot",
+      "title": "PATHWAY_493/ "
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_492",
+      "label": "PATHWAY_492",
+      "shape": "dot",
+      "title": "PATHWAY_492/ "
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_491",
+      "label": "PATHWAY_491",
+      "shape": "dot",
+      "title": "PATHWAY_491/ "
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_490",
+      "label": "PATHWAY_490",
+      "shape": "dot",
+      "title": "PATHWAY_490/ "
+    },
+    {
+      "color": "red",
+      "id": "PROTEIN_1267",
+      "label": "PROTEIN_1267",
+      "shape": "dot",
+      "title": "PROTEIN_1267/ "
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_485",
+      "label": "PATHWAY_485",
+      "shape": "dot",
+      "title": "PATHWAY_485/ "
+    },
+    {
+      "color": "green",
+      "id": "COMPOUND_7834",
+      "label": "COMPOUND_7834",
+      "shape": "dot",
+      "title": "COMPOUND_7834/Linagliptin"
+    },
+    {
+      "color": "green",
+      "id": "COMPOUND_7985",
+      "label": "COMPOUND_7985",
+      "shape": "dot",
+      "title": "COMPOUND_7985/Albiglutide"
+    },
+    {
+      "color": "green",
+      "id": "COMPOUND_7998",
+      "label": "COMPOUND_7998",
+      "shape": "dot",
+      "title": "COMPOUND_7998/Anthrax_immune_globulin"
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_614",
+      "label": "PATHWAY_614",
+      "shape": "dot",
+      "title": "PATHWAY_614/ "
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_481",
+      "label": "PATHWAY_481",
+      "shape": "dot",
+      "title": "PATHWAY_481/ "
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_613",
+      "label": "PATHWAY_613",
+      "shape": "dot",
+      "title": "PATHWAY_613/ "
+    },
+    {
+      "color": "green",
+      "id": "COMPOUND_7986",
+      "label": "COMPOUND_7986",
+      "shape": "dot",
+      "title": "COMPOUND_7986/Dulaglutide"
+    },
+    {
+      "color": "green",
+      "id": "COMPOUND_8200",
+      "label": "COMPOUND_8200",
+      "shape": "dot",
+      "title": "COMPOUND_8200/Lixisenatide"
+    },
+    {
+      "color": "pink",
+      "id": "DISEASE_13971",
+      "label": "DISEASE_13971",
+      "shape": "dot",
+      "title": "DISEASE_13971/ "
+    },
+    {
+      "color": "green",
+      "id": "COMPOUND_9036",
+      "label": "COMPOUND_9036",
+      "shape": "dot",
+      "title": "COMPOUND_9036/0"
+    },
+    {
+      "color": "green",
+      "id": "COMPOUND_9526",
+      "label": "COMPOUND_9526",
+      "shape": "dot",
+      "title": "COMPOUND_9526/0"
+    },
+    {
+      "color": "red",
+      "id": "PROTEIN_1026",
+      "label": "PROTEIN_1026",
+      "shape": "dot",
+      "title": "PROTEIN_1026/ "
+    },
+    {
+      "color": "green",
+      "id": "COMPOUND_9641",
+      "label": "COMPOUND_9641",
+      "shape": "dot",
+      "title": "COMPOUND_9641/0"
+    },
+    {
+      "color": "green",
+      "id": "COMPOUND_11769",
+      "label": "COMPOUND_11769",
+      "shape": "dot",
+      "title": "COMPOUND_11769/Semaglutide"
+    },
+    {
+      "color": "green",
+      "id": "COMPOUND_11861",
+      "label": "COMPOUND_11861",
+      "shape": "dot",
+      "title": "COMPOUND_11861/Taspoglutide"
+    },
+    {
+      "color": "green",
+      "id": "COMPOUND_12772",
+      "label": "COMPOUND_12772",
+      "shape": "dot",
+      "title": "COMPOUND_12772/Tirzepatide"
+    },
+    {
+      "color": "green",
+      "id": "COMPOUND_212",
+      "label": "COMPOUND_212",
+      "shape": "dot",
+      "title": "COMPOUND_212/Glimepiride"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_446",
+      "label": "SIDE_EFFECT_446",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_446/Tachypnoea"
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_465",
+      "label": "PATHWAY_465",
+      "shape": "dot",
+      "title": "PATHWAY_465/ "
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_592",
+      "label": "PATHWAY_592",
+      "shape": "dot",
+      "title": "PATHWAY_592/ "
+    },
+    {
+      "color": "pink",
+      "id": "DISEASE_15722",
+      "label": "DISEASE_15722",
+      "shape": "dot",
+      "title": "DISEASE_15722/ "
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_1720",
+      "label": "PATHWAY_1720",
+      "shape": "dot",
+      "title": "PATHWAY_1720/ "
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_706",
+      "label": "SIDE_EFFECT_706",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_706/Night sweats"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_118",
+      "label": "SIDE_EFFECT_118",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_118/Gamma-glutamyltransferase increased"
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_446",
+      "label": "PATHWAY_446",
+      "shape": "dot",
+      "title": "PATHWAY_446/ "
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_1705",
+      "label": "PATHWAY_1705",
+      "shape": "dot",
+      "title": "PATHWAY_1705/ "
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_97",
+      "label": "PATHWAY_97",
+      "shape": "dot",
+      "title": "PATHWAY_97/ "
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_127",
+      "label": "PATHWAY_127",
+      "shape": "dot",
+      "title": "PATHWAY_127/ "
+    },
+    {
+      "borderWidth": 2,
+      "color": {
+        "background": "green",
+        "border": "#000000"
+      },
+      "id": "COMPOUND_1149",
+      "label": "COMPOUND_1149",
+      "shape": "diamond",
+      "size": 80,
+      "title": "COMPOUND_1149/Arsenic_trioxide"
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_434",
+      "label": "PATHWAY_434",
+      "shape": "dot",
+      "title": "PATHWAY_434/ "
+    },
+    {
+      "color": "pink",
+      "id": "DISEASE_1325",
+      "label": "DISEASE_1325",
+      "shape": "dot",
+      "title": "DISEASE_1325/ "
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_427",
+      "label": "PATHWAY_427",
+      "shape": "dot",
+      "title": "PATHWAY_427/ "
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_400",
+      "label": "SIDE_EFFECT_400",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_400/Hyperbilirubinaemia"
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_1685",
+      "label": "PATHWAY_1685",
+      "shape": "dot",
+      "title": "PATHWAY_1685/ "
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_183",
+      "label": "SIDE_EFFECT_183",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_183/Abdominal tenderness"
+    },
+    {
+      "color": "red",
+      "id": "PROTEIN_718",
+      "label": "PROTEIN_718",
+      "shape": "dot",
+      "title": "PROTEIN_718/ "
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_408",
+      "label": "PATHWAY_408",
+      "shape": "dot",
+      "title": "PATHWAY_408/ "
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_407",
+      "label": "PATHWAY_407",
+      "shape": "dot",
+      "title": "PATHWAY_407/ "
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_119",
+      "label": "PATHWAY_119",
+      "shape": "dot",
+      "title": "PATHWAY_119/ "
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_401",
+      "label": "PATHWAY_401",
+      "shape": "dot",
+      "title": "PATHWAY_401/ "
+    },
+    {
+      "borderWidth": 2,
+      "color": {
+        "background": null,
+        "border": "#000000"
+      },
+      "id": "GENE_31050",
+      "label": "GENE_31050",
+      "shape": "diamond",
+      "size": 80,
+      "title": "GENE_31050/ "
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_933",
+      "label": "SIDE_EFFECT_933",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_933/Ear disorder"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_140",
+      "label": "SIDE_EFFECT_140",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_140/Dysaesthesia"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_73",
+      "label": "SIDE_EFFECT_73",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_73/Electrocardiogram abnormal"
+    },
+    {
+      "color": null,
+      "id": "GENE_32278",
+      "label": "GENE_32278",
+      "shape": "dot",
+      "title": "GENE_32278/ "
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_1645",
+      "label": "PATHWAY_1645",
+      "shape": "dot",
+      "title": "PATHWAY_1645/ "
+    },
+    {
+      "color": "green",
+      "id": "COMPOUND_8398",
+      "label": "COMPOUND_8398",
+      "shape": "dot",
+      "title": "COMPOUND_8398/0"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_1113",
+      "label": "SIDE_EFFECT_1113",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_1113/Rhonchi"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_343",
+      "label": "SIDE_EFFECT_343",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_343/Ventricular extrasystoles"
+    },
+    {
+      "color": "green",
+      "id": "COMPOUND_4989",
+      "label": "COMPOUND_4989",
+      "shape": "dot",
+      "title": "COMPOUND_4989/Rindopepimut"
+    },
+    {
+      "color": "green",
+      "id": "COMPOUND_29",
+      "label": "COMPOUND_29",
+      "shape": "dot",
+      "title": "COMPOUND_29/Insulin"
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_50",
+      "label": "PATHWAY_50",
+      "shape": "dot",
+      "title": "PATHWAY_50/ "
+    },
+    {
+      "color": "green",
+      "id": "COMPOUND_44",
+      "label": "COMPOUND_44",
+      "shape": "dot",
+      "title": "COMPOUND_44/Insulin_lispro"
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_36",
+      "label": "PATHWAY_36",
+      "shape": "dot",
+      "title": "PATHWAY_36/ "
+    },
+    {
+      "color": "green",
+      "id": "COMPOUND_45",
+      "label": "COMPOUND_45",
+      "shape": "dot",
+      "title": "COMPOUND_45/Insulin_glargine"
+    },
+    {
+      "color": "green",
+      "id": "COMPOUND_4627",
+      "label": "COMPOUND_4627",
+      "shape": "dot",
+      "title": "COMPOUND_4627/0"
+    },
+    {
+      "color": "green",
+      "id": "COMPOUND_68",
+      "label": "COMPOUND_68",
+      "shape": "dot",
+      "title": "COMPOUND_68/Insulin"
+    },
+    {
+      "color": "green",
+      "id": "COMPOUND_274",
+      "label": "COMPOUND_274",
+      "shape": "dot",
+      "title": "COMPOUND_274/Acarbose"
+    },
+    {
+      "color": "green",
+      "id": "COMPOUND_320",
+      "label": "COMPOUND_320",
+      "shape": "dot",
+      "title": "COMPOUND_320/Metformin"
+    },
+    {
+      "color": "green",
+      "id": "COMPOUND_400",
+      "label": "COMPOUND_400",
+      "shape": "dot",
+      "title": "COMPOUND_400/Rosiglitazone"
+    },
+    {
+      "color": "green",
+      "id": "COMPOUND_4962",
+      "label": "COMPOUND_4962",
+      "shape": "dot",
+      "title": "COMPOUND_4962/0"
+    },
+    {
+      "color": "green",
+      "id": "COMPOUND_479",
+      "label": "COMPOUND_479",
+      "shape": "dot",
+      "title": "COMPOUND_479/Miglitol"
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_70",
+      "label": "PATHWAY_70",
+      "shape": "dot",
+      "title": "PATHWAY_70/ "
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_89",
+      "label": "PATHWAY_89",
+      "shape": "dot",
+      "title": "PATHWAY_89/ "
+    },
+    {
+      "color": "green",
+      "id": "COMPOUND_715",
+      "label": "COMPOUND_715",
+      "shape": "dot",
+      "title": "COMPOUND_715/Nateglinide"
+    },
+    {
+      "color": "green",
+      "id": "COMPOUND_8395",
+      "label": "COMPOUND_8395",
+      "shape": "dot",
+      "title": "COMPOUND_8395/0"
+    },
+    {
+      "color": "green",
+      "id": "COMPOUND_897",
+      "label": "COMPOUND_897",
+      "shape": "dot",
+      "title": "COMPOUND_897/Phenformin"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_3133",
+      "label": "SIDE_EFFECT_3133",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_3133/Ketoacidosis"
+    },
+    {
+      "color": "green",
+      "id": "COMPOUND_12211",
+      "label": "COMPOUND_12211",
+      "shape": "dot",
+      "title": "COMPOUND_12211/0"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_1329",
+      "label": "SIDE_EFFECT_1329",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_1329/Faecal incontinence"
+    },
+    {
+      "color": "green",
+      "id": "COMPOUND_12413",
+      "label": "COMPOUND_12413",
+      "shape": "dot",
+      "title": "COMPOUND_12413/0"
+    },
+    {
+      "color": "green",
+      "id": "COMPOUND_1104",
+      "label": "COMPOUND_1104",
+      "shape": "dot",
+      "title": "COMPOUND_1104/Tolbutamide"
+    },
+    {
+      "color": "gray",
+      "id": "INDICATION_33",
+      "label": "INDICATION_33",
+      "shape": "dot",
+      "title": "INDICATION_33/Malignant Neoplasms"
+    },
+    {
+      "color": "green",
+      "id": "COMPOUND_1112",
+      "label": "COMPOUND_1112",
+      "shape": "dot",
+      "title": "COMPOUND_1112/Pioglitazone"
+    },
+    {
+      "color": "green",
+      "id": "COMPOUND_8397",
+      "label": "COMPOUND_8397",
+      "shape": "dot",
+      "title": "COMPOUND_8397/Rotavirus_vaccine"
+    },
+    {
+      "color": "green",
+      "id": "COMPOUND_1180",
+      "label": "COMPOUND_1180",
+      "shape": "dot",
+      "title": "COMPOUND_1180/Bromocriptine"
+    },
+    {
+      "color": "green",
+      "id": "COMPOUND_1231",
+      "label": "COMPOUND_1231",
+      "shape": "dot",
+      "title": "COMPOUND_1231/Gliquidone"
+    },
+    {
+      "color": "green",
+      "id": "COMPOUND_1232",
+      "label": "COMPOUND_1232",
+      "shape": "dot",
+      "title": "COMPOUND_1232/Mitiglinide"
+    },
+    {
+      "color": "green",
+      "id": "COMPOUND_9037",
+      "label": "COMPOUND_9037",
+      "shape": "dot",
+      "title": "COMPOUND_9037/0"
+    },
+    {
+      "color": "green",
+      "id": "COMPOUND_1256",
+      "label": "COMPOUND_1256",
+      "shape": "dot",
+      "title": "COMPOUND_1256/Mecasermin"
+    },
+    {
+      "color": "green",
+      "id": "COMPOUND_1257",
+      "label": "COMPOUND_1257",
+      "shape": "dot",
+      "title": "COMPOUND_1257/Pramlintide"
+    },
+    {
+      "color": "green",
+      "id": "COMPOUND_1266",
+      "label": "COMPOUND_1266",
+      "shape": "dot",
+      "title": "COMPOUND_1266/Glisoxepide"
+    },
+    {
+      "color": "green",
+      "id": "COMPOUND_1276",
+      "label": "COMPOUND_1276",
+      "shape": "dot",
+      "title": "COMPOUND_1276/Insulin_aspart"
+    },
+    {
+      "color": "green",
+      "id": "COMPOUND_1277",
+      "label": "COMPOUND_1277",
+      "shape": "dot",
+      "title": "COMPOUND_1277/Insulin_detemir"
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_31",
+      "label": "PATHWAY_31",
+      "shape": "dot",
+      "title": "PATHWAY_31/ "
+    },
+    {
+      "color": "green",
+      "id": "COMPOUND_1278",
+      "label": "COMPOUND_1278",
+      "shape": "dot",
+      "title": "COMPOUND_1278/Insulin_glulisine"
+    },
+    {
+      "color": "green",
+      "id": "COMPOUND_1620",
+      "label": "COMPOUND_1620",
+      "shape": "dot",
+      "title": "COMPOUND_1620/AICA_ribonucleotide"
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_56",
+      "label": "PATHWAY_56",
+      "shape": "dot",
+      "title": "PATHWAY_56/ "
+    },
+    {
+      "color": "green",
+      "id": "COMPOUND_4793",
+      "label": "COMPOUND_4793",
+      "shape": "dot",
+      "title": "COMPOUND_4793/0"
+    },
+    {
+      "color": "green",
+      "id": "COMPOUND_5516",
+      "label": "COMPOUND_5516",
+      "shape": "dot",
+      "title": "COMPOUND_5516/Dapagliflozin"
+    },
+    {
+      "color": "green",
+      "id": "COMPOUND_12210",
+      "label": "COMPOUND_12210",
+      "shape": "dot",
+      "title": "COMPOUND_12210/0"
+    },
+    {
+      "color": "green",
+      "id": "COMPOUND_7859",
+      "label": "COMPOUND_7859",
+      "shape": "dot",
+      "title": "COMPOUND_7859/Canagliflozin"
+    },
+    {
+      "color": "green",
+      "id": "COMPOUND_7980",
+      "label": "COMPOUND_7980",
+      "shape": "dot",
+      "title": "COMPOUND_7980/Empagliflozin"
+    },
+    {
+      "color": "yellow",
+      "id": "EFFECT_36",
+      "label": "EFFECT_36",
+      "shape": "dot",
+      "title": "EFFECT_36/ hypotension "
+    },
+    {
+      "color": "green",
+      "id": "COMPOUND_13015",
+      "label": "COMPOUND_13015",
+      "shape": "dot",
+      "title": "COMPOUND_13015/0"
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_98",
+      "label": "PATHWAY_98",
+      "shape": "dot",
+      "title": "PATHWAY_98/ "
+    },
+    {
+      "color": "green",
+      "id": "COMPOUND_8676",
+      "label": "COMPOUND_8676",
+      "shape": "dot",
+      "title": "COMPOUND_8676/0"
+    },
+    {
+      "color": "green",
+      "id": "COMPOUND_8133",
+      "label": "COMPOUND_8133",
+      "shape": "dot",
+      "title": "COMPOUND_8133/Lobeglitazone"
+    },
+    {
+      "color": null,
+      "id": "GENE_29344",
+      "label": "GENE_29344",
+      "shape": "dot",
+      "title": "GENE_29344/ "
+    },
+    {
+      "color": "green",
+      "id": "COMPOUND_8136",
+      "label": "COMPOUND_8136",
+      "shape": "dot",
+      "title": "COMPOUND_8136/Ciglitazone"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_337",
+      "label": "SIDE_EFFECT_337",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_337/Ventricular arrhythmia"
+    },
+    {
+      "color": "green",
+      "id": "COMPOUND_8338",
+      "label": "COMPOUND_8338",
+      "shape": "dot",
+      "title": "COMPOUND_8338/0"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_187",
+      "label": "SIDE_EFFECT_187",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_187/Neuropathy"
+    },
+    {
+      "color": "green",
+      "id": "COMPOUND_8388",
+      "label": "COMPOUND_8388",
+      "shape": "dot",
+      "title": "COMPOUND_8388/Insulin_degludec"
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_38",
+      "label": "PATHWAY_38",
+      "shape": "dot",
+      "title": "PATHWAY_38/ "
+    },
+    {
+      "color": "green",
+      "id": "COMPOUND_9696",
+      "label": "COMPOUND_9696",
+      "shape": "dot",
+      "title": "COMPOUND_9696/Allicin"
+    },
+    {
+      "color": "green",
+      "id": "COMPOUND_9742",
+      "label": "COMPOUND_9742",
+      "shape": "dot",
+      "title": "COMPOUND_9742/Ertugliflozin"
+    },
+    {
+      "color": "green",
+      "id": "COMPOUND_10597",
+      "label": "COMPOUND_10597",
+      "shape": "dot",
+      "title": "COMPOUND_10597/Sotagliflozin"
+    },
+    {
+      "color": "green",
+      "id": "COMPOUND_8836",
+      "label": "COMPOUND_8836",
+      "shape": "dot",
+      "title": "COMPOUND_8836/0"
+    },
+    {
+      "color": "green",
+      "id": "COMPOUND_37",
+      "label": "COMPOUND_37",
+      "shape": "dot",
+      "title": "COMPOUND_37/Palifermin"
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_69",
+      "label": "PATHWAY_69",
+      "shape": "dot",
+      "title": "PATHWAY_69/ "
+    },
+    {
+      "color": "green",
+      "id": "COMPOUND_13151",
+      "label": "COMPOUND_13151",
+      "shape": "dot",
+      "title": "COMPOUND_13151/COVID-19_vaccine"
+    },
+    {
+      "color": "yellow",
+      "id": "EFFECT_7",
+      "label": "EFFECT_7",
+      "shape": "dot",
+      "title": "EFFECT_7/ Thrombosis "
+    },
+    {
+      "color": "green",
+      "id": "COMPOUND_8860",
+      "label": "COMPOUND_8860",
+      "shape": "dot",
+      "title": "COMPOUND_8860/0"
+    },
+    {
+      "color": "green",
+      "id": "COMPOUND_9038",
+      "label": "COMPOUND_9038",
+      "shape": "dot",
+      "title": "COMPOUND_9038/0"
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_52",
+      "label": "PATHWAY_52",
+      "shape": "dot",
+      "title": "PATHWAY_52/ "
+    },
+    {
+      "color": "green",
+      "id": "COMPOUND_9547",
+      "label": "COMPOUND_9547",
+      "shape": "dot",
+      "title": "COMPOUND_9547/Hepatitis_B_vaccine"
+    },
+    {
+      "color": "yellow",
+      "id": "EFFECT_5",
+      "label": "EFFECT_5",
+      "shape": "dot",
+      "title": "EFFECT_5/ adverse effects "
+    },
+    {
+      "color": "green",
+      "id": "COMPOUND_12857",
+      "label": "COMPOUND_12857",
+      "shape": "dot",
+      "title": "COMPOUND_12857/Pertussis_vaccine"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_1580",
+      "label": "SIDE_EFFECT_1580",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_1580/Diarrhoea haemorrhagic"
+    },
+    {
+      "color": "green",
+      "id": "COMPOUND_10286",
+      "label": "COMPOUND_10286",
+      "shape": "dot",
+      "title": "COMPOUND_10286/0"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_313",
+      "label": "SIDE_EFFECT_313",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_313/Acidosis"
+    },
+    {
+      "color": "green",
+      "id": "COMPOUND_13778",
+      "label": "COMPOUND_13778",
+      "shape": "dot",
+      "title": "COMPOUND_13778/0"
+    },
+    {
+      "color": "yellow",
+      "id": "EFFECT_35",
+      "label": "EFFECT_35",
+      "shape": "dot",
+      "title": "EFFECT_35/ hypotension and orthostatic hypotension "
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_39",
+      "label": "PATHWAY_39",
+      "shape": "dot",
+      "title": "PATHWAY_39/ "
+    },
+    {
+      "color": "green",
+      "id": "COMPOUND_8677",
+      "label": "COMPOUND_8677",
+      "shape": "dot",
+      "title": "COMPOUND_8677/0"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_2055",
+      "label": "SIDE_EFFECT_2055",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_2055/Pulmonary alveolar haemorrhage"
+    },
+    {
+      "color": "green",
+      "id": "COMPOUND_11858",
+      "label": "COMPOUND_11858",
+      "shape": "dot",
+      "title": "COMPOUND_11858/Typhoid_vaccine"
+    },
+    {
+      "color": "green",
+      "id": "COMPOUND_10457",
+      "label": "COMPOUND_10457",
+      "shape": "dot",
+      "title": "COMPOUND_10457/Tecemotide"
+    },
+    {
+      "color": "green",
+      "id": "COMPOUND_13152",
+      "label": "COMPOUND_13152",
+      "shape": "dot",
+      "title": "COMPOUND_13152/COVID-19_vaccine"
+    },
+    {
+      "color": "green",
+      "id": "COMPOUND_14040",
+      "label": "COMPOUND_14040",
+      "shape": "dot",
+      "title": "COMPOUND_14040/0"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_1357",
+      "label": "SIDE_EFFECT_1357",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_1357/Blister"
+    },
+    {
+      "color": "yellow",
+      "id": "EFFECT_34",
+      "label": "EFFECT_34",
+      "shape": "dot",
+      "title": "EFFECT_34/ orthostatic hypotension and syncope "
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_142",
+      "label": "PATHWAY_142",
+      "shape": "dot",
+      "title": "PATHWAY_142/ "
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_123",
+      "label": "SIDE_EFFECT_123",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_123/Eyelid oedema"
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_16",
+      "label": "PATHWAY_16",
+      "shape": "dot",
+      "title": "PATHWAY_16/ "
+    },
+    {
+      "color": "green",
+      "id": "COMPOUND_13229",
+      "label": "COMPOUND_13229",
+      "shape": "dot",
+      "title": "COMPOUND_13229/Novavax_COVID-19_vaccine"
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_34",
+      "label": "PATHWAY_34",
+      "shape": "dot",
+      "title": "PATHWAY_34/ "
+    },
+    {
+      "color": "green",
+      "id": "COMPOUND_13745",
+      "label": "COMPOUND_13745",
+      "shape": "dot",
+      "title": "COMPOUND_13745/0"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_633",
+      "label": "SIDE_EFFECT_633",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_633/Pleuritic pain"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_2088",
+      "label": "SIDE_EFFECT_2088",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_2088/Atrial arrhythmia"
+    },
+    {
+      "color": "green",
+      "id": "COMPOUND_13256",
+      "label": "COMPOUND_13256",
+      "shape": "dot",
+      "title": "COMPOUND_13256/Johnson_%26_Johnson_COVID-19_vaccine"
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_14",
+      "label": "PATHWAY_14",
+      "shape": "dot",
+      "title": "PATHWAY_14/ "
+    },
+    {
+      "color": "yellow",
+      "id": "EFFECT_8",
+      "label": "EFFECT_8",
+      "shape": "dot",
+      "title": "EFFECT_8/ methemoglobinemia "
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_27",
+      "label": "PATHWAY_27",
+      "shape": "dot",
+      "title": "PATHWAY_27/ "
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_19",
+      "label": "PATHWAY_19",
+      "shape": "dot",
+      "title": "PATHWAY_19/ "
+    },
+    {
+      "color": "green",
+      "id": "COMPOUND_4822",
+      "label": "COMPOUND_4822",
+      "shape": "dot",
+      "title": "COMPOUND_4822/0"
+    },
+    {
+      "color": "yellow",
+      "id": "EFFECT_9",
+      "label": "EFFECT_9",
+      "shape": "dot",
+      "title": "EFFECT_9/ infection "
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_115",
+      "label": "SIDE_EFFECT_115",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_115/Chills"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_1695",
+      "label": "SIDE_EFFECT_1695",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_1695/Respiratory sounds decreased"
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_37",
+      "label": "PATHWAY_37",
+      "shape": "dot",
+      "title": "PATHWAY_37/ "
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_656",
+      "label": "SIDE_EFFECT_656",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_656/Ear pain"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_59",
+      "label": "SIDE_EFFECT_59",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_59/Vomiting"
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_35",
+      "label": "PATHWAY_35",
+      "shape": "dot",
+      "title": "PATHWAY_35/ "
+    },
+    {
+      "color": "green",
+      "id": "COMPOUND_8424",
+      "label": "COMPOUND_8424",
+      "shape": "dot",
+      "title": "COMPOUND_8424/0"
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_28",
+      "label": "PATHWAY_28",
+      "shape": "dot",
+      "title": "PATHWAY_28/ "
+    },
+    {
+      "color": "green",
+      "id": "COMPOUND_8423",
+      "label": "COMPOUND_8423",
+      "shape": "dot",
+      "title": "COMPOUND_8423/0"
+    },
+    {
+      "color": "yellow",
+      "id": "EFFECT_11",
+      "label": "EFFECT_11",
+      "shape": "dot",
+      "title": "EFFECT_11/ myelosuppression "
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_32",
+      "label": "PATHWAY_32",
+      "shape": "dot",
+      "title": "PATHWAY_32/ "
+    },
+    {
+      "color": "green",
+      "id": "COMPOUND_5043",
+      "label": "COMPOUND_5043",
+      "shape": "dot",
+      "title": "COMPOUND_5043/0"
+    },
+    {
+      "color": "green",
+      "id": "COMPOUND_11765",
+      "label": "COMPOUND_11765",
+      "shape": "dot",
+      "title": "COMPOUND_11765/Zoster_vaccine"
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_144",
+      "label": "PATHWAY_144",
+      "shape": "dot",
+      "title": "PATHWAY_144/ "
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_334",
+      "label": "SIDE_EFFECT_334",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_334/Ventricular tachycardia"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_575",
+      "label": "SIDE_EFFECT_575",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_575/Hypocalcaemia"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_5089",
+      "label": "SIDE_EFFECT_5089",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_5089/Painful red eyes"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_4966",
+      "label": "SIDE_EFFECT_4966",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_4966/Retinoic acid syndrome"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_5090",
+      "label": "SIDE_EFFECT_5090",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_5090/Acute promyelocytic leukaemia differentiation syndrome"
+    },
+    {
+      "color": "yellow",
+      "id": "EFFECT_4",
+      "label": "EFFECT_4",
+      "shape": "dot",
+      "title": "EFFECT_4/ bleeding "
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_179",
+      "label": "PATHWAY_179",
+      "shape": "dot",
+      "title": "PATHWAY_179/ "
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_2033",
+      "label": "SIDE_EFFECT_2033",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_2033/Electrocardiogram QT prolonged"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_267",
+      "label": "SIDE_EFFECT_267",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_267/Pallor"
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_396",
+      "label": "PATHWAY_396",
+      "shape": "dot",
+      "title": "PATHWAY_396/ "
+    },
+    {
+      "color": "yellow",
+      "id": "EFFECT_12",
+      "label": "EFFECT_12",
+      "shape": "dot",
+      "title": "EFFECT_12/ neutropenia "
+    },
+    {
+      "color": "yellow",
+      "id": "EFFECT_13",
+      "label": "EFFECT_13",
+      "shape": "dot",
+      "title": "EFFECT_13/ QTc prolongation "
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_33",
+      "label": "PATHWAY_33",
+      "shape": "dot",
+      "title": "PATHWAY_33/ "
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_377",
+      "label": "PATHWAY_377",
+      "shape": "dot",
+      "title": "PATHWAY_377/ "
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_20",
+      "label": "PATHWAY_20",
+      "shape": "dot",
+      "title": "PATHWAY_20/ "
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_1268",
+      "label": "SIDE_EFFECT_1268",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_1268/Rales"
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_29",
+      "label": "PATHWAY_29",
+      "shape": "dot",
+      "title": "PATHWAY_29/ "
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_30",
+      "label": "PATHWAY_30",
+      "shape": "dot",
+      "title": "PATHWAY_30/ "
+    },
+    {
+      "color": "yellow",
+      "id": "EFFECT_16",
+      "label": "EFFECT_16",
+      "shape": "dot",
+      "title": "EFFECT_16/ cardiotoxicity "
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_124",
+      "label": "SIDE_EFFECT_124",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_124/Skin hyperpigmentation"
+    },
+    {
+      "borderWidth": 2,
+      "color": {
+        "background": "gray",
+        "border": "#000000"
+      },
+      "id": "INDICATION_2353",
+      "label": "INDICATION_2353",
+      "shape": "diamond",
+      "size": 80,
+      "title": "INDICATION_2353/Acute Promyelocytic Leukemia"
+    },
+    {
+      "color": "gray",
+      "id": "INDICATION_2423",
+      "label": "INDICATION_2423",
+      "shape": "dot",
+      "title": "INDICATION_2423/Myeloid Leukemia"
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_388",
+      "label": "PATHWAY_388",
+      "shape": "dot",
+      "title": "PATHWAY_388/ "
+    },
+    {
+      "color": null,
+      "id": "GENE_29198",
+      "label": "GENE_29198",
+      "shape": "dot",
+      "title": "GENE_29198/ "
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_1514",
+      "label": "PATHWAY_1514",
+      "shape": "dot",
+      "title": "PATHWAY_1514/ "
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_2080",
+      "label": "PATHWAY_2080",
+      "shape": "dot",
+      "title": "PATHWAY_2080/ "
+    },
+    {
+      "color": null,
+      "id": "GENE_24788",
+      "label": "GENE_24788",
+      "shape": "dot",
+      "title": "GENE_24788/ "
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_18",
+      "label": "PATHWAY_18",
+      "shape": "dot",
+      "title": "PATHWAY_18/ "
+    },
+    {
+      "color": null,
+      "id": "GENE_31685",
+      "label": "GENE_31685",
+      "shape": "dot",
+      "title": "GENE_31685/ "
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_17",
+      "label": "PATHWAY_17",
+      "shape": "dot",
+      "title": "PATHWAY_17/ "
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_178",
+      "label": "PATHWAY_178",
+      "shape": "dot",
+      "title": "PATHWAY_178/ "
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_223",
+      "label": "SIDE_EFFECT_223",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_223/Eye pain"
+    },
+    {
+      "color": "purple",
+      "id": "ACTIVITY_4",
+      "label": "ACTIVITY_4",
+      "shape": "dot",
+      "title": "ACTIVITY_4/ the neutropenic activities "
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_285",
+      "label": "SIDE_EFFECT_285",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_285/Agitation"
+    },
+    {
+      "color": "pink",
+      "id": "DISEASE_17027",
+      "label": "DISEASE_17027",
+      "shape": "dot",
+      "title": "DISEASE_17027/ "
+    },
+    {
+      "color": "purple",
+      "id": "ACTIVITY_17",
+      "label": "ACTIVITY_17",
+      "shape": "dot",
+      "title": "ACTIVITY_17/ the hypotensive activities "
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_1535",
+      "label": "SIDE_EFFECT_1535",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_1535/Lung infiltration"
+    },
+    {
+      "color": "purple",
+      "id": "ACTIVITY_18",
+      "label": "ACTIVITY_18",
+      "shape": "dot",
+      "title": "ACTIVITY_18/ the orthostatic hypotensive activities "
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_24",
+      "label": "SIDE_EFFECT_24",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_24/Dyspnoea"
+    },
+    {
+      "color": null,
+      "id": "GENE_26810",
+      "label": "GENE_26810",
+      "shape": "dot",
+      "title": "GENE_26810/ "
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_135",
+      "label": "PATHWAY_135",
+      "shape": "dot",
+      "title": "PATHWAY_135/ "
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_15",
+      "label": "PATHWAY_15",
+      "shape": "dot",
+      "title": "PATHWAY_15/ "
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_761",
+      "label": "PATHWAY_761",
+      "shape": "dot",
+      "title": "PATHWAY_761/ "
+    },
+    {
+      "color": "green",
+      "id": "COMPOUND_1255",
+      "label": "COMPOUND_1255",
+      "shape": "dot",
+      "title": "COMPOUND_1255/Exenatide"
+    },
+    {
+      "color": "purple",
+      "id": "ACTIVITY_3",
+      "label": "ACTIVITY_3",
+      "shape": "dot",
+      "title": "ACTIVITY_3/ the immunosuppressive activities "
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_15",
+      "label": "SIDE_EFFECT_15",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_15/Chest pain"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_394",
+      "label": "SIDE_EFFECT_394",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_394/Ecchymosis"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_81",
+      "label": "SIDE_EFFECT_81",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_81/Urticaria"
+    },
+    {
+      "color": "purple",
+      "id": "ACTIVITY_7",
+      "label": "ACTIVITY_7",
+      "shape": "dot",
+      "title": "ACTIVITY_7/ the excretion rate "
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_53",
+      "label": "SIDE_EFFECT_53",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_53/Convulsion"
+    },
+    {
+      "color": null,
+      "id": "GENE_12649",
+      "label": "GENE_12649",
+      "shape": "dot",
+      "title": "GENE_12649/ "
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_375",
+      "label": "SIDE_EFFECT_375",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_375/Coma"
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_641",
+      "label": "PATHWAY_641",
+      "shape": "dot",
+      "title": "PATHWAY_641/ "
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_270",
+      "label": "SIDE_EFFECT_270",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_270/Pneumonia"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_170",
+      "label": "SIDE_EFFECT_170",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_170/Blood creatinine increased"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_259",
+      "label": "SIDE_EFFECT_259",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_259/Cardiac failure"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_16",
+      "label": "SIDE_EFFECT_16",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_16/Infection"
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_647",
+      "label": "PATHWAY_647",
+      "shape": "dot",
+      "title": "PATHWAY_647/ "
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_909",
+      "label": "SIDE_EFFECT_909",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_909/Vaginal haemorrhage"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_32",
+      "label": "SIDE_EFFECT_32",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_32/Haemorrhage"
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_297",
+      "label": "PATHWAY_297",
+      "shape": "dot",
+      "title": "PATHWAY_297/ "
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_8",
+      "label": "SIDE_EFFECT_8",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_8/Anxiety"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_44",
+      "label": "SIDE_EFFECT_44",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_44/Nausea"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_45",
+      "label": "SIDE_EFFECT_45",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_45/Pain"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_297",
+      "label": "SIDE_EFFECT_297",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_297/Abdominal distension"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_243",
+      "label": "SIDE_EFFECT_243",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_243/Sweating increased"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_946",
+      "label": "SIDE_EFFECT_946",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_946/Haemoptysis"
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_1775",
+      "label": "PATHWAY_1775",
+      "shape": "dot",
+      "title": "PATHWAY_1775/ "
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_3",
+      "label": "SIDE_EFFECT_3",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_3/Gastrointestinal pain"
+    },
+    {
+      "borderWidth": 2,
+      "color": {
+        "background": "pink",
+        "border": "#000000"
+      },
+      "id": "DISEASE_1831",
+      "label": "DISEASE_1831",
+      "shape": "diamond",
+      "size": 80,
+      "title": "DISEASE_1831/ "
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_11",
+      "label": "SIDE_EFFECT_11",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_11/Atrial fibrillation"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_1568",
+      "label": "SIDE_EFFECT_1568",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_1568/Pericardial effusion"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_2",
+      "label": "SIDE_EFFECT_2",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_2/Abdominal pain"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_265",
+      "label": "SIDE_EFFECT_265",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_265/Mediastinal disorder"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_33",
+      "label": "SIDE_EFFECT_33",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_33/Haemoglobin"
+    },
+    {
+      "color": "pink",
+      "id": "DISEASE_1920",
+      "label": "DISEASE_1920",
+      "shape": "dot",
+      "title": "DISEASE_1920/ "
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_51",
+      "label": "SIDE_EFFECT_51",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_51/Renal failure"
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_314",
+      "label": "PATHWAY_314",
+      "shape": "dot",
+      "title": "PATHWAY_314/ "
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_57",
+      "label": "SIDE_EFFECT_57",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_57/Angiopathy"
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_23",
+      "label": "PATHWAY_23",
+      "shape": "dot",
+      "title": "PATHWAY_23/ "
+    },
+    {
+      "color": "red",
+      "id": "PROTEIN_1503",
+      "label": "PROTEIN_1503",
+      "shape": "dot",
+      "title": "PROTEIN_1503/ "
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_866",
+      "label": "SIDE_EFFECT_866",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_866/Face oedema"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_27",
+      "label": "SIDE_EFFECT_27",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_27/Eye disorder"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_75",
+      "label": "SIDE_EFFECT_75",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_75/Insomnia"
+    },
+    {
+      "color": "pink",
+      "id": "DISEASE_1994",
+      "label": "DISEASE_1994",
+      "shape": "dot",
+      "title": "DISEASE_1994/ "
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_1794",
+      "label": "PATHWAY_1794",
+      "shape": "dot",
+      "title": "PATHWAY_1794/ "
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_244",
+      "label": "SIDE_EFFECT_244",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_244/Hyperhidrosis"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_178",
+      "label": "SIDE_EFFECT_178",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_178/Confusional state"
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_298",
+      "label": "PATHWAY_298",
+      "shape": "dot",
+      "title": "PATHWAY_298/ "
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_5",
+      "label": "SIDE_EFFECT_5",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_5/Anaemia"
+    },
+    {
+      "color": "purple",
+      "id": "ACTIVITY_8",
+      "label": "ACTIVITY_8",
+      "shape": "dot",
+      "title": "ACTIVITY_8/ the cardiotoxic activities "
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_12",
+      "label": "SIDE_EFFECT_12",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_12/Back pain"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_50",
+      "label": "SIDE_EFFECT_50",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_50/Pruritus"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_21",
+      "label": "SIDE_EFFECT_21",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_21/Dizziness"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_99",
+      "label": "SIDE_EFFECT_99",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_99/Nervous system disorder"
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_986",
+      "label": "PATHWAY_986",
+      "shape": "dot",
+      "title": "PATHWAY_986/ "
+    },
+    {
+      "color": "pink",
+      "id": "DISEASE_17128",
+      "label": "DISEASE_17128",
+      "shape": "dot",
+      "title": "DISEASE_17128/ "
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_987",
+      "label": "PATHWAY_987",
+      "shape": "dot",
+      "title": "PATHWAY_987/ "
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_102",
+      "label": "SIDE_EFFECT_102",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_102/Petechiae"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_18",
+      "label": "SIDE_EFFECT_18",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_18/Cough"
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_1806",
+      "label": "PATHWAY_1806",
+      "shape": "dot",
+      "title": "PATHWAY_1806/ "
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_193",
+      "label": "SIDE_EFFECT_193",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_193/Dehydration"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_269",
+      "label": "SIDE_EFFECT_269",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_269/Pleural effusion"
+    },
+    {
+      "color": "purple",
+      "id": "ACTIVITY_5",
+      "label": "ACTIVITY_5",
+      "shape": "dot",
+      "title": "ACTIVITY_5/ the QTc-prolonging activities "
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_1807",
+      "label": "PATHWAY_1807",
+      "shape": "dot",
+      "title": "PATHWAY_1807/ "
+    },
+    {
+      "color": "pink",
+      "id": "DISEASE_2087",
+      "label": "DISEASE_2087",
+      "shape": "dot",
+      "title": "DISEASE_2087/ "
+    },
+    {
+      "color": "green",
+      "id": "COMPOUND_4594",
+      "label": "COMPOUND_4594",
+      "shape": "dot",
+      "title": "COMPOUND_4594/Voglibose"
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_312",
+      "label": "PATHWAY_312",
+      "shape": "dot",
+      "title": "PATHWAY_312/ "
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_58",
+      "label": "SIDE_EFFECT_58",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_58/Vertigo"
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_695",
+      "label": "PATHWAY_695",
+      "shape": "dot",
+      "title": "PATHWAY_695/ "
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_318",
+      "label": "PATHWAY_318",
+      "shape": "dot",
+      "title": "PATHWAY_318/ "
+    },
+    {
+      "color": "green",
+      "id": "COMPOUND_5361",
+      "label": "COMPOUND_5361",
+      "shape": "dot",
+      "title": "COMPOUND_5361/0"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_164",
+      "label": "SIDE_EFFECT_164",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_164/Wheezing"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_17",
+      "label": "SIDE_EFFECT_17",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_17/Constipation"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_38",
+      "label": "SIDE_EFFECT_38",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_38/Hypotension"
+    },
+    {
+      "color": "purple",
+      "id": "ACTIVITY_9",
+      "label": "ACTIVITY_9",
+      "shape": "dot",
+      "title": "ACTIVITY_9/ the myelosuppressive activities "
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_1089",
+      "label": "SIDE_EFFECT_1089",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_1089/Oropharyngeal discomfort"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_523",
+      "label": "SIDE_EFFECT_523",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_523/Urinary tract disorder"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_28",
+      "label": "SIDE_EFFECT_28",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_28/Body temperature increased"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_199",
+      "label": "SIDE_EFFECT_199",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_199/Flushing"
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_1812",
+      "label": "PATHWAY_1812",
+      "shape": "dot",
+      "title": "PATHWAY_1812/ "
+    },
+    {
+      "color": "green",
+      "id": "COMPOUND_5455",
+      "label": "COMPOUND_5455",
+      "shape": "dot",
+      "title": "COMPOUND_5455/Alogliptin"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_389",
+      "label": "SIDE_EFFECT_389",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_389/Fluid retention"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_37",
+      "label": "SIDE_EFFECT_37",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_37/Hypertension"
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_341",
+      "label": "PATHWAY_341",
+      "shape": "dot",
+      "title": "PATHWAY_341/ "
+    },
+    {
+      "color": "green",
+      "id": "COMPOUND_5719",
+      "label": "COMPOUND_5719",
+      "shape": "dot",
+      "title": "COMPOUND_5719/Liraglutide"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_109",
+      "label": "SIDE_EFFECT_109",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_109/Thrombocytopenia"
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_21",
+      "label": "PATHWAY_21",
+      "shape": "dot",
+      "title": "PATHWAY_21/ "
+    },
+    {
+      "color": "green",
+      "id": "COMPOUND_5540",
+      "label": "COMPOUND_5540",
+      "shape": "dot",
+      "title": "COMPOUND_5540/Saxagliptin"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_1258",
+      "label": "SIDE_EFFECT_1258",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_1258/Oliguria"
+    },
+    {
+      "color": "green",
+      "id": "COMPOUND_5403",
+      "label": "COMPOUND_5403",
+      "shape": "dot",
+      "title": "COMPOUND_5403/0"
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_1413",
+      "label": "PATHWAY_1413",
+      "shape": "dot",
+      "title": "PATHWAY_1413/ "
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_166",
+      "label": "SIDE_EFFECT_166",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_166/Feeling abnormal"
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_1002",
+      "label": "PATHWAY_1002",
+      "shape": "dot",
+      "title": "PATHWAY_1002/ "
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_31",
+      "label": "SIDE_EFFECT_31",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_31/Headache"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_90",
+      "label": "SIDE_EFFECT_90",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_90/Cardiac disorder"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_1088",
+      "label": "SIDE_EFFECT_1088",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_1088/Throat sore"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_314",
+      "label": "SIDE_EFFECT_314",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_314/Hypernatraemia"
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_305",
+      "label": "PATHWAY_305",
+      "shape": "dot",
+      "title": "PATHWAY_305/ "
+    },
+    {
+      "color": "green",
+      "id": "COMPOUND_1329",
+      "label": "COMPOUND_1329",
+      "shape": "dot",
+      "title": "COMPOUND_1329/Glycodiazine"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_1090",
+      "label": "SIDE_EFFECT_1090",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_1090/Oropharyngeal pain"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_61",
+      "label": "SIDE_EFFECT_61",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_61/Weight decreased"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_594",
+      "label": "SIDE_EFFECT_594",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_594/Gastrointestinal haemorrhage"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_268",
+      "label": "SIDE_EFFECT_268",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_268/Pancytopenia"
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_339",
+      "label": "PATHWAY_339",
+      "shape": "dot",
+      "title": "PATHWAY_339/ "
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_87",
+      "label": "SIDE_EFFECT_87",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_87/Oedema"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_378",
+      "label": "SIDE_EFFECT_378",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_378/Hypokalaemia"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_30",
+      "label": "SIDE_EFFECT_30",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_30/Gastrointestinal disorder"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_25",
+      "label": "SIDE_EFFECT_25",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_25/Rash"
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_720",
+      "label": "PATHWAY_720",
+      "shape": "dot",
+      "title": "PATHWAY_720/ "
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_304",
+      "label": "PATHWAY_304",
+      "shape": "dot",
+      "title": "PATHWAY_304/ "
+    },
+    {
+      "color": "red",
+      "id": "PROTEIN_860",
+      "label": "PROTEIN_860",
+      "shape": "dot",
+      "title": "PROTEIN_860/ "
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_722",
+      "label": "PATHWAY_722",
+      "shape": "dot",
+      "title": "PATHWAY_722/ "
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_723",
+      "label": "PATHWAY_723",
+      "shape": "dot",
+      "title": "PATHWAY_723/ "
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_436",
+      "label": "SIDE_EFFECT_436",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_436/Urethral disorder"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_257",
+      "label": "SIDE_EFFECT_257",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_257/Epistaxis"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_1639",
+      "label": "SIDE_EFFECT_1639",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_1639/Cerebral infarction"
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_344",
+      "label": "PATHWAY_344",
+      "shape": "dot",
+      "title": "PATHWAY_344/ "
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_26",
+      "label": "SIDE_EFFECT_26",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_26/Dermatitis"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_1581",
+      "label": "SIDE_EFFECT_1581",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_1581/Hypermagnesaemia"
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_342",
+      "label": "PATHWAY_342",
+      "shape": "dot",
+      "title": "PATHWAY_342/ "
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_333",
+      "label": "PATHWAY_333",
+      "shape": "dot",
+      "title": "PATHWAY_333/ "
+    },
+    {
+      "color": null,
+      "id": "GENE_17109",
+      "label": "GENE_17109",
+      "shape": "dot",
+      "title": "GENE_17109/ "
+    },
+    {
+      "color": null,
+      "id": "GENE_15960",
+      "label": "GENE_15960",
+      "shape": "dot",
+      "title": "GENE_15960/ "
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_332",
+      "label": "PATHWAY_332",
+      "shape": "dot",
+      "title": "PATHWAY_332/ "
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_548",
+      "label": "SIDE_EFFECT_548",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_548/Blood disorder"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_188",
+      "label": "SIDE_EFFECT_188",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_188/Neuropathy peripheral"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_6",
+      "label": "SIDE_EFFECT_6",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_6/Anorexia"
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_1025",
+      "label": "PATHWAY_1025",
+      "shape": "dot",
+      "title": "PATHWAY_1025/ "
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_1027",
+      "label": "PATHWAY_1027",
+      "shape": "dot",
+      "title": "PATHWAY_1027/ "
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_343",
+      "label": "PATHWAY_343",
+      "shape": "dot",
+      "title": "PATHWAY_343/ "
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_71",
+      "label": "SIDE_EFFECT_71",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_71/Musculoskeletal discomfort"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_85",
+      "label": "SIDE_EFFECT_85",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_85/Mental disorder"
+    },
+    {
+      "color": "green",
+      "id": "COMPOUND_13820",
+      "label": "COMPOUND_13820",
+      "shape": "dot",
+      "title": "COMPOUND_13820/Allogeneic_processed_thymus_tissue"
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_1036",
+      "label": "PATHWAY_1036",
+      "shape": "dot",
+      "title": "PATHWAY_1036/ "
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_10",
+      "label": "SIDE_EFFECT_10",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_10/Asthenia"
+    },
+    {
+      "color": "green",
+      "id": "COMPOUND_4546",
+      "label": "COMPOUND_4546",
+      "shape": "dot",
+      "title": "COMPOUND_4546/Buformin"
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_1037",
+      "label": "PATHWAY_1037",
+      "shape": "dot",
+      "title": "PATHWAY_1037/ "
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_1038",
+      "label": "PATHWAY_1038",
+      "shape": "dot",
+      "title": "PATHWAY_1038/ "
+    },
+    {
+      "color": "green",
+      "id": "COMPOUND_7908",
+      "label": "COMPOUND_7908",
+      "shape": "dot",
+      "title": "COMPOUND_7908/Glibornuride"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_7",
+      "label": "SIDE_EFFECT_7",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_7/Decreased appetite"
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_1039",
+      "label": "PATHWAY_1039",
+      "shape": "dot",
+      "title": "PATHWAY_1039/ "
+    },
+    {
+      "color": "green",
+      "id": "COMPOUND_7967",
+      "label": "COMPOUND_7967",
+      "shape": "dot",
+      "title": "COMPOUND_7967/Benfluorex"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_19",
+      "label": "SIDE_EFFECT_19",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_19/Depression"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_190",
+      "label": "SIDE_EFFECT_190",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_190/Arthralgia"
+    },
+    {
+      "color": "green",
+      "id": "COMPOUND_8134",
+      "label": "COMPOUND_8134",
+      "shape": "dot",
+      "title": "COMPOUND_8134/Netoglitazone"
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_1364",
+      "label": "PATHWAY_1364",
+      "shape": "dot",
+      "title": "PATHWAY_1364/ "
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_1041",
+      "label": "PATHWAY_1041",
+      "shape": "dot",
+      "title": "PATHWAY_1041/ "
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_46",
+      "label": "SIDE_EFFECT_46",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_46/Palpitations"
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_1040",
+      "label": "PATHWAY_1040",
+      "shape": "dot",
+      "title": "PATHWAY_1040/ "
+    },
+    {
+      "color": "green",
+      "id": "COMPOUND_9617",
+      "label": "COMPOUND_9617",
+      "shape": "dot",
+      "title": "COMPOUND_9617/Ipragliflozin"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_194",
+      "label": "SIDE_EFFECT_194",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_194/Disseminated intravascular coagulation"
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_1362",
+      "label": "PATHWAY_1362",
+      "shape": "dot",
+      "title": "PATHWAY_1362/ "
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_1042",
+      "label": "PATHWAY_1042",
+      "shape": "dot",
+      "title": "PATHWAY_1042/ "
+    },
+    {
+      "color": "green",
+      "id": "COMPOUND_9739",
+      "label": "COMPOUND_9739",
+      "shape": "dot",
+      "title": "COMPOUND_9739/Tofogliflozin"
+    },
+    {
+      "color": "green",
+      "id": "COMPOUND_8135",
+      "label": "COMPOUND_8135",
+      "shape": "dot",
+      "title": "COMPOUND_8135/Rivoglitazone"
+    },
+    {
+      "color": "green",
+      "id": "COMPOUND_9811",
+      "label": "COMPOUND_9811",
+      "shape": "dot",
+      "title": "COMPOUND_9811/0"
+    },
+    {
+      "color": "green",
+      "id": "COMPOUND_9861",
+      "label": "COMPOUND_9861",
+      "shape": "dot",
+      "title": "COMPOUND_9861/Teneligliptin"
+    },
+    {
+      "color": "gray",
+      "id": "INDICATION_308",
+      "label": "INDICATION_308",
+      "shape": "dot",
+      "title": "INDICATION_308/Leukemia, Myelocytic, Acute"
+    },
+    {
+      "color": "green",
+      "id": "COMPOUND_9903",
+      "label": "COMPOUND_9903",
+      "shape": "dot",
+      "title": "COMPOUND_9903/Omarigliptin"
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_1043",
+      "label": "PATHWAY_1043",
+      "shape": "dot",
+      "title": "PATHWAY_1043/ "
+    },
+    {
+      "color": "green",
+      "id": "COMPOUND_10120",
+      "label": "COMPOUND_10120",
+      "shape": "dot",
+      "title": "COMPOUND_10120/Luseogliflozin"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_160",
+      "label": "SIDE_EFFECT_160",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_160/Fatigue"
+    },
+    {
+      "color": "green",
+      "id": "COMPOUND_10172",
+      "label": "COMPOUND_10172",
+      "shape": "dot",
+      "title": "COMPOUND_10172/0"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_680",
+      "label": "SIDE_EFFECT_680",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_680/Herpes zoster"
+    },
+    {
+      "color": "green",
+      "id": "COMPOUND_10312",
+      "label": "COMPOUND_10312",
+      "shape": "dot",
+      "title": "COMPOUND_10312/Gemigliptin"
+    },
+    {
+      "color": "green",
+      "id": "COMPOUND_10317",
+      "label": "COMPOUND_10317",
+      "shape": "dot",
+      "title": "COMPOUND_10317/Anagliptin"
+    },
+    {
+      "color": "green",
+      "id": "COMPOUND_10511",
+      "label": "COMPOUND_10511",
+      "shape": "dot",
+      "title": "COMPOUND_10511/Evogliptin"
+    },
+    {
+      "color": "green",
+      "id": "COMPOUND_10662",
+      "label": "COMPOUND_10662",
+      "shape": "dot",
+      "title": "COMPOUND_10662/0"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_405",
+      "label": "SIDE_EFFECT_405",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_405/Hyperglycaemia"
+    },
+    {
+      "color": "pink",
+      "id": "DISEASE_2684",
+      "label": "DISEASE_2684",
+      "shape": "dot",
+      "title": "DISEASE_2684/ "
+    },
+    {
+      "color": "green",
+      "id": "COMPOUND_10809",
+      "label": "COMPOUND_10809",
+      "shape": "dot",
+      "title": "COMPOUND_10809/Remogliflozin_etabonate"
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_26",
+      "label": "PATHWAY_26",
+      "shape": "dot",
+      "title": "PATHWAY_26/ "
+    },
+    {
+      "color": "green",
+      "id": "COMPOUND_11261",
+      "label": "COMPOUND_11261",
+      "shape": "dot",
+      "title": "COMPOUND_11261/Carbutamide"
+    },
+    {
+      "color": "green",
+      "id": "COMPOUND_11299",
+      "label": "COMPOUND_11299",
+      "shape": "dot",
+      "title": "COMPOUND_11299/Guar_gum"
+    },
+    {
+      "color": "green",
+      "id": "COMPOUND_11522",
+      "label": "COMPOUND_11522",
+      "shape": "dot",
+      "title": "COMPOUND_11522/Metahexamide"
+    },
+    {
+      "color": "green",
+      "id": "COMPOUND_11868",
+      "label": "COMPOUND_11868",
+      "shape": "dot",
+      "title": "COMPOUND_11868/Englitazone"
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_13",
+      "label": "PATHWAY_13",
+      "shape": "dot",
+      "title": "PATHWAY_13/ "
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_97",
+      "label": "SIDE_EFFECT_97",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_97/Leukocytosis"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_1523",
+      "label": "SIDE_EFFECT_1523",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_1523/Lymphopenia"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_949",
+      "label": "SIDE_EFFECT_949",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_949/Incontinence"
+    },
+    {
+      "color": "green",
+      "id": "COMPOUND_12807",
+      "label": "COMPOUND_12807",
+      "shape": "dot",
+      "title": "COMPOUND_12807/Gastric_inhibitory_polypeptide"
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_782",
+      "label": "PATHWAY_782",
+      "shape": "dot",
+      "title": "PATHWAY_782/ "
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_439",
+      "label": "SIDE_EFFECT_439",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_439/Injection site swelling"
+    },
+    {
+      "color": "green",
+      "id": "COMPOUND_1240",
+      "label": "COMPOUND_1240",
+      "shape": "dot",
+      "title": "COMPOUND_1240/Sitagliptin"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_611",
+      "label": "SIDE_EFFECT_611",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_611/Drug hypersensitivity"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_93",
+      "label": "SIDE_EFFECT_93",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_93/Herpes simplex"
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_1054",
+      "label": "PATHWAY_1054",
+      "shape": "dot",
+      "title": "PATHWAY_1054/ "
+    },
+    {
+      "color": "pink",
+      "id": "DISEASE_13773",
+      "label": "DISEASE_13773",
+      "shape": "dot",
+      "title": "DISEASE_13773/ "
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_1337",
+      "label": "PATHWAY_1337",
+      "shape": "dot",
+      "title": "PATHWAY_1337/ "
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_1133",
+      "label": "SIDE_EFFECT_1133",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_1133/Neutropenia"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_309",
+      "label": "SIDE_EFFECT_309",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_309/Somnolence"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_162",
+      "label": "SIDE_EFFECT_162",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_162/Leukopenia"
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_1064",
+      "label": "PATHWAY_1064",
+      "shape": "dot",
+      "title": "PATHWAY_1064/ "
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_331",
+      "label": "SIDE_EFFECT_331",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_331/Tinnitus"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_212",
+      "label": "SIDE_EFFECT_212",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_212/Tremor"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_1230",
+      "label": "SIDE_EFFECT_1230",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_1230/Vasculitis"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_48",
+      "label": "SIDE_EFFECT_48",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_48/Paraesthesia"
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_1323",
+      "label": "PATHWAY_1323",
+      "shape": "dot",
+      "title": "PATHWAY_1323/ "
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_916",
+      "label": "SIDE_EFFECT_916",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_916/Bone disorder"
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_22",
+      "label": "PATHWAY_22",
+      "shape": "dot",
+      "title": "PATHWAY_22/ "
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_121",
+      "label": "SIDE_EFFECT_121",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_121/Alanine aminotransferase increased"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_282",
+      "label": "SIDE_EFFECT_282",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_282/Dry mouth"
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_820",
+      "label": "PATHWAY_820",
+      "shape": "dot",
+      "title": "PATHWAY_820/ "
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_1531",
+      "label": "SIDE_EFFECT_1531",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_1531/Breath sounds abnormal"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_435",
+      "label": "SIDE_EFFECT_435",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_435/Upper respiratory tract infection"
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_831",
+      "label": "PATHWAY_831",
+      "shape": "dot",
+      "title": "PATHWAY_831/ "
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_292",
+      "label": "SIDE_EFFECT_292",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_292/Hypoxia"
+    },
+    {
+      "color": "green",
+      "id": "COMPOUND_657",
+      "label": "COMPOUND_657",
+      "shape": "dot",
+      "title": "COMPOUND_657/Chlorpropamide"
+    },
+    {
+      "color": "gray",
+      "id": "INDICATION_2424",
+      "label": "INDICATION_2424",
+      "shape": "dot",
+      "title": "INDICATION_2424/Torsades de Pointes"
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_834",
+      "label": "PATHWAY_834",
+      "shape": "dot",
+      "title": "PATHWAY_834/ "
+    },
+    {
+      "color": "red",
+      "id": "PROTEIN_1614",
+      "label": "PROTEIN_1614",
+      "shape": "dot",
+      "title": "PROTEIN_1614/ "
+    },
+    {
+      "color": "red",
+      "id": "PROTEIN_1615",
+      "label": "PROTEIN_1615",
+      "shape": "dot",
+      "title": "PROTEIN_1615/ "
+    },
+    {
+      "color": "red",
+      "id": "PROTEIN_1616",
+      "label": "PROTEIN_1616",
+      "shape": "dot",
+      "title": "PROTEIN_1616/ "
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_186",
+      "label": "SIDE_EFFECT_186",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_186/Rigors"
+    },
+    {
+      "borderWidth": 2,
+      "color": {
+        "background": "red",
+        "border": "#000000"
+      },
+      "id": "PROTEIN_1617",
+      "label": "PROTEIN_1617",
+      "shape": "diamond",
+      "size": 80,
+      "title": "PROTEIN_1617/ "
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_854",
+      "label": "SIDE_EFFECT_854",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_854/Lymphadenopathy"
+    },
+    {
+      "color": "pink",
+      "id": "DISEASE_13720",
+      "label": "DISEASE_13720",
+      "shape": "dot",
+      "title": "DISEASE_13720/ "
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_843",
+      "label": "PATHWAY_843",
+      "shape": "dot",
+      "title": "PATHWAY_843/ "
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_114",
+      "label": "SIDE_EFFECT_114",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_114/Erythema"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_989",
+      "label": "SIDE_EFFECT_989",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_989/Bone pain"
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_263",
+      "label": "PATHWAY_263",
+      "shape": "dot",
+      "title": "PATHWAY_263/ "
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_1638",
+      "label": "SIDE_EFFECT_1638",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_1638/Atrial flutter"
+    },
+    {
+      "color": "yellow",
+      "id": "EFFECT_15",
+      "label": "EFFECT_15",
+      "shape": "dot",
+      "title": "EFFECT_15/ bradycardia "
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_55",
+      "label": "SIDE_EFFECT_55",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_55/Tachycardia"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_919",
+      "label": "SIDE_EFFECT_919",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_919/Candida infection"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_1077",
+      "label": "SIDE_EFFECT_1077",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_1077/Oral candidiasis"
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_262",
+      "label": "PATHWAY_262",
+      "shape": "dot",
+      "title": "PATHWAY_262/ "
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_60",
+      "label": "SIDE_EFFECT_60",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_60/Weight increased"
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_869",
+      "label": "PATHWAY_869",
+      "shape": "dot",
+      "title": "PATHWAY_869/ "
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_870",
+      "label": "PATHWAY_870",
+      "shape": "dot",
+      "title": "PATHWAY_870/ "
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_25",
+      "label": "PATHWAY_25",
+      "shape": "dot",
+      "title": "PATHWAY_25/ "
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_35",
+      "label": "SIDE_EFFECT_35",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_35/Hyperkalaemia"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_409",
+      "label": "SIDE_EFFECT_409",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_409/Hypoglycaemia"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_122",
+      "label": "SIDE_EFFECT_122",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_122/Dry skin"
+    },
+    {
+      "color": "pink",
+      "id": "DISEASE_3387",
+      "label": "DISEASE_3387",
+      "shape": "dot",
+      "title": "DISEASE_3387/ "
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_54",
+      "label": "SIDE_EFFECT_54",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_54/Sinusitis"
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_879",
+      "label": "PATHWAY_879",
+      "shape": "dot",
+      "title": "PATHWAY_879/ "
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_365",
+      "label": "PATHWAY_365",
+      "shape": "dot",
+      "title": "PATHWAY_365/ "
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_413",
+      "label": "SIDE_EFFECT_413",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_413/Pain in extremity"
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_885",
+      "label": "PATHWAY_885",
+      "shape": "dot",
+      "title": "PATHWAY_885/ "
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_524",
+      "label": "SIDE_EFFECT_524",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_524/Malnutrition"
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_886",
+      "label": "PATHWAY_886",
+      "shape": "dot",
+      "title": "PATHWAY_886/ "
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_887",
+      "label": "PATHWAY_887",
+      "shape": "dot",
+      "title": "PATHWAY_887/ "
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_888",
+      "label": "PATHWAY_888",
+      "shape": "dot",
+      "title": "PATHWAY_888/ "
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_1261",
+      "label": "PATHWAY_1261",
+      "shape": "dot",
+      "title": "PATHWAY_1261/ "
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_367",
+      "label": "PATHWAY_367",
+      "shape": "dot",
+      "title": "PATHWAY_367/ "
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_1582",
+      "label": "SIDE_EFFECT_1582",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_1582/Hypomagnesaemia"
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_1257",
+      "label": "PATHWAY_1257",
+      "shape": "dot",
+      "title": "PATHWAY_1257/ "
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_24",
+      "label": "PATHWAY_24",
+      "shape": "dot",
+      "title": "PATHWAY_24/ "
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_1232",
+      "label": "SIDE_EFFECT_1232",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_1232/Dermatitis bullous"
+    },
+    {
+      "color": "pink",
+      "id": "DISEASE_7426",
+      "label": "DISEASE_7426",
+      "shape": "dot",
+      "title": "DISEASE_7426/ "
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_510",
+      "label": "SIDE_EFFECT_510",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_510/Eye irritation"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_180",
+      "label": "SIDE_EFFECT_180",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_180/Renal impairment"
+    },
+    {
+      "color": "green",
+      "id": "COMPOUND_348",
+      "label": "COMPOUND_348",
+      "shape": "dot",
+      "title": "COMPOUND_348/Sulfadiazine"
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_354",
+      "label": "PATHWAY_354",
+      "shape": "dot",
+      "title": "PATHWAY_354/ "
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_694",
+      "label": "SIDE_EFFECT_694",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_694/Dry eye"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_232",
+      "label": "SIDE_EFFECT_232",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_232/Vision blurred"
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_566",
+      "label": "PATHWAY_566",
+      "shape": "dot",
+      "title": "PATHWAY_566/ "
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_2089",
+      "label": "SIDE_EFFECT_2089",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_2089/Arrhythmia supraventricular"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_23",
+      "label": "SIDE_EFFECT_23",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_23/Dyspepsia"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_70",
+      "label": "SIDE_EFFECT_70",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_70/Myalgia"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_126",
+      "label": "SIDE_EFFECT_126",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_126/Unspecified disorder of skin and subcutaneous tissue"
+    },
+    {
+      "color": "green",
+      "id": "COMPOUND_402",
+      "label": "COMPOUND_402",
+      "shape": "dot",
+      "title": "COMPOUND_402/Acetohexamide"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_148",
+      "label": "SIDE_EFFECT_148",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_148/Infestation NOS"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_1689",
+      "label": "SIDE_EFFECT_1689",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_1689/Upper-airway cough syndrome"
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_356",
+      "label": "PATHWAY_356",
+      "shape": "dot",
+      "title": "PATHWAY_356/ "
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_149",
+      "label": "SIDE_EFFECT_149",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_149/Infestation"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_1688",
+      "label": "SIDE_EFFECT_1688",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_1688/Postnasal drip"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_1248",
+      "label": "SIDE_EFFECT_1248",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_1248/Injection site erythema"
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_1237",
+      "label": "PATHWAY_1237",
+      "shape": "dot",
+      "title": "PATHWAY_1237/ "
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_1162",
+      "label": "PATHWAY_1162",
+      "shape": "dot",
+      "title": "PATHWAY_1162/ "
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_355",
+      "label": "PATHWAY_355",
+      "shape": "dot",
+      "title": "PATHWAY_355/ "
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_1164",
+      "label": "PATHWAY_1164",
+      "shape": "dot",
+      "title": "PATHWAY_1164/ "
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_592",
+      "label": "SIDE_EFFECT_592",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_592/Loose stools"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_20",
+      "label": "SIDE_EFFECT_20",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_20/Diarrhoea"
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_361",
+      "label": "PATHWAY_361",
+      "shape": "dot",
+      "title": "PATHWAY_361/ "
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_1168",
+      "label": "PATHWAY_1168",
+      "shape": "dot",
+      "title": "PATHWAY_1168/ "
+    },
+    {
+      "color": null,
+      "id": "GENE_33412",
+      "label": "GENE_33412",
+      "shape": "dot",
+      "title": "GENE_33412/ "
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_1225",
+      "label": "PATHWAY_1225",
+      "shape": "dot",
+      "title": "PATHWAY_1225/ "
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_539",
+      "label": "PATHWAY_539",
+      "shape": "dot",
+      "title": "PATHWAY_539/ "
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_1998",
+      "label": "PATHWAY_1998",
+      "shape": "dot",
+      "title": "PATHWAY_1998/ "
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_1999",
+      "label": "PATHWAY_1999",
+      "shape": "dot",
+      "title": "PATHWAY_1999/ "
+    },
+    {
+      "color": "green",
+      "id": "COMPOUND_822",
+      "label": "COMPOUND_822",
+      "shape": "dot",
+      "title": "COMPOUND_822/Tolazamide"
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_1173",
+      "label": "PATHWAY_1173",
+      "shape": "dot",
+      "title": "PATHWAY_1173/ "
+    },
+    {
+      "color": "pink",
+      "id": "DISEASE_2091",
+      "label": "DISEASE_2091",
+      "shape": "dot",
+      "title": "DISEASE_2091/ "
+    },
+    {
+      "color": "green",
+      "id": "COMPOUND_187",
+      "label": "COMPOUND_187",
+      "shape": "dot",
+      "title": "COMPOUND_187/Troglitazone"
+    },
+    {
+      "color": "green",
+      "id": "COMPOUND_895",
+      "label": "COMPOUND_895",
+      "shape": "dot",
+      "title": "COMPOUND_895/Repaglinide"
+    },
+    {
+      "color": "green",
+      "id": "COMPOUND_999",
+      "label": "COMPOUND_999",
+      "shape": "dot",
+      "title": "COMPOUND_999/Glibenclamide"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_251",
+      "label": "SIDE_EFFECT_251",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_251/Neck pain"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_697",
+      "label": "SIDE_EFFECT_697",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_697/Metrorrhagia"
+    },
+    {
+      "color": "green",
+      "id": "COMPOUND_1047",
+      "label": "COMPOUND_1047",
+      "shape": "dot",
+      "title": "COMPOUND_1047/Glipizide"
+    },
+    {
+      "color": "green",
+      "id": "COMPOUND_1100",
+      "label": "COMPOUND_1100",
+      "shape": "dot",
+      "title": "COMPOUND_1100/Gliclazide"
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_522",
+      "label": "PATHWAY_522",
+      "shape": "dot",
+      "title": "PATHWAY_522/ "
+    },
+    {
+      "color": "green",
+      "id": "COMPOUND_4592",
+      "label": "COMPOUND_4592",
+      "shape": "dot",
+      "title": "COMPOUND_4592/Vildagliptin"
+    },
+    {
+      "color": "green",
+      "id": "COMPOUND_107",
+      "label": "COMPOUND_107",
+      "shape": "dot",
+      "title": "COMPOUND_107/Cyanocobalamin"
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_519",
+      "label": "PATHWAY_519",
+      "shape": "dot",
+      "title": "PATHWAY_519/ "
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_932",
+      "label": "PATHWAY_932",
+      "shape": "dot",
+      "title": "PATHWAY_932/ "
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_171",
+      "label": "SIDE_EFFECT_171",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_171/Febrile neutropenia"
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_1207",
+      "label": "PATHWAY_1207",
+      "shape": "dot",
+      "title": "PATHWAY_1207/ "
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_933",
+      "label": "PATHWAY_933",
+      "shape": "dot",
+      "title": "PATHWAY_933/ "
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_131",
+      "label": "SIDE_EFFECT_131",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_131/Skin exfoliation"
+    },
+    {
+      "color": null,
+      "id": "PATHWAY_1201",
+      "label": "PATHWAY_1201",
+      "shape": "dot",
+      "title": "PATHWAY_1201/ "
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_120",
+      "label": "SIDE_EFFECT_120",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_120/Aspartate aminotransferase increased"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_275",
+      "label": "SIDE_EFFECT_275",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_275/Sepsis"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_106",
+      "label": "SIDE_EFFECT_106",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_106/Skin disorder"
+    },
+    {
+      "color": "orange",
+      "id": "SIDE_EFFECT_83",
+      "label": "SIDE_EFFECT_83",
+      "shape": "dot",
+      "title": "SIDE_EFFECT_83/Injection site pain"
+    }
+  ],
+  "edges": [
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_1231"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_31685",
+      "title": "acts_within",
+      "to": "PATHWAY_493"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_29198",
+      "title": "acts_within",
+      "to": "PATHWAY_407"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_1257"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_31685",
+      "title": "acts_within",
+      "to": "PATHWAY_490"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_1277"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_9526",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_1149"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_4989",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_1149"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_4793"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_effect",
+      "to": "EFFECT_5"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_4627",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_1149"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_11861",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_1149"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_29",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_1149"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_7980"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_effect",
+      "to": "EFFECT_34"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_29198",
+      "title": "acts_within",
+      "to": "PATHWAY_1038"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_5516",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_1149"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_26810",
+      "title": "causes_condition",
+      "to": "DISEASE_2684"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_29198",
+      "title": "acts_within",
+      "to": "PATHWAY_1041"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_32278",
+      "title": "acts_within",
+      "to": "PATHWAY_339"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_1255"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_1535"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_919"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_24788",
+      "title": "acts_within",
+      "to": "PATHWAY_16"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_31685",
+      "title": "acts_within",
+      "to": "PATHWAY_142"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "decrease_activity",
+      "to": "ACTIVITY_8"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_8860"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_611"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_24788",
+      "title": "acts_within",
+      "to": "PATHWAY_25"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_12857"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_14040",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_1149"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_409"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_13778"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_activity",
+      "to": "ACTIVITY_3"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_5090"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_11522",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_1149"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_effect",
+      "to": "EFFECT_16"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_31685",
+      "title": "acts_within",
+      "to": "PATHWAY_332"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_31685",
+      "title": "acts_within",
+      "to": "PATHWAY_1164"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_29344",
+      "title": "acts_within",
+      "to": "PATHWAY_870"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_10120"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_10662",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_1149"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_10317"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_121"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_31685",
+      "title": "acts_within",
+      "to": "PATHWAY_89"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_26810",
+      "title": "causes_condition",
+      "to": "DISEASE_1994"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_10809"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_11522"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_indication",
+      "to": "INDICATION_308"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_31685",
+      "title": "acts_within",
+      "to": "PATHWAY_879"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_320",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_1149"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_31685",
+      "title": "acts_within",
+      "to": "PATHWAY_885"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_99"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_26810",
+      "title": "acts_within",
+      "to": "PATHWAY_408"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_31685",
+      "title": "acts_within",
+      "to": "PATHWAY_887"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_102"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_4962"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_9641",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_1149"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "is_affecting",
+      "to": "GENE_15960"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_267"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_31685",
+      "title": "acts_within",
+      "to": "PATHWAY_831"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_402"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_31685",
+      "title": "acts_within",
+      "to": "PATHWAY_834"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_32278",
+      "title": "acts_within",
+      "to": "PATHWAY_361"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_1523"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_33412",
+      "title": "acts_within",
+      "to": "PATHWAY_2080"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_26810",
+      "title": "acts_within",
+      "to": "PATHWAY_30"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_170"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1266",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_1149"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_38"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_8"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_10597",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_1149"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "is_affecting",
+      "to": "GENE_12649"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_32278",
+      "title": "acts_within",
+      "to": "PATHWAY_481"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_1357"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_44"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_10317",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_1149"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_29198",
+      "title": "acts_within",
+      "to": "PATHWAY_613"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_946"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_31685",
+      "title": "acts_within",
+      "to": "PATHWAY_465"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_193"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_31685",
+      "title": "acts_within",
+      "to": "PATHWAY_178"
+    },
+    {
+      "arrows": "to",
+      "from": "PROTEIN_1614",
+      "title": "gene_product_of",
+      "to": "GENE_33412"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_5455"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_58"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_232"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_5540"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_31685",
+      "title": "acts_within",
+      "to": "PATHWAY_262"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_933"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_375"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_212",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_1149"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_7985"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_8200"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_9641"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_107",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_1149"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_indication",
+      "to": "INDICATION_33"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_320"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_31050",
+      "title": "causes_condition",
+      "to": "DISEASE_1831"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_4594",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_1149"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_715"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_31685",
+      "title": "acts_within",
+      "to": "PATHWAY_144"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_1112"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_48"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "increase_activity",
+      "to": "ACTIVITY_7"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_1232"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_29344",
+      "title": "acts_within",
+      "to": "PATHWAY_98"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_26810",
+      "title": "acts_within",
+      "to": "PATHWAY_16"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_1266"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "increase_effect",
+      "to": "EFFECT_7"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_282"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_5043"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_24788",
+      "title": "acts_within",
+      "to": "PATHWAY_339"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_effect",
+      "to": "EFFECT_35"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_190"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_13151",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_1149"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_26810",
+      "title": "acts_within",
+      "to": "PATHWAY_820"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_31685",
+      "title": "acts_within",
+      "to": "PATHWAY_52"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_29198",
+      "title": "acts_within",
+      "to": "PATHWAY_1036"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_680"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_5719",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_1149"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_29198",
+      "title": "acts_within",
+      "to": "PATHWAY_1039"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_405"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_1638"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_124"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_10809",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_1149"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_8836"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_activity",
+      "to": "ACTIVITY_18"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_1077"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_29198",
+      "title": "acts_within",
+      "to": "PATHWAY_365"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_30"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_9038"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_7967"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_5089"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_400",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_1149"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_1230"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_31685",
+      "title": "acts_within",
+      "to": "PATHWAY_1162"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_9617"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_31685",
+      "title": "acts_within",
+      "to": "PATHWAY_50"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_9861"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_31685",
+      "title": "acts_within",
+      "to": "PATHWAY_1645"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_10172"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_10511"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_75"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_8200",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_1149"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_26"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_1695"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_12"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_target",
+      "to": "PROTEIN_860"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_29344",
+      "title": "acts_within",
+      "to": "PATHWAY_446"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_1580"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1276",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_1149"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_24788",
+      "title": "acts_within",
+      "to": "PATHWAY_499"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_24788",
+      "title": "acts_within",
+      "to": "PATHWAY_496"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_15"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_394"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_18"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_343"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_26810",
+      "title": "acts_within",
+      "to": "PATHWAY_29"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_29344",
+      "title": "acts_within",
+      "to": "PATHWAY_519"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_10511",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_1149"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_81"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_524"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_31685",
+      "title": "acts_within",
+      "to": "PATHWAY_1054"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_16"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_32"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_31050",
+      "title": "acts_within",
+      "to": "PATHWAY_27"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_effect",
+      "to": "EFFECT_13"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_183"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_68",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_1149"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_5361"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_5739"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_107"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_26810",
+      "title": "acts_within",
+      "to": "PATHWAY_38"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_7372"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_effect",
+      "to": "EFFECT_11"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_24788",
+      "title": "acts_within",
+      "to": "PATHWAY_332"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_target",
+      "to": "PROTEIN_1267"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_31685",
+      "title": "acts_within",
+      "to": "PATHWAY_695"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_24788",
+      "title": "acts_within",
+      "to": "PATHWAY_343"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_26810",
+      "title": "acts_within",
+      "to": "PATHWAY_592"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_4989"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_26810",
+      "title": "causes_condition",
+      "to": "DISEASE_1325"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_29"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_309"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_68"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "increase_effect",
+      "to": "EFFECT_36"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_400"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_31685",
+      "title": "acts_within",
+      "to": "PATHWAY_647"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_1582"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_24788",
+      "title": "acts_within",
+      "to": "PATHWAY_341"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_704"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_9617",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_1149"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_402",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_1149"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_26810",
+      "title": "acts_within",
+      "to": "PATHWAY_19"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_7908",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_1149"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_5540",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_1149"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_target",
+      "to": "PROTEIN_1503"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_223"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_activity",
+      "to": "ACTIVITY_5"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_854"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_7"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_46"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_12210"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_12772",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_1149"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_activity",
+      "to": "ACTIVITY_9"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_8676"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_1258"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_90"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_822",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_1149"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_33412",
+      "title": "acts_within",
+      "to": "PATHWAY_434"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_7859",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_1149"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_29344",
+      "title": "acts_within",
+      "to": "PATHWAY_396"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_4546"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_331"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_8134"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_11"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_37",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_1149"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_87"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_31685",
+      "title": "acts_within",
+      "to": "PATHWAY_869"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_120"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_29198",
+      "title": "acts_within",
+      "to": "PATHWAY_932"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_26810",
+      "title": "causes_condition",
+      "to": "DISEASE_13971"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_83"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1277",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_1149"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_24788",
+      "title": "acts_within",
+      "to": "PATHWAY_30"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_194"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_57"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_target",
+      "to": "PROTEIN_1616"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_24788",
+      "title": "acts_within",
+      "to": "PATHWAY_501"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_314"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_1329"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_24788",
+      "title": "acts_within",
+      "to": "PATHWAY_498"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_61"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_13229",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_1149"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_378"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_target",
+      "to": "PROTEIN_718"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_50"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_26810",
+      "title": "acts_within",
+      "to": "PATHWAY_37"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_target",
+      "to": "PROTEIN_1026"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1180",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_1149"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_4962",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_1149"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_31685",
+      "title": "acts_within",
+      "to": "PATHWAY_723"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_274",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_1149"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_53"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_24788",
+      "title": "acts_within",
+      "to": "PATHWAY_69"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_26810",
+      "title": "acts_within",
+      "to": "PATHWAY_32"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_29198",
+      "title": "causes_condition",
+      "to": "DISEASE_17128"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_23"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "increase_activity",
+      "to": "ACTIVITY_3"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_8136"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_31685",
+      "title": "acts_within",
+      "to": "PATHWAY_354"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_400"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_effect",
+      "to": "EFFECT_12"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_9696"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1240",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_1149"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_999"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_44",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_1149"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_4594"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_13778",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_1149"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "increase_effect",
+      "to": "EFFECT_8"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_1248"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_9547",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_1149"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_31050",
+      "title": "acts_within",
+      "to": "PATHWAY_343"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_32278",
+      "title": "causes_condition",
+      "to": "DISEASE_13720"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_31685",
+      "title": "acts_within",
+      "to": "PATHWAY_986"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_592"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_31685",
+      "title": "acts_within",
+      "to": "PATHWAY_1323"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_29344",
+      "title": "acts_within",
+      "to": "PATHWAY_332"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_32278",
+      "title": "acts_within",
+      "to": "PATHWAY_342"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_32278",
+      "title": "causes_condition",
+      "to": "DISEASE_13773"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_29344",
+      "title": "acts_within",
+      "to": "PATHWAY_89"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_162"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_32278",
+      "title": "acts_within",
+      "to": "PATHWAY_36"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_13745"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_31685",
+      "title": "acts_within",
+      "to": "PATHWAY_1364"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_4822"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_7985",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_1149"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_8424"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_895",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_1149"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_71"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_31050",
+      "title": "acts_within",
+      "to": "PATHWAY_843"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_186"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_12413"
+    },
+    {
+      "arrows": "to",
+      "from": "PROTEIN_1617",
+      "title": "gene_product_of",
+      "to": "GENE_31050"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_32278",
+      "title": "causes_condition",
+      "to": "DISEASE_2091"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_26810",
+      "title": "acts_within",
+      "to": "PATHWAY_22"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_7372",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_1149"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_7980",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_1149"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_32278",
+      "title": "acts_within",
+      "to": "PATHWAY_135"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_109"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1620",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_1149"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_5455",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_1149"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_8860",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_1149"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_1133"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_32278",
+      "title": "acts_within",
+      "to": "PATHWAY_427"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_166"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_188"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_171"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_33412",
+      "title": "acts_within",
+      "to": "PATHWAY_720"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_31050",
+      "title": "acts_within",
+      "to": "PATHWAY_262"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_2"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_594"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_29344",
+      "title": "acts_within",
+      "to": "PATHWAY_178"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_11868",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_1149"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_4546",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_1149"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_275"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_59"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_24788",
+      "title": "acts_within",
+      "to": "PATHWAY_29"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_265"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_1089"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_13745",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_1149"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_29198",
+      "title": "acts_within",
+      "to": "PATHWAY_305"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_33"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_70"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_33412",
+      "title": "acts_within",
+      "to": "PATHWAY_39"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_126"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_7998",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_1149"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_target",
+      "to": "PROTEIN_1614"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_999",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_1149"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_29198",
+      "title": "acts_within",
+      "to": "PATHWAY_304"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_8395",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_1149"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_12772"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_31685",
+      "title": "acts_within",
+      "to": "PATHWAY_1261"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_897",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_1149"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_26810",
+      "title": "acts_within",
+      "to": "PATHWAY_34"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_122"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_31685",
+      "title": "acts_within",
+      "to": "PATHWAY_495"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_54"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_31685",
+      "title": "acts_within",
+      "to": "PATHWAY_492"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_29198",
+      "title": "acts_within",
+      "to": "PATHWAY_127"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "increase_activity",
+      "to": "ACTIVITY_18"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_26810",
+      "title": "acts_within",
+      "to": "PATHWAY_20"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_1278"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "increase_effect",
+      "to": "EFFECT_5"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_5516"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_12857",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_1149"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_435"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_9861",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_1149"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_8338"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_9742"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "increase_effect",
+      "to": "EFFECT_34"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_187"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_148"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_706"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_effect",
+      "to": "EFFECT_9"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_target",
+      "to": "PROTEIN_916"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_26810",
+      "title": "acts_within",
+      "to": "PATHWAY_24"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_949"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_31685",
+      "title": "acts_within",
+      "to": "PATHWAY_987"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_446"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_93"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_10286"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_29198",
+      "title": "acts_within",
+      "to": "PATHWAY_367"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_31050",
+      "title": "acts_within",
+      "to": "PATHWAY_318"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_11261",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_1149"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_8677"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_11858"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_29198",
+      "title": "acts_within",
+      "to": "PATHWAY_1807"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_8133",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_1149"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_13152"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_285"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_31685",
+      "title": "acts_within",
+      "to": "PATHWAY_1168"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_11261"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1104",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_1149"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_11868"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_6"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_31685",
+      "title": "acts_within",
+      "to": "PATHWAY_56"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_effect",
+      "to": "EFFECT_15"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_31685",
+      "title": "acts_within",
+      "to": "PATHWAY_888"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_8395"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_4793",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_1149"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_269"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_8397"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_523"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_123"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_7967",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_1149"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_31685",
+      "title": "acts_within",
+      "to": "PATHWAY_1201"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_656"
+    },
+    {
+      "arrows": "to",
+      "from": "PROTEIN_1267",
+      "title": "gene_product_of",
+      "to": "GENE_31685"
+    },
+    {
+      "arrows": "to",
+      "from": "PROTEIN_1503",
+      "title": "gene_product_of",
+      "to": "GENE_32278"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_909"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_28"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_31050",
+      "title": "acts_within",
+      "to": "PATHWAY_1775"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_3"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_5739",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_1149"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_12413",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_1149"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_187",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_1149"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_11299",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_1149"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_26810",
+      "title": "acts_within",
+      "to": "PATHWAY_15"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_45"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_187"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_164"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_8388",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_1149"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_20"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_24788",
+      "title": "acts_within",
+      "to": "PATHWAY_37"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_13820",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_1149"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_5403"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_657"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_1329"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_7998"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_26810",
+      "title": "causes_condition",
+      "to": "DISEASE_13720"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "increase_activity",
+      "to": "ACTIVITY_5"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_29198",
+      "title": "causes_condition",
+      "to": "DISEASE_17027"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_26810",
+      "title": "acts_within",
+      "to": "PATHWAY_13"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_9036"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_1689"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_32278",
+      "title": "causes_condition",
+      "to": "DISEASE_3387"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_11769"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_29344",
+      "title": "acts_within",
+      "to": "PATHWAY_647"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_251"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_297"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_1240"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "increase_activity",
+      "to": "ACTIVITY_9"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_897"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_9903",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_1149"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "increase_activity",
+      "to": "ACTIVITY_17"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_effect",
+      "to": "EFFECT_4"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_1180"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_31685",
+      "title": "acts_within",
+      "to": "PATHWAY_494"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_1256"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_916"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_26810",
+      "title": "acts_within",
+      "to": "PATHWAY_36"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_1276"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_32278",
+      "title": "acts_within",
+      "to": "PATHWAY_1413"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_31685",
+      "title": "acts_within",
+      "to": "PATHWAY_522"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_1620"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_9038",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_1149"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "increase_effect",
+      "to": "EFFECT_35"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_2089"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_160"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_29198",
+      "title": "acts_within",
+      "to": "PATHWAY_1037"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_29198",
+      "title": "acts_within",
+      "to": "PATHWAY_1040"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_activity",
+      "to": "ACTIVITY_17"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_29198",
+      "title": "acts_within",
+      "to": "PATHWAY_1042"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_13151"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_436"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_9547"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_24788",
+      "title": "causes_condition",
+      "to": "DISEASE_2087"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_4966"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_9739"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_479",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_1149"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_31685",
+      "title": "acts_within",
+      "to": "PATHWAY_36"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_26810",
+      "title": "acts_within",
+      "to": "PATHWAY_782"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_9903"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_13015",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_1149"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_10312"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_31685",
+      "title": "acts_within",
+      "to": "PATHWAY_70"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_10662"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_1531"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_8398"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_11299"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_31685",
+      "title": "acts_within",
+      "to": "PATHWAY_312"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_2055"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_21"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_8134",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_1149"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_26810",
+      "title": "acts_within",
+      "to": "PATHWAY_1064"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_348",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_1149"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_31685",
+      "title": "acts_within",
+      "to": "PATHWAY_1685"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_29344",
+      "title": "acts_within",
+      "to": "PATHWAY_135"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_4822",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_1149"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_97"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_9036",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_1149"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_334"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_633"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_31685",
+      "title": "acts_within",
+      "to": "PATHWAY_1207"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_1113"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1257",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_1149"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_1639"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_33412",
+      "title": "acts_within",
+      "to": "PATHWAY_1362"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_199"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_29344",
+      "title": "acts_within",
+      "to": "PATHWAY_481"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_11769",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_1149"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_697"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_8398",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_1149"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_270"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "increase_effect",
+      "to": "EFFECT_13"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_29198",
+      "title": "acts_within",
+      "to": "PATHWAY_614"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_29198",
+      "title": "acts_within",
+      "to": "PATHWAY_388"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_8136",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_1149"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "increase_effect",
+      "to": "EFFECT_11"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_5719"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_29198",
+      "title": "acts_within",
+      "to": "PATHWAY_297"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_26810",
+      "title": "acts_within",
+      "to": "PATHWAY_23"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_5361",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_1149"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_7834"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_989"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_13256",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_1149"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_55"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_44"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_274"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_479"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1255",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_1149"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_1104"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_1232"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_26810",
+      "title": "acts_within",
+      "to": "PATHWAY_14"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_657",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_1149"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_24788",
+      "title": "acts_within",
+      "to": "PATHWAY_119"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_effect",
+      "to": "EFFECT_7"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1231",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_1149"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_510"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_10"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_11765"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_19"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_8397",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_1149"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_715",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_1149"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_8676",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_1149"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_29198",
+      "title": "acts_within",
+      "to": "PATHWAY_1002"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_8424",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_1149"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_7908"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_212"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_8135"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_24788",
+      "title": "acts_within",
+      "to": "PATHWAY_401"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_11858",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_1149"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_9811"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_51"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_575"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_29198",
+      "title": "acts_within",
+      "to": "PATHWAY_933"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_866"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_257"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_27"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1047",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_1149"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_244"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_32278",
+      "title": "acts_within",
+      "to": "PATHWAY_356"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_348"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_4592",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_1149"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_32278",
+      "title": "acts_within",
+      "to": "PATHWAY_355"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_2088"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_11765",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_1149"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_target",
+      "to": "PROTEIN_1617"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_2033"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_26810",
+      "title": "acts_within",
+      "to": "PATHWAY_1025"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_24788",
+      "title": "acts_within",
+      "to": "PATHWAY_500"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_178"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_140"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_31685",
+      "title": "acts_within",
+      "to": "PATHWAY_1998"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_26810",
+      "title": "acts_within",
+      "to": "PATHWAY_1027"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_24788",
+      "title": "acts_within",
+      "to": "PATHWAY_497"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_268"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_73"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_7986",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_1149"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_26810",
+      "title": "acts_within",
+      "to": "PATHWAY_33"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_13820"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_8836",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_1149"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_32278",
+      "title": "acts_within",
+      "to": "PATHWAY_539"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_26810",
+      "title": "acts_within",
+      "to": "PATHWAY_35"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_32278",
+      "title": "acts_within",
+      "to": "PATHWAY_496"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_33412",
+      "title": "acts_within",
+      "to": "PATHWAY_1173"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_26810",
+      "title": "acts_within",
+      "to": "PATHWAY_21"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_8338",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_1149"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "increase_effect",
+      "to": "EFFECT_12"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_259"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_31685",
+      "title": "acts_within",
+      "to": "PATHWAY_1514"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_indication",
+      "to": "INDICATION_2353"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_10286",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_1149"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_1047"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_4592"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_118"
+    },
+    {
+      "arrows": "to",
+      "from": "PROTEIN_1026",
+      "title": "gene_product_of",
+      "to": "GENE_24788"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_114"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_12807",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_1149"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_32278",
+      "title": "acts_within",
+      "to": "PATHWAY_344"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_29344",
+      "title": "acts_within",
+      "to": "PATHWAY_1168"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "increase_effect",
+      "to": "EFFECT_16"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "increase_activity",
+      "to": "ACTIVITY_4"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_8135",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_1149"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_26810",
+      "title": "causes_condition",
+      "to": "DISEASE_7426"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_413"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_45"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1232",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_1149"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_13256"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_effect",
+      "to": "EFFECT_36"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_8423"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_26810",
+      "title": "acts_within",
+      "to": "PATHWAY_298"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_26810",
+      "title": "acts_within",
+      "to": "PATHWAY_25"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_9037"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_activity",
+      "to": "ACTIVITY_4"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_12210",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_1149"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_13015"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_activity",
+      "to": "ACTIVITY_7"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_indication",
+      "to": "INDICATION_2424"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_32278",
+      "title": "causes_condition",
+      "to": "DISEASE_1920"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_8677",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_1149"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_10312",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_1149"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1329",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_1149"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_45",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_1149"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_822"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_131"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_25"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_106"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_3133"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_24"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_31685",
+      "title": "acts_within",
+      "to": "PATHWAY_1225"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1100",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_1149"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_389"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_31685",
+      "title": "acts_within",
+      "to": "PATHWAY_820"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_7834",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_1149"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_target",
+      "to": "PROTEIN_1615"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_313"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_26810",
+      "title": "acts_within",
+      "to": "PATHWAY_1337"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_9696",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_1149"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_24788",
+      "title": "acts_within",
+      "to": "PATHWAY_502"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_1088"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_5"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_1090"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_31685",
+      "title": "acts_within",
+      "to": "PATHWAY_1999"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_26810",
+      "title": "acts_within",
+      "to": "PATHWAY_18"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_26810",
+      "title": "causes_condition",
+      "to": "DISEASE_15722"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_26810",
+      "title": "acts_within",
+      "to": "PATHWAY_17"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_29198",
+      "title": "acts_within",
+      "to": "PATHWAY_314"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_337"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_31050",
+      "title": "acts_within",
+      "to": "PATHWAY_179"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_439"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_26810",
+      "title": "acts_within",
+      "to": "PATHWAY_27"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_31685",
+      "title": "acts_within",
+      "to": "PATHWAY_491"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_26810",
+      "title": "acts_within",
+      "to": "PATHWAY_28"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_31685",
+      "title": "acts_within",
+      "to": "PATHWAY_722"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_31685",
+      "title": "acts_within",
+      "to": "PATHWAY_485"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_29198",
+      "title": "acts_within",
+      "to": "PATHWAY_377"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_31685",
+      "title": "acts_within",
+      "to": "PATHWAY_1812"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_10120",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_1149"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_7859"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_26810",
+      "title": "acts_within",
+      "to": "PATHWAY_641"
+    },
+    {
+      "arrows": "to",
+      "from": "PROTEIN_916",
+      "title": "gene_product_of",
+      "to": "GENE_29198"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_32278",
+      "title": "acts_within",
+      "to": "PATHWAY_331"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_8133"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_9739",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_1149"
+    },
+    {
+      "arrows": "to",
+      "from": "PROTEIN_718",
+      "title": "gene_product_of",
+      "to": "GENE_26810"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_8388"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_8423",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_1149"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_10597"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_indication",
+      "to": "INDICATION_2423"
+    },
+    {
+      "arrows": "to",
+      "from": "PROTEIN_860",
+      "title": "gene_product_of",
+      "to": "GENE_29344"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_26810",
+      "title": "acts_within",
+      "to": "PATHWAY_31"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_895"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_37"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_33412",
+      "title": "acts_within",
+      "to": "PATHWAY_24"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_24788",
+      "title": "acts_within",
+      "to": "PATHWAY_344"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_149"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_1100"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_effect",
+      "to": "EFFECT_8"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_32278",
+      "title": "acts_within",
+      "to": "PATHWAY_69"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "increase_effect",
+      "to": "EFFECT_9"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_29198",
+      "title": "acts_within",
+      "to": "PATHWAY_1043"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_24788",
+      "title": "acts_within",
+      "to": "PATHWAY_333"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1256",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_1149"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_1581"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_9037",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_1149"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1112",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_1149"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_35"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_29198",
+      "title": "acts_within",
+      "to": "PATHWAY_1806"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_33412",
+      "title": "acts_within",
+      "to": "PATHWAY_1720"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_10457"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_14040"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_13229"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_13152",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_1149"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_12211",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_1149"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "decrease_activity",
+      "to": "ACTIVITY_7"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_12807"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_292"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_4627"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "increase_effect",
+      "to": "EFFECT_15"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_85"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_31685",
+      "title": "acts_within",
+      "to": "PATHWAY_886"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_26810",
+      "title": "acts_within",
+      "to": "PATHWAY_1237"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_31050",
+      "title": "acts_within",
+      "to": "PATHWAY_427"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_12211"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_activity",
+      "to": "ACTIVITY_8"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "is_affecting",
+      "to": "GENE_17109"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_17"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_37"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_1268"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_32278",
+      "title": "acts_within",
+      "to": "PATHWAY_1257"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_180"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_243"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_5043",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_1149"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_31"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_548"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_26810",
+      "title": "acts_within",
+      "to": "PATHWAY_26"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1278",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_1149"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_26810",
+      "title": "acts_within",
+      "to": "PATHWAY_496"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_31685",
+      "title": "acts_within",
+      "to": "PATHWAY_97"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_24788",
+      "title": "acts_within",
+      "to": "PATHWAY_263"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_31685",
+      "title": "acts_within",
+      "to": "PATHWAY_1705"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_9742",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_1149"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_115"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_694"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_10457",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_1149"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_1568"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_5403",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_1149"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_31685",
+      "title": "acts_within",
+      "to": "PATHWAY_761"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_7986"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_26810",
+      "title": "acts_within",
+      "to": "PATHWAY_566"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_9526"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_1688"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_11861"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_31685",
+      "title": "acts_within",
+      "to": "PATHWAY_1794"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "has_side_effect",
+      "to": "SIDE_EFFECT_60"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_10172",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_1149"
+    },
+    {
+      "arrows": "to",
+      "from": "GENE_24788",
+      "title": "acts_within",
+      "to": "PATHWAY_331"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_212"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_9811",
+      "title": "decrease_efficacy",
+      "to": "COMPOUND_1149"
+    },
+    {
+      "arrows": "to",
+      "from": "COMPOUND_1149",
+      "title": "increase_effect",
+      "to": "EFFECT_4"
+    }
+  ]
+}

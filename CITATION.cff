@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "Please cite this combined study when referring to its analysis, and cite Boudin et al. (2023) for OREGANO."
+title: "OREGANO: from knowledge graph construction to candidate ranking"
+type: software
+authors:
+  - family-names: Ineizeh
+    given-names: Ibrahim
+version: 1.0.0
+date-released: 2026-10-04
+abstract: "An archival edition combining ontology construction, graph exploration, indirect compound-disease path searches, and heuristic Bayesian compound ranking using OREGANO V2.1."
+keywords:
+  - knowledge engineering
+  - OREGANO
+  - knowledge graph
+  - drug repurposing
+  - Bayesian network

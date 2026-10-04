@@ -1,0 +1,55 @@
+{
+  "slug": "bayesian_network",
+  "title": "Bayesian network structure",
+  "subtitle": "Exploratory model: Compound \u2192 Gene; Compound and Gene \u2192 Protein; Protein \u2192 Disease.",
+  "source_notebook": "assessment_2",
+  "source_cell": 38,
+  "nodes": [
+    {
+      "color": "#97c2fc",
+      "id": "Gene",
+      "label": "Gene",
+      "shape": "dot"
+    },
+    {
+      "color": "#97c2fc",
+      "id": "Protein",
+      "label": "Protein",
+      "shape": "dot"
+    },
+    {
+      "color": "#97c2fc",
+      "id": "Disease",
+      "label": "Disease",
+      "shape": "dot"
+    },
+    {
+      "color": "#97c2fc",
+      "id": "Compound",
+      "label": "Compound",
+      "shape": "dot"
+    }
+  ],
+  "edges": [
+    {
+      "arrows": "to",
+      "from": "Gene",
+      "to": "Protein"
+    },
+    {
+      "arrows": "to",
+      "from": "Protein",
+      "to": "Disease"
+    },
+    {
+      "arrows": "to",
+      "from": "Compound",
+      "to": "Gene"
+    },
+    {
+      "arrows": "to",
+      "from": "Compound",
+      "to": "Protein"
+    }
+  ]
+}

@@ -1,0 +1,8604 @@
+{
+  "slug": "gene_disease_sample",
+  "title": "Gene\u2013disease relation sample",
+  "subtitle": "500 sampled edges across gene associations, compound effects, and treatment links.",
+  "source_notebook": "assessment_1",
+  "source_cell": 93,
+  "nodes": [
+    {
+      "color": null,
+      "id": 139984,
+      "label": 139984,
+      "shape": "dot",
+      "title": "GENE_26772/ "
+    },
+    {
+      "color": "pink",
+      "id": 150185,
+      "label": 150185,
+      "shape": "dot",
+      "title": "DISEASE_969/ "
+    },
+    {
+      "color": "green",
+      "id": 14705,
+      "label": 14705,
+      "shape": "dot",
+      "title": "COMPOUND_14706/0"
+    },
+    {
+      "color": null,
+      "id": 114876,
+      "label": 114876,
+      "shape": "dot",
+      "title": "GENE_18568/ "
+    },
+    {
+      "color": null,
+      "id": 113524,
+      "label": 113524,
+      "shape": "dot",
+      "title": "GENE_4352/ "
+    },
+    {
+      "color": "pink",
+      "id": 149083,
+      "label": 149083,
+      "shape": "dot",
+      "title": "DISEASE_2885/ "
+    },
+    {
+      "color": null,
+      "id": 145158,
+      "label": 145158,
+      "shape": "dot",
+      "title": "GENE_31946/ "
+    },
+    {
+      "color": "pink",
+      "id": 162943,
+      "label": 162943,
+      "shape": "dot",
+      "title": "DISEASE_13937/ "
+    },
+    {
+      "color": null,
+      "id": 142278,
+      "label": 142278,
+      "shape": "dot",
+      "title": "GENE_29066/ "
+    },
+    {
+      "color": "pink",
+      "id": 154257,
+      "label": 154257,
+      "shape": "dot",
+      "title": "DISEASE_4139/ "
+    },
+    {
+      "color": null,
+      "id": 147256,
+      "label": 147256,
+      "shape": "dot",
+      "title": "GENE_34044/ "
+    },
+    {
+      "color": "pink",
+      "id": 163886,
+      "label": 163886,
+      "shape": "dot",
+      "title": "DISEASE_14880/ "
+    },
+    {
+      "color": "green",
+      "id": 469,
+      "label": 469,
+      "shape": "dot",
+      "title": "COMPOUND_470/Celecoxib"
+    },
+    {
+      "color": null,
+      "id": 113366,
+      "label": 113366,
+      "shape": "dot",
+      "title": "GENE_16746/ "
+    },
+    {
+      "color": null,
+      "id": 113476,
+      "label": 113476,
+      "shape": "dot",
+      "title": "GENE_83/ "
+    },
+    {
+      "color": "pink",
+      "id": 149082,
+      "label": 149082,
+      "shape": "dot",
+      "title": "DISEASE_1074/ "
+    },
+    {
+      "color": null,
+      "id": 141061,
+      "label": 141061,
+      "shape": "dot",
+      "title": "GENE_27849/ "
+    },
+    {
+      "color": "pink",
+      "id": 164581,
+      "label": 164581,
+      "shape": "dot",
+      "title": "DISEASE_15575/ "
+    },
+    {
+      "color": null,
+      "id": 148715,
+      "label": 148715,
+      "shape": "dot",
+      "title": "GENE_35503/ "
+    },
+    {
+      "color": "pink",
+      "id": 164977,
+      "label": 164977,
+      "shape": "dot",
+      "title": "DISEASE_15971/ "
+    },
+    {
+      "color": null,
+      "id": 114256,
+      "label": 114256,
+      "shape": "dot",
+      "title": "GENE_22982/ "
+    },
+    {
+      "color": "pink",
+      "id": 149201,
+      "label": 149201,
+      "shape": "dot",
+      "title": "DISEASE_1228/ "
+    },
+    {
+      "color": null,
+      "id": 140161,
+      "label": 140161,
+      "shape": "dot",
+      "title": "GENE_26949/ "
+    },
+    {
+      "color": "pink",
+      "id": 154850,
+      "label": 154850,
+      "shape": "dot",
+      "title": "DISEASE_5893/ "
+    },
+    {
+      "color": null,
+      "id": 114520,
+      "label": 114520,
+      "shape": "dot",
+      "title": "GENE_8094/ "
+    },
+    {
+      "color": "pink",
+      "id": 149131,
+      "label": 149131,
+      "shape": "dot",
+      "title": "DISEASE_1506/ "
+    },
+    {
+      "color": "green",
+      "id": 579,
+      "label": 579,
+      "shape": "dot",
+      "title": "COMPOUND_580/Amiloride"
+    },
+    {
+      "color": null,
+      "id": 113872,
+      "label": 113872,
+      "shape": "dot",
+      "title": "GENE_18571/ "
+    },
+    {
+      "color": "green",
+      "id": 1253,
+      "label": 1253,
+      "shape": "dot",
+      "title": "COMPOUND_1254/Hydralazine"
+    },
+    {
+      "color": null,
+      "id": 113288,
+      "label": 113288,
+      "shape": "dot",
+      "title": "GENE_8032/ "
+    },
+    {
+      "color": "green",
+      "id": 90862,
+      "label": 90862,
+      "shape": "dot",
+      "title": "COMPOUND_90863/0"
+    },
+    {
+      "color": null,
+      "id": 113941,
+      "label": 113941,
+      "shape": "dot",
+      "title": "GENE_875/ "
+    },
+    {
+      "color": null,
+      "id": 147564,
+      "label": 147564,
+      "shape": "dot",
+      "title": "GENE_34352/ "
+    },
+    {
+      "color": "pink",
+      "id": 165203,
+      "label": 165203,
+      "shape": "dot",
+      "title": "DISEASE_16197/ "
+    },
+    {
+      "color": null,
+      "id": 146580,
+      "label": 146580,
+      "shape": "dot",
+      "title": "GENE_33368/ "
+    },
+    {
+      "color": "pink",
+      "id": 162938,
+      "label": 162938,
+      "shape": "dot",
+      "title": "DISEASE_13932/ "
+    },
+    {
+      "color": "green",
+      "id": 511,
+      "label": 511,
+      "shape": "dot",
+      "title": "COMPOUND_512/Oxaliplatin"
+    },
+    {
+      "color": "pink",
+      "id": 149038,
+      "label": 149038,
+      "shape": "dot",
+      "title": "DISEASE_477/ "
+    },
+    {
+      "color": null,
+      "id": 113587,
+      "label": 113587,
+      "shape": "dot",
+      "title": "GENE_9500/ "
+    },
+    {
+      "color": "pink",
+      "id": 149259,
+      "label": 149259,
+      "shape": "dot",
+      "title": "DISEASE_3191/ "
+    },
+    {
+      "color": null,
+      "id": 114539,
+      "label": 114539,
+      "shape": "dot",
+      "title": "GENE_4038/ "
+    },
+    {
+      "color": "pink",
+      "id": 149035,
+      "label": 149035,
+      "shape": "dot",
+      "title": "DISEASE_1541/ "
+    },
+    {
+      "color": null,
+      "id": 144533,
+      "label": 144533,
+      "shape": "dot",
+      "title": "GENE_31321/ "
+    },
+    {
+      "color": "pink",
+      "id": 165987,
+      "label": 165987,
+      "shape": "dot",
+      "title": "DISEASE_16981/ "
+    },
+    {
+      "color": "green",
+      "id": 409,
+      "label": 409,
+      "shape": "dot",
+      "title": "COMPOUND_410/Methylphenidate"
+    },
+    {
+      "color": null,
+      "id": 113918,
+      "label": 113918,
+      "shape": "dot",
+      "title": "GENE_11850/ "
+    },
+    {
+      "color": null,
+      "id": 113308,
+      "label": 113308,
+      "shape": "dot",
+      "title": "GENE_2011/ "
+    },
+    {
+      "color": "pink",
+      "id": 149159,
+      "label": 149159,
+      "shape": "dot",
+      "title": "DISEASE_2020/ "
+    },
+    {
+      "color": "green",
+      "id": 1055,
+      "label": 1055,
+      "shape": "dot",
+      "title": "COMPOUND_1056/Atorvastatin"
+    },
+    {
+      "color": null,
+      "id": 113493,
+      "label": 113493,
+      "shape": "dot",
+      "title": "GENE_18365/ "
+    },
+    {
+      "color": null,
+      "id": 113253,
+      "label": 113253,
+      "shape": "dot",
+      "title": "GENE_4141/ "
+    },
+    {
+      "color": "pink",
+      "id": 149216,
+      "label": 149216,
+      "shape": "dot",
+      "title": "DISEASE_1740/ "
+    },
+    {
+      "color": null,
+      "id": 143200,
+      "label": 143200,
+      "shape": "dot",
+      "title": "GENE_29988/ "
+    },
+    {
+      "color": "pink",
+      "id": 162780,
+      "label": 162780,
+      "shape": "dot",
+      "title": "DISEASE_13774/ "
+    },
+    {
+      "color": null,
+      "id": 143143,
+      "label": 143143,
+      "shape": "dot",
+      "title": "GENE_29931/ "
+    },
+    {
+      "color": "pink",
+      "id": 163259,
+      "label": 163259,
+      "shape": "dot",
+      "title": "DISEASE_14253/ "
+    },
+    {
+      "color": null,
+      "id": 140412,
+      "label": 140412,
+      "shape": "dot",
+      "title": "GENE_27200/ "
+    },
+    {
+      "color": "pink",
+      "id": 166573,
+      "label": 166573,
+      "shape": "dot",
+      "title": "DISEASE_17567/ "
+    },
+    {
+      "color": null,
+      "id": 113999,
+      "label": 113999,
+      "shape": "dot",
+      "title": "GENE_19268/ "
+    },
+    {
+      "color": "pink",
+      "id": 149103,
+      "label": 149103,
+      "shape": "dot",
+      "title": "DISEASE_168/ "
+    },
+    {
+      "color": "green",
+      "id": 1161,
+      "label": 1161,
+      "shape": "dot",
+      "title": "COMPOUND_1162/Propafenone"
+    },
+    {
+      "color": null,
+      "id": 113343,
+      "label": 113343,
+      "shape": "dot",
+      "title": "GENE_48/ "
+    },
+    {
+      "color": "green",
+      "id": 741,
+      "label": 741,
+      "shape": "dot",
+      "title": "COMPOUND_742/Clopidogrel"
+    },
+    {
+      "color": "pink",
+      "id": 149046,
+      "label": 149046,
+      "shape": "dot",
+      "title": "DISEASE_54/ "
+    },
+    {
+      "color": "green",
+      "id": 516,
+      "label": 516,
+      "shape": "dot",
+      "title": "COMPOUND_517/Cyclophosphamide"
+    },
+    {
+      "color": null,
+      "id": 114195,
+      "label": 114195,
+      "shape": "dot",
+      "title": "GENE_595/ "
+    },
+    {
+      "color": null,
+      "id": 146072,
+      "label": 146072,
+      "shape": "dot",
+      "title": "GENE_32860/ "
+    },
+    {
+      "color": "pink",
+      "id": 155357,
+      "label": 155357,
+      "shape": "dot",
+      "title": "DISEASE_7656/ "
+    },
+    {
+      "color": null,
+      "id": 141832,
+      "label": 141832,
+      "shape": "dot",
+      "title": "GENE_28620/ "
+    },
+    {
+      "color": "pink",
+      "id": 164497,
+      "label": 164497,
+      "shape": "dot",
+      "title": "DISEASE_15491/ "
+    },
+    {
+      "color": "green",
+      "id": 306,
+      "label": 306,
+      "shape": "dot",
+      "title": "COMPOUND_307/Gefitinib"
+    },
+    {
+      "color": null,
+      "id": 113252,
+      "label": 113252,
+      "shape": "dot",
+      "title": "GENE_17328/ "
+    },
+    {
+      "color": "pink",
+      "id": 149161,
+      "label": 149161,
+      "shape": "dot",
+      "title": "DISEASE_3058/ "
+    },
+    {
+      "color": null,
+      "id": 140059,
+      "label": 140059,
+      "shape": "dot",
+      "title": "GENE_26847/ "
+    },
+    {
+      "color": "pink",
+      "id": 163699,
+      "label": 163699,
+      "shape": "dot",
+      "title": "DISEASE_14693/ "
+    },
+    {
+      "color": "pink",
+      "id": 149050,
+      "label": 149050,
+      "shape": "dot",
+      "title": "DISEASE_804/ "
+    },
+    {
+      "color": null,
+      "id": 113974,
+      "label": 113974,
+      "shape": "dot",
+      "title": "GENE_12703/ "
+    },
+    {
+      "color": "pink",
+      "id": 149011,
+      "label": 149011,
+      "shape": "dot",
+      "title": "DISEASE_265/ "
+    },
+    {
+      "color": null,
+      "id": 139897,
+      "label": 139897,
+      "shape": "dot",
+      "title": "GENE_26685/ "
+    },
+    {
+      "color": "pink",
+      "id": 163378,
+      "label": 163378,
+      "shape": "dot",
+      "title": "DISEASE_14372/ "
+    },
+    {
+      "color": null,
+      "id": 143740,
+      "label": 143740,
+      "shape": "dot",
+      "title": "GENE_30528/ "
+    },
+    {
+      "color": "pink",
+      "id": 152964,
+      "label": 152964,
+      "shape": "dot",
+      "title": "DISEASE_6023/ "
+    },
+    {
+      "color": null,
+      "id": 113591,
+      "label": 113591,
+      "shape": "dot",
+      "title": "GENE_8014/ "
+    },
+    {
+      "color": "pink",
+      "id": 149179,
+      "label": 149179,
+      "shape": "dot",
+      "title": "DISEASE_2380/ "
+    },
+    {
+      "color": "green",
+      "id": 9502,
+      "label": 9502,
+      "shape": "dot",
+      "title": "COMPOUND_9503/Ravulizumab"
+    },
+    {
+      "color": null,
+      "id": 114662,
+      "label": 114662,
+      "shape": "dot",
+      "title": "GENE_3345/ "
+    },
+    {
+      "color": null,
+      "id": 145699,
+      "label": 145699,
+      "shape": "dot",
+      "title": "GENE_32487/ "
+    },
+    {
+      "color": "pink",
+      "id": 150893,
+      "label": 150893,
+      "shape": "dot",
+      "title": "DISEASE_1742/ "
+    },
+    {
+      "color": null,
+      "id": 139195,
+      "label": 139195,
+      "shape": "dot",
+      "title": "GENE_25983/ "
+    },
+    {
+      "color": "pink",
+      "id": 159021,
+      "label": 159021,
+      "shape": "dot",
+      "title": "DISEASE_8225/ "
+    },
+    {
+      "color": null,
+      "id": 144021,
+      "label": 144021,
+      "shape": "dot",
+      "title": "GENE_30809/ "
+    },
+    {
+      "color": "pink",
+      "id": 156120,
+      "label": 156120,
+      "shape": "dot",
+      "title": "DISEASE_11460/ "
+    },
+    {
+      "color": null,
+      "id": 143663,
+      "label": 143663,
+      "shape": "dot",
+      "title": "GENE_30451/ "
+    },
+    {
+      "color": "pink",
+      "id": 163970,
+      "label": 163970,
+      "shape": "dot",
+      "title": "DISEASE_14964/ "
+    },
+    {
+      "color": null,
+      "id": 145336,
+      "label": 145336,
+      "shape": "dot",
+      "title": "GENE_32124/ "
+    },
+    {
+      "color": "pink",
+      "id": 156389,
+      "label": 156389,
+      "shape": "dot",
+      "title": "DISEASE_12600/ "
+    },
+    {
+      "color": null,
+      "id": 113223,
+      "label": 113223,
+      "shape": "dot",
+      "title": "GENE_6276/ "
+    },
+    {
+      "color": "pink",
+      "id": 149008,
+      "label": 149008,
+      "shape": "dot",
+      "title": "DISEASE_640/ "
+    },
+    {
+      "color": null,
+      "id": 144419,
+      "label": 144419,
+      "shape": "dot",
+      "title": "GENE_31207/ "
+    },
+    {
+      "color": "pink",
+      "id": 156515,
+      "label": 156515,
+      "shape": "dot",
+      "title": "DISEASE_13229/ "
+    },
+    {
+      "color": null,
+      "id": 148051,
+      "label": 148051,
+      "shape": "dot",
+      "title": "GENE_34839/ "
+    },
+    {
+      "color": "pink",
+      "id": 154179,
+      "label": 154179,
+      "shape": "dot",
+      "title": "DISEASE_3878/ "
+    },
+    {
+      "color": null,
+      "id": 114410,
+      "label": 114410,
+      "shape": "dot",
+      "title": "GENE_12762/ "
+    },
+    {
+      "color": "pink",
+      "id": 149231,
+      "label": 149231,
+      "shape": "dot",
+      "title": "DISEASE_1912/ "
+    },
+    {
+      "color": null,
+      "id": 147004,
+      "label": 147004,
+      "shape": "dot",
+      "title": "GENE_33792/ "
+    },
+    {
+      "color": "pink",
+      "id": 166481,
+      "label": 166481,
+      "shape": "dot",
+      "title": "DISEASE_17475/ "
+    },
+    {
+      "color": "green",
+      "id": 14264,
+      "label": 14264,
+      "shape": "dot",
+      "title": "COMPOUND_14265/0"
+    },
+    {
+      "color": null,
+      "id": 113324,
+      "label": 113324,
+      "shape": "dot",
+      "title": "GENE_12708/ "
+    },
+    {
+      "color": null,
+      "id": 113320,
+      "label": 113320,
+      "shape": "dot",
+      "title": "GENE_12101/ "
+    },
+    {
+      "color": null,
+      "id": 113396,
+      "label": 113396,
+      "shape": "dot",
+      "title": "GENE_22969/ "
+    },
+    {
+      "color": "pink",
+      "id": 149080,
+      "label": 149080,
+      "shape": "dot",
+      "title": "DISEASE_38/ "
+    },
+    {
+      "color": null,
+      "id": 148803,
+      "label": 148803,
+      "shape": "dot",
+      "title": "GENE_35591/ "
+    },
+    {
+      "color": "pink",
+      "id": 163175,
+      "label": 163175,
+      "shape": "dot",
+      "title": "DISEASE_14169/ "
+    },
+    {
+      "color": null,
+      "id": 147296,
+      "label": 147296,
+      "shape": "dot",
+      "title": "GENE_34084/ "
+    },
+    {
+      "color": "pink",
+      "id": 149693,
+      "label": 149693,
+      "shape": "dot",
+      "title": "DISEASE_430/ "
+    },
+    {
+      "color": null,
+      "id": 148219,
+      "label": 148219,
+      "shape": "dot",
+      "title": "GENE_35007/ "
+    },
+    {
+      "color": "pink",
+      "id": 150446,
+      "label": 150446,
+      "shape": "dot",
+      "title": "DISEASE_1249/ "
+    },
+    {
+      "color": null,
+      "id": 144205,
+      "label": 144205,
+      "shape": "dot",
+      "title": "GENE_30993/ "
+    },
+    {
+      "color": "pink",
+      "id": 152863,
+      "label": 152863,
+      "shape": "dot",
+      "title": "DISEASE_5324/ "
+    },
+    {
+      "color": null,
+      "id": 140063,
+      "label": 140063,
+      "shape": "dot",
+      "title": "GENE_26851/ "
+    },
+    {
+      "color": "pink",
+      "id": 152555,
+      "label": 152555,
+      "shape": "dot",
+      "title": "DISEASE_4001/ "
+    },
+    {
+      "color": null,
+      "id": 140434,
+      "label": 140434,
+      "shape": "dot",
+      "title": "GENE_27222/ "
+    },
+    {
+      "color": "pink",
+      "id": 162859,
+      "label": 162859,
+      "shape": "dot",
+      "title": "DISEASE_13853/ "
+    },
+    {
+      "color": null,
+      "id": 114609,
+      "label": 114609,
+      "shape": "dot",
+      "title": "GENE_2633/ "
+    },
+    {
+      "color": "pink",
+      "id": 149037,
+      "label": 149037,
+      "shape": "dot",
+      "title": "DISEASE_412/ "
+    },
+    {
+      "color": null,
+      "id": 143046,
+      "label": 143046,
+      "shape": "dot",
+      "title": "GENE_29834/ "
+    },
+    {
+      "color": "pink",
+      "id": 158611,
+      "label": 158611,
+      "shape": "dot",
+      "title": "DISEASE_7731/ "
+    },
+    {
+      "color": "green",
+      "id": 57,
+      "label": 57,
+      "shape": "dot",
+      "title": "COMPOUND_58/Interferon_beta-1a"
+    },
+    {
+      "color": null,
+      "id": 113287,
+      "label": 113287,
+      "shape": "dot",
+      "title": "GENE_8015/ "
+    },
+    {
+      "color": "green",
+      "id": 490,
+      "label": 490,
+      "shape": "dot",
+      "title": "COMPOUND_491/Ritonavir"
+    },
+    {
+      "color": null,
+      "id": 113592,
+      "label": 113592,
+      "shape": "dot",
+      "title": "GENE_19179/ "
+    },
+    {
+      "color": "green",
+      "id": 938,
+      "label": 938,
+      "shape": "dot",
+      "title": "COMPOUND_939/Hydrocodone"
+    },
+    {
+      "color": null,
+      "id": 113522,
+      "label": 113522,
+      "shape": "dot",
+      "title": "GENE_3755/ "
+    },
+    {
+      "color": null,
+      "id": 114192,
+      "label": 114192,
+      "shape": "dot",
+      "title": "GENE_20901/ "
+    },
+    {
+      "color": "pink",
+      "id": 149186,
+      "label": 149186,
+      "shape": "dot",
+      "title": "DISEASE_637/ "
+    },
+    {
+      "color": null,
+      "id": 138687,
+      "label": 138687,
+      "shape": "dot",
+      "title": "GENE_25475/ "
+    },
+    {
+      "color": "pink",
+      "id": 161935,
+      "label": 161935,
+      "shape": "dot",
+      "title": "DISEASE_12595/ "
+    },
+    {
+      "color": "green",
+      "id": 969,
+      "label": 969,
+      "shape": "dot",
+      "title": "COMPOUND_970/Cytarabine"
+    },
+    {
+      "color": null,
+      "id": 113384,
+      "label": 113384,
+      "shape": "dot",
+      "title": "GENE_19163/ "
+    },
+    {
+      "color": null,
+      "id": 148396,
+      "label": 148396,
+      "shape": "dot",
+      "title": "GENE_35184/ "
+    },
+    {
+      "color": "pink",
+      "id": 164964,
+      "label": 164964,
+      "shape": "dot",
+      "title": "DISEASE_15958/ "
+    },
+    {
+      "color": null,
+      "id": 126193,
+      "label": 126193,
+      "shape": "dot",
+      "title": "GENE_12274/ "
+    },
+    {
+      "color": "pink",
+      "id": 149189,
+      "label": 149189,
+      "shape": "dot",
+      "title": "DISEASE_2674/ "
+    },
+    {
+      "color": "green",
+      "id": 678,
+      "label": 678,
+      "shape": "dot",
+      "title": "COMPOUND_679/Daunorubicin"
+    },
+    {
+      "color": null,
+      "id": 113416,
+      "label": 113416,
+      "shape": "dot",
+      "title": "GENE_2875/ "
+    },
+    {
+      "color": "green",
+      "id": 526,
+      "label": 526,
+      "shape": "dot",
+      "title": "COMPOUND_527/Vincristine"
+    },
+    {
+      "color": null,
+      "id": 113318,
+      "label": 113318,
+      "shape": "dot",
+      "title": "GENE_11931/ "
+    },
+    {
+      "color": "green",
+      "id": 9534,
+      "label": 9534,
+      "shape": "dot",
+      "title": "COMPOUND_9535/Velpatasvir"
+    },
+    {
+      "color": null,
+      "id": 113300,
+      "label": 113300,
+      "shape": "dot",
+      "title": "GENE_8531/ "
+    },
+    {
+      "color": "green",
+      "id": 9896,
+      "label": 9896,
+      "shape": "dot",
+      "title": "COMPOUND_9897/Entrectinib"
+    },
+    {
+      "color": null,
+      "id": 113718,
+      "label": 113718,
+      "shape": "dot",
+      "title": "GENE_13730/ "
+    },
+    {
+      "color": null,
+      "id": 113789,
+      "label": 113789,
+      "shape": "dot",
+      "title": "GENE_10239/ "
+    },
+    {
+      "color": "pink",
+      "id": 149136,
+      "label": 149136,
+      "shape": "dot",
+      "title": "DISEASE_2023/ "
+    },
+    {
+      "color": null,
+      "id": 113776,
+      "label": 113776,
+      "shape": "dot",
+      "title": "GENE_2934/ "
+    },
+    {
+      "color": "pink",
+      "id": 149015,
+      "label": 149015,
+      "shape": "dot",
+      "title": "DISEASE_2631/ "
+    },
+    {
+      "color": null,
+      "id": 143089,
+      "label": 143089,
+      "shape": "dot",
+      "title": "GENE_29877/ "
+    },
+    {
+      "color": "pink",
+      "id": 158325,
+      "label": 158325,
+      "shape": "dot",
+      "title": "DISEASE_7222/ "
+    },
+    {
+      "color": null,
+      "id": 147592,
+      "label": 147592,
+      "shape": "dot",
+      "title": "GENE_34380/ "
+    },
+    {
+      "color": "pink",
+      "id": 167230,
+      "label": 167230,
+      "shape": "dot",
+      "title": "DISEASE_18224/ "
+    },
+    {
+      "color": null,
+      "id": 140301,
+      "label": 140301,
+      "shape": "dot",
+      "title": "GENE_27089/ "
+    },
+    {
+      "color": "pink",
+      "id": 160016,
+      "label": 160016,
+      "shape": "dot",
+      "title": "DISEASE_9486/ "
+    },
+    {
+      "color": "green",
+      "id": 190,
+      "label": 190,
+      "shape": "dot",
+      "title": "COMPOUND_191/Caffeine"
+    },
+    {
+      "color": null,
+      "id": 113580,
+      "label": 113580,
+      "shape": "dot",
+      "title": "GENE_20331/ "
+    },
+    {
+      "color": "green",
+      "id": 14611,
+      "label": 14611,
+      "shape": "dot",
+      "title": "COMPOUND_14612/0"
+    },
+    {
+      "color": null,
+      "id": 113690,
+      "label": 113690,
+      "shape": "dot",
+      "title": "GENE_4350/ "
+    },
+    {
+      "color": "green",
+      "id": 302,
+      "label": 302,
+      "shape": "dot",
+      "title": "COMPOUND_303/Valproate"
+    },
+    {
+      "color": null,
+      "id": 113530,
+      "label": 113530,
+      "shape": "dot",
+      "title": "GENE_5055/ "
+    },
+    {
+      "color": "green",
+      "id": 1080,
+      "label": 1080,
+      "shape": "dot",
+      "title": "COMPOUND_1081/Capecitabine"
+    },
+    {
+      "color": null,
+      "id": 114600,
+      "label": 114600,
+      "shape": "dot",
+      "title": "GENE_23343/ "
+    },
+    {
+      "color": "green",
+      "id": 1196,
+      "label": 1196,
+      "shape": "dot",
+      "title": "COMPOUND_1197/Anastrozole"
+    },
+    {
+      "color": null,
+      "id": 114501,
+      "label": 114501,
+      "shape": "dot",
+      "title": "GENE_4706/ "
+    },
+    {
+      "color": null,
+      "id": 113803,
+      "label": 113803,
+      "shape": "dot",
+      "title": "GENE_16155/ "
+    },
+    {
+      "color": null,
+      "id": 113459,
+      "label": 113459,
+      "shape": "dot",
+      "title": "GENE_5569/ "
+    },
+    {
+      "color": "pink",
+      "id": 150127,
+      "label": 150127,
+      "shape": "dot",
+      "title": "DISEASE_911/ "
+    },
+    {
+      "color": null,
+      "id": 113645,
+      "label": 113645,
+      "shape": "dot",
+      "title": "GENE_13619/ "
+    },
+    {
+      "color": "pink",
+      "id": 149196,
+      "label": 149196,
+      "shape": "dot",
+      "title": "DISEASE_2484/ "
+    },
+    {
+      "color": null,
+      "id": 145219,
+      "label": 145219,
+      "shape": "dot",
+      "title": "GENE_32007/ "
+    },
+    {
+      "color": "pink",
+      "id": 158959,
+      "label": 158959,
+      "shape": "dot",
+      "title": "DISEASE_8146/ "
+    },
+    {
+      "color": "green",
+      "id": 89835,
+      "label": 89835,
+      "shape": "dot",
+      "title": "COMPOUND_89763/0"
+    },
+    {
+      "color": "green",
+      "id": 1203,
+      "label": 1203,
+      "shape": "dot",
+      "title": "COMPOUND_1204/Quetiapine"
+    },
+    {
+      "color": "pink",
+      "id": 149124,
+      "label": 149124,
+      "shape": "dot",
+      "title": "DISEASE_3405/ "
+    },
+    {
+      "color": null,
+      "id": 144768,
+      "label": 144768,
+      "shape": "dot",
+      "title": "GENE_31556/ "
+    },
+    {
+      "color": "pink",
+      "id": 165295,
+      "label": 165295,
+      "shape": "dot",
+      "title": "DISEASE_16289/ "
+    },
+    {
+      "color": null,
+      "id": 113305,
+      "label": 113305,
+      "shape": "dot",
+      "title": "GENE_5708/ "
+    },
+    {
+      "color": "pink",
+      "id": 151394,
+      "label": 151394,
+      "shape": "dot",
+      "title": "DISEASE_2307/ "
+    },
+    {
+      "color": "green",
+      "id": 1013,
+      "label": 1013,
+      "shape": "dot",
+      "title": "COMPOUND_1014/Probenecid"
+    },
+    {
+      "color": null,
+      "id": 147027,
+      "label": 147027,
+      "shape": "dot",
+      "title": "GENE_33815/ "
+    },
+    {
+      "color": "pink",
+      "id": 154250,
+      "label": 154250,
+      "shape": "dot",
+      "title": "DISEASE_4124/ "
+    },
+    {
+      "color": null,
+      "id": 141830,
+      "label": 141830,
+      "shape": "dot",
+      "title": "GENE_28618/ "
+    },
+    {
+      "color": "pink",
+      "id": 163033,
+      "label": 163033,
+      "shape": "dot",
+      "title": "DISEASE_14027/ "
+    },
+    {
+      "color": "green",
+      "id": 90219,
+      "label": 90219,
+      "shape": "dot",
+      "title": "COMPOUND_90172/0"
+    },
+    {
+      "color": null,
+      "id": 113427,
+      "label": 113427,
+      "shape": "dot",
+      "title": "GENE_4366/ "
+    },
+    {
+      "color": null,
+      "id": 139562,
+      "label": 139562,
+      "shape": "dot",
+      "title": "GENE_26350/ "
+    },
+    {
+      "color": "pink",
+      "id": 156079,
+      "label": 156079,
+      "shape": "dot",
+      "title": "DISEASE_11340/ "
+    },
+    {
+      "color": null,
+      "id": 140055,
+      "label": 140055,
+      "shape": "dot",
+      "title": "GENE_26843/ "
+    },
+    {
+      "color": "pink",
+      "id": 155140,
+      "label": 155140,
+      "shape": "dot",
+      "title": "DISEASE_6901/ "
+    },
+    {
+      "color": null,
+      "id": 113712,
+      "label": 113712,
+      "shape": "dot",
+      "title": "GENE_18901/ "
+    },
+    {
+      "color": "pink",
+      "id": 149051,
+      "label": 149051,
+      "shape": "dot",
+      "title": "DISEASE_806/ "
+    },
+    {
+      "color": "green",
+      "id": 14198,
+      "label": 14198,
+      "shape": "dot",
+      "title": "COMPOUND_14199/0"
+    },
+    {
+      "color": null,
+      "id": 113533,
+      "label": 113533,
+      "shape": "dot",
+      "title": "GENE_19443/ "
+    },
+    {
+      "color": null,
+      "id": 114015,
+      "label": 114015,
+      "shape": "dot",
+      "title": "GENE_9286/ "
+    },
+    {
+      "color": "pink",
+      "id": 149252,
+      "label": 149252,
+      "shape": "dot",
+      "title": "DISEASE_1573/ "
+    },
+    {
+      "color": "pink",
+      "id": 149165,
+      "label": 149165,
+      "shape": "dot",
+      "title": "DISEASE_2664/ "
+    },
+    {
+      "color": null,
+      "id": 148368,
+      "label": 148368,
+      "shape": "dot",
+      "title": "GENE_35156/ "
+    },
+    {
+      "color": "pink",
+      "id": 156992,
+      "label": 156992,
+      "shape": "dot",
+      "title": "DISEASE_4354/ "
+    },
+    {
+      "color": null,
+      "id": 113633,
+      "label": 113633,
+      "shape": "dot",
+      "title": "GENE_16153/ "
+    },
+    {
+      "color": "pink",
+      "id": 149169,
+      "label": 149169,
+      "shape": "dot",
+      "title": "DISEASE_1554/ "
+    },
+    {
+      "color": "green",
+      "id": 477,
+      "label": 477,
+      "shape": "dot",
+      "title": "COMPOUND_478/Buspirone"
+    },
+    {
+      "color": null,
+      "id": 141265,
+      "label": 141265,
+      "shape": "dot",
+      "title": "GENE_28053/ "
+    },
+    {
+      "color": "pink",
+      "id": 155553,
+      "label": 155553,
+      "shape": "dot",
+      "title": "DISEASE_8693/ "
+    },
+    {
+      "color": null,
+      "id": 139955,
+      "label": 139955,
+      "shape": "dot",
+      "title": "GENE_26743/ "
+    },
+    {
+      "color": "pink",
+      "id": 166911,
+      "label": 166911,
+      "shape": "dot",
+      "title": "DISEASE_17905/ "
+    },
+    {
+      "color": null,
+      "id": 142781,
+      "label": 142781,
+      "shape": "dot",
+      "title": "GENE_29569/ "
+    },
+    {
+      "color": "pink",
+      "id": 163046,
+      "label": 163046,
+      "shape": "dot",
+      "title": "DISEASE_14040/ "
+    },
+    {
+      "color": "green",
+      "id": 1076,
+      "label": 1076,
+      "shape": "dot",
+      "title": "COMPOUND_1077/Leflunomide"
+    },
+    {
+      "color": null,
+      "id": 139684,
+      "label": 139684,
+      "shape": "dot",
+      "title": "GENE_26472/ "
+    },
+    {
+      "color": "pink",
+      "id": 156393,
+      "label": 156393,
+      "shape": "dot",
+      "title": "DISEASE_12605/ "
+    },
+    {
+      "color": null,
+      "id": 137932,
+      "label": 137932,
+      "shape": "dot",
+      "title": "GENE_24720/ "
+    },
+    {
+      "color": "pink",
+      "id": 152423,
+      "label": 152423,
+      "shape": "dot",
+      "title": "DISEASE_3417/ "
+    },
+    {
+      "color": null,
+      "id": 140253,
+      "label": 140253,
+      "shape": "dot",
+      "title": "GENE_27041/ "
+    },
+    {
+      "color": "pink",
+      "id": 167214,
+      "label": 167214,
+      "shape": "dot",
+      "title": "DISEASE_18208/ "
+    },
+    {
+      "color": null,
+      "id": 138679,
+      "label": 138679,
+      "shape": "dot",
+      "title": "GENE_25467/ "
+    },
+    {
+      "color": "pink",
+      "id": 152422,
+      "label": 152422,
+      "shape": "dot",
+      "title": "DISEASE_3416/ "
+    },
+    {
+      "color": null,
+      "id": 139141,
+      "label": 139141,
+      "shape": "dot",
+      "title": "GENE_25929/ "
+    },
+    {
+      "color": "pink",
+      "id": 158952,
+      "label": 158952,
+      "shape": "dot",
+      "title": "DISEASE_8138/ "
+    },
+    {
+      "color": "green",
+      "id": 1033,
+      "label": 1033,
+      "shape": "dot",
+      "title": "COMPOUND_1034/Nitrendipine"
+    },
+    {
+      "color": null,
+      "id": 113815,
+      "label": 113815,
+      "shape": "dot",
+      "title": "GENE_496/ "
+    },
+    {
+      "color": null,
+      "id": 139805,
+      "label": 139805,
+      "shape": "dot",
+      "title": "GENE_26593/ "
+    },
+    {
+      "color": "pink",
+      "id": 153178,
+      "label": 153178,
+      "shape": "dot",
+      "title": "DISEASE_9074/ "
+    },
+    {
+      "color": null,
+      "id": 113479,
+      "label": 113479,
+      "shape": "dot",
+      "title": "GENE_8397/ "
+    },
+    {
+      "color": "pink",
+      "id": 149257,
+      "label": 149257,
+      "shape": "dot",
+      "title": "DISEASE_2282/ "
+    },
+    {
+      "color": null,
+      "id": 139014,
+      "label": 139014,
+      "shape": "dot",
+      "title": "GENE_25802/ "
+    },
+    {
+      "color": "pink",
+      "id": 166689,
+      "label": 166689,
+      "shape": "dot",
+      "title": "DISEASE_17683/ "
+    },
+    {
+      "color": null,
+      "id": 138469,
+      "label": 138469,
+      "shape": "dot",
+      "title": "GENE_25257/ "
+    },
+    {
+      "color": "pink",
+      "id": 156387,
+      "label": 156387,
+      "shape": "dot",
+      "title": "DISEASE_12594/ "
+    },
+    {
+      "color": "green",
+      "id": 89373,
+      "label": 89373,
+      "shape": "dot",
+      "title": "COMPOUND_89784/0"
+    },
+    {
+      "color": null,
+      "id": 113529,
+      "label": 113529,
+      "shape": "dot",
+      "title": "GENE_9446/ "
+    },
+    {
+      "color": "green",
+      "id": 90376,
+      "label": 90376,
+      "shape": "dot",
+      "title": "COMPOUND_90342/0"
+    },
+    {
+      "color": null,
+      "id": 113519,
+      "label": 113519,
+      "shape": "dot",
+      "title": "GENE_19488/ "
+    },
+    {
+      "color": "green",
+      "id": 89682,
+      "label": 89682,
+      "shape": "dot",
+      "title": "COMPOUND_89597/0"
+    },
+    {
+      "color": null,
+      "id": 143045,
+      "label": 143045,
+      "shape": "dot",
+      "title": "GENE_29833/ "
+    },
+    {
+      "color": "pink",
+      "id": 161160,
+      "label": 161160,
+      "shape": "dot",
+      "title": "DISEASE_11304/ "
+    },
+    {
+      "color": null,
+      "id": 114057,
+      "label": 114057,
+      "shape": "dot",
+      "title": "GENE_10702/ "
+    },
+    {
+      "color": "pink",
+      "id": 149164,
+      "label": 149164,
+      "shape": "dot",
+      "title": "DISEASE_282/ "
+    },
+    {
+      "color": null,
+      "id": 148244,
+      "label": 148244,
+      "shape": "dot",
+      "title": "GENE_35032/ "
+    },
+    {
+      "color": "pink",
+      "id": 164970,
+      "label": 164970,
+      "shape": "dot",
+      "title": "DISEASE_15964/ "
+    },
+    {
+      "color": "pink",
+      "id": 149162,
+      "label": 149162,
+      "shape": "dot",
+      "title": "DISEASE_2379/ "
+    },
+    {
+      "color": null,
+      "id": 114329,
+      "label": 114329,
+      "shape": "dot",
+      "title": "GENE_7636/ "
+    },
+    {
+      "color": "pink",
+      "id": 149007,
+      "label": 149007,
+      "shape": "dot",
+      "title": "DISEASE_2199/ "
+    },
+    {
+      "color": "green",
+      "id": 14622,
+      "label": 14622,
+      "shape": "dot",
+      "title": "COMPOUND_14623/0"
+    },
+    {
+      "color": "green",
+      "id": 800,
+      "label": 800,
+      "shape": "dot",
+      "title": "COMPOUND_801/Propofol"
+    },
+    {
+      "color": null,
+      "id": 114428,
+      "label": 114428,
+      "shape": "dot",
+      "title": "GENE_6839/ "
+    },
+    {
+      "color": null,
+      "id": 139419,
+      "label": 139419,
+      "shape": "dot",
+      "title": "GENE_26207/ "
+    },
+    {
+      "color": "pink",
+      "id": 165791,
+      "label": 165791,
+      "shape": "dot",
+      "title": "DISEASE_16785/ "
+    },
+    {
+      "color": null,
+      "id": 145746,
+      "label": 145746,
+      "shape": "dot",
+      "title": "GENE_32534/ "
+    },
+    {
+      "color": "pink",
+      "id": 163969,
+      "label": 163969,
+      "shape": "dot",
+      "title": "DISEASE_14963/ "
+    },
+    {
+      "color": "green",
+      "id": 1247,
+      "label": 1247,
+      "shape": "dot",
+      "title": "COMPOUND_1248/Panitumumab"
+    },
+    {
+      "color": null,
+      "id": 113235,
+      "label": 113235,
+      "shape": "dot",
+      "title": "GENE_21328/ "
+    },
+    {
+      "color": null,
+      "id": 137769,
+      "label": 137769,
+      "shape": "dot",
+      "title": "GENE_24557/ "
+    },
+    {
+      "color": "pink",
+      "id": 155950,
+      "label": 155950,
+      "shape": "dot",
+      "title": "DISEASE_10733/ "
+    },
+    {
+      "color": null,
+      "id": 143299,
+      "label": 143299,
+      "shape": "dot",
+      "title": "GENE_30087/ "
+    },
+    {
+      "color": "pink",
+      "id": 154087,
+      "label": 154087,
+      "shape": "dot",
+      "title": "DISEASE_3605/ "
+    },
+    {
+      "color": "green",
+      "id": 90583,
+      "label": 90583,
+      "shape": "dot",
+      "title": "COMPOUND_90561/0"
+    },
+    {
+      "color": "pink",
+      "id": 149020,
+      "label": 149020,
+      "shape": "dot",
+      "title": "DISEASE_1468/ "
+    },
+    {
+      "color": "green",
+      "id": 4936,
+      "label": 4936,
+      "shape": "dot",
+      "title": "COMPOUND_4937/Vandetanib"
+    },
+    {
+      "color": null,
+      "id": 113879,
+      "label": 113879,
+      "shape": "dot",
+      "title": "GENE_9615/ "
+    },
+    {
+      "color": "green",
+      "id": 1355,
+      "label": 1355,
+      "shape": "dot",
+      "title": "COMPOUND_1356/Acenocoumarol"
+    },
+    {
+      "color": null,
+      "id": 113475,
+      "label": 113475,
+      "shape": "dot",
+      "title": "GENE_959/ "
+    },
+    {
+      "color": null,
+      "id": 114131,
+      "label": 114131,
+      "shape": "dot",
+      "title": "GENE_64/ "
+    },
+    {
+      "color": "pink",
+      "id": 149054,
+      "label": 149054,
+      "shape": "dot",
+      "title": "DISEASE_2390/ "
+    },
+    {
+      "color": "green",
+      "id": 1246,
+      "label": 1246,
+      "shape": "dot",
+      "title": "COMPOUND_1247/Sunitinib"
+    },
+    {
+      "color": null,
+      "id": 114193,
+      "label": 114193,
+      "shape": "dot",
+      "title": "GENE_11194/ "
+    },
+    {
+      "color": null,
+      "id": 113868,
+      "label": 113868,
+      "shape": "dot",
+      "title": "GENE_425/ "
+    },
+    {
+      "color": "pink",
+      "id": 151487,
+      "label": 151487,
+      "shape": "dot",
+      "title": "DISEASE_2416/ "
+    },
+    {
+      "color": "green",
+      "id": 979,
+      "label": 979,
+      "shape": "dot",
+      "title": "COMPOUND_980/Doxorubicin"
+    },
+    {
+      "color": null,
+      "id": 114205,
+      "label": 114205,
+      "shape": "dot",
+      "title": "GENE_1344/ "
+    },
+    {
+      "color": null,
+      "id": 113574,
+      "label": 113574,
+      "shape": "dot",
+      "title": "GENE_4351/ "
+    },
+    {
+      "color": null,
+      "id": 144338,
+      "label": 144338,
+      "shape": "dot",
+      "title": "GENE_31126/ "
+    },
+    {
+      "color": "pink",
+      "id": 162784,
+      "label": 162784,
+      "shape": "dot",
+      "title": "DISEASE_13778/ "
+    },
+    {
+      "color": "green",
+      "id": 940,
+      "label": 940,
+      "shape": "dot",
+      "title": "COMPOUND_941/Carboplatin"
+    },
+    {
+      "color": null,
+      "id": 114167,
+      "label": 114167,
+      "shape": "dot",
+      "title": "GENE_10295/ "
+    },
+    {
+      "color": null,
+      "id": 114107,
+      "label": 114107,
+      "shape": "dot",
+      "title": "GENE_66/ "
+    },
+    {
+      "color": null,
+      "id": 113528,
+      "label": 113528,
+      "shape": "dot",
+      "title": "GENE_4328/ "
+    },
+    {
+      "color": "pink",
+      "id": 149251,
+      "label": 149251,
+      "shape": "dot",
+      "title": "DISEASE_3139/ "
+    },
+    {
+      "color": null,
+      "id": 113304,
+      "label": 113304,
+      "shape": "dot",
+      "title": "GENE_19487/ "
+    },
+    {
+      "color": "pink",
+      "id": 149153,
+      "label": 149153,
+      "shape": "dot",
+      "title": "DISEASE_150/ "
+    },
+    {
+      "color": "green",
+      "id": 90285,
+      "label": 90285,
+      "shape": "dot",
+      "title": "COMPOUND_90240/0"
+    },
+    {
+      "color": null,
+      "id": 113350,
+      "label": 113350,
+      "shape": "dot",
+      "title": "GENE_4260/ "
+    },
+    {
+      "color": "green",
+      "id": 525,
+      "label": 525,
+      "shape": "dot",
+      "title": "COMPOUND_526/Nortriptyline"
+    },
+    {
+      "color": null,
+      "id": 113523,
+      "label": 113523,
+      "shape": "dot",
+      "title": "GENE_4349/ "
+    },
+    {
+      "color": null,
+      "id": 139180,
+      "label": 139180,
+      "shape": "dot",
+      "title": "GENE_25968/ "
+    },
+    {
+      "color": "pink",
+      "id": 166570,
+      "label": 166570,
+      "shape": "dot",
+      "title": "DISEASE_17564/ "
+    },
+    {
+      "color": "green",
+      "id": 14773,
+      "label": 14773,
+      "shape": "dot",
+      "title": "COMPOUND_14774/0"
+    },
+    {
+      "color": null,
+      "id": 113757,
+      "label": 113757,
+      "shape": "dot",
+      "title": "GENE_20622/ "
+    },
+    {
+      "color": null,
+      "id": 141427,
+      "label": 141427,
+      "shape": "dot",
+      "title": "GENE_28215/ "
+    },
+    {
+      "color": "pink",
+      "id": 152465,
+      "label": 152465,
+      "shape": "dot",
+      "title": "DISEASE_3565/ "
+    },
+    {
+      "color": "green",
+      "id": 61,
+      "label": 61,
+      "shape": "dot",
+      "title": "COMPOUND_62/Infliximab"
+    },
+    {
+      "color": null,
+      "id": 113294,
+      "label": 113294,
+      "shape": "dot",
+      "title": "GENE_21877/ "
+    },
+    {
+      "color": "pink",
+      "id": 149155,
+      "label": 149155,
+      "shape": "dot",
+      "title": "DISEASE_2445/ "
+    },
+    {
+      "color": null,
+      "id": 141394,
+      "label": 141394,
+      "shape": "dot",
+      "title": "GENE_28182/ "
+    },
+    {
+      "color": "pink",
+      "id": 162847,
+      "label": 162847,
+      "shape": "dot",
+      "title": "DISEASE_13841/ "
+    },
+    {
+      "color": "green",
+      "id": 871,
+      "label": 871,
+      "shape": "dot",
+      "title": "COMPOUND_872/Granisetron"
+    },
+    {
+      "color": null,
+      "id": 113417,
+      "label": 113417,
+      "shape": "dot",
+      "title": "GENE_5636/ "
+    },
+    {
+      "color": null,
+      "id": 114620,
+      "label": 114620,
+      "shape": "dot",
+      "title": "GENE_19043/ "
+    },
+    {
+      "color": "green",
+      "id": 90151,
+      "label": 90151,
+      "shape": "dot",
+      "title": "COMPOUND_90099/0"
+    },
+    {
+      "color": null,
+      "id": 116964,
+      "label": 116964,
+      "shape": "dot",
+      "title": "GENE_2315/ "
+    },
+    {
+      "color": "pink",
+      "id": 149154,
+      "label": 149154,
+      "shape": "dot",
+      "title": "DISEASE_123/ "
+    },
+    {
+      "color": null,
+      "id": 142528,
+      "label": 142528,
+      "shape": "dot",
+      "title": "GENE_29316/ "
+    },
+    {
+      "color": "pink",
+      "id": 155752,
+      "label": 155752,
+      "shape": "dot",
+      "title": "DISEASE_9913/ "
+    },
+    {
+      "color": null,
+      "id": 113395,
+      "label": 113395,
+      "shape": "dot",
+      "title": "GENE_22019/ "
+    },
+    {
+      "color": "pink",
+      "id": 149248,
+      "label": 149248,
+      "shape": "dot",
+      "title": "DISEASE_1873/ "
+    },
+    {
+      "color": null,
+      "id": 147025,
+      "label": 147025,
+      "shape": "dot",
+      "title": "GENE_33813/ "
+    },
+    {
+      "color": "pink",
+      "id": 155390,
+      "label": 155390,
+      "shape": "dot",
+      "title": "DISEASE_7814/ "
+    },
+    {
+      "color": null,
+      "id": 143713,
+      "label": 143713,
+      "shape": "dot",
+      "title": "GENE_30501/ "
+    },
+    {
+      "color": "pink",
+      "id": 157483,
+      "label": 157483,
+      "shape": "dot",
+      "title": "DISEASE_5656/ "
+    },
+    {
+      "color": "green",
+      "id": 89421,
+      "label": 89421,
+      "shape": "dot",
+      "title": "COMPOUND_90764/0"
+    },
+    {
+      "color": null,
+      "id": 114742,
+      "label": 114742,
+      "shape": "dot",
+      "title": "GENE_961/ "
+    },
+    {
+      "color": null,
+      "id": 145445,
+      "label": 145445,
+      "shape": "dot",
+      "title": "GENE_32233/ "
+    },
+    {
+      "color": "pink",
+      "id": 154694,
+      "label": 154694,
+      "shape": "dot",
+      "title": "DISEASE_5488/ "
+    },
+    {
+      "color": "green",
+      "id": 8066,
+      "label": 8066,
+      "shape": "dot",
+      "title": "COMPOUND_8067/Brexpiprazole"
+    },
+    {
+      "color": "green",
+      "id": 89415,
+      "label": 89415,
+      "shape": "dot",
+      "title": "COMPOUND_90711/0"
+    },
+    {
+      "color": null,
+      "id": 114444,
+      "label": 114444,
+      "shape": "dot",
+      "title": "GENE_21153/ "
+    },
+    {
+      "color": "green",
+      "id": 672,
+      "label": 672,
+      "shape": "dot",
+      "title": "COMPOUND_673/Mycophenolic_acid"
+    },
+    {
+      "color": null,
+      "id": 114320,
+      "label": 114320,
+      "shape": "dot",
+      "title": "GENE_8416/ "
+    },
+    {
+      "color": null,
+      "id": 145506,
+      "label": 145506,
+      "shape": "dot",
+      "title": "GENE_32294/ "
+    },
+    {
+      "color": "pink",
+      "id": 162791,
+      "label": 162791,
+      "shape": "dot",
+      "title": "DISEASE_13785/ "
+    },
+    {
+      "color": null,
+      "id": 113433,
+      "label": 113433,
+      "shape": "dot",
+      "title": "GENE_17065/ "
+    },
+    {
+      "color": "green",
+      "id": 482,
+      "label": 482,
+      "shape": "dot",
+      "title": "COMPOUND_483/Zidovudine"
+    },
+    {
+      "color": null,
+      "id": 113254,
+      "label": 113254,
+      "shape": "dot",
+      "title": "GENE_21495/ "
+    },
+    {
+      "color": "pink",
+      "id": 149023,
+      "label": 149023,
+      "shape": "dot",
+      "title": "DISEASE_725/ "
+    },
+    {
+      "color": "green",
+      "id": 759,
+      "label": 759,
+      "shape": "dot",
+      "title": "COMPOUND_760/Oxcarbazepine"
+    },
+    {
+      "color": null,
+      "id": 113663,
+      "label": 113663,
+      "shape": "dot",
+      "title": "GENE_22988/ "
+    },
+    {
+      "color": null,
+      "id": 148018,
+      "label": 148018,
+      "shape": "dot",
+      "title": "GENE_34806/ "
+    },
+    {
+      "color": "pink",
+      "id": 166077,
+      "label": 166077,
+      "shape": "dot",
+      "title": "DISEASE_17071/ "
+    },
+    {
+      "color": "green",
+      "id": 1014,
+      "label": 1014,
+      "shape": "dot",
+      "title": "COMPOUND_1015/Mercaptopurine"
+    },
+    {
+      "color": "pink",
+      "id": 149133,
+      "label": 149133,
+      "shape": "dot",
+      "title": "DISEASE_2147/ "
+    },
+    {
+      "color": null,
+      "id": 113434,
+      "label": 113434,
+      "shape": "dot",
+      "title": "GENE_7655/ "
+    },
+    {
+      "color": "pink",
+      "id": 149102,
+      "label": 149102,
+      "shape": "dot",
+      "title": "DISEASE_3135/ "
+    },
+    {
+      "color": null,
+      "id": 140259,
+      "label": 140259,
+      "shape": "dot",
+      "title": "GENE_27047/ "
+    },
+    {
+      "color": "pink",
+      "id": 154649,
+      "label": 154649,
+      "shape": "dot",
+      "title": "DISEASE_5355/ "
+    },
+    {
+      "color": "green",
+      "id": 842,
+      "label": 842,
+      "shape": "dot",
+      "title": "COMPOUND_843/Prednisolone"
+    },
+    {
+      "color": null,
+      "id": 113339,
+      "label": 113339,
+      "shape": "dot",
+      "title": "GENE_16009/ "
+    },
+    {
+      "color": null,
+      "id": 113631,
+      "label": 113631,
+      "shape": "dot",
+      "title": "GENE_4365/ "
+    },
+    {
+      "color": "green",
+      "id": 1083,
+      "label": 1083,
+      "shape": "dot",
+      "title": "COMPOUND_1084/Sertraline"
+    },
+    {
+      "color": null,
+      "id": 139733,
+      "label": 139733,
+      "shape": "dot",
+      "title": "GENE_26521/ "
+    },
+    {
+      "color": "pink",
+      "id": 167160,
+      "label": 167160,
+      "shape": "dot",
+      "title": "DISEASE_18154/ "
+    },
+    {
+      "color": null,
+      "id": 138384,
+      "label": 138384,
+      "shape": "dot",
+      "title": "GENE_25172/ "
+    },
+    {
+      "color": "pink",
+      "id": 153915,
+      "label": 153915,
+      "shape": "dot",
+      "title": "DISEASE_10717/ "
+    },
+    {
+      "color": null,
+      "id": 114011,
+      "label": 114011,
+      "shape": "dot",
+      "title": "GENE_16948/ "
+    },
+    {
+      "color": null,
+      "id": 138945,
+      "label": 138945,
+      "shape": "dot",
+      "title": "GENE_25733/ "
+    },
+    {
+      "color": "pink",
+      "id": 152783,
+      "label": 152783,
+      "shape": "dot",
+      "title": "DISEASE_4976/ "
+    },
+    {
+      "color": "pink",
+      "id": 149278,
+      "label": 149278,
+      "shape": "dot",
+      "title": "DISEASE_2764/ "
+    },
+    {
+      "color": null,
+      "id": 114837,
+      "label": 114837,
+      "shape": "dot",
+      "title": "GENE_403/ "
+    },
+    {
+      "color": null,
+      "id": 113512,
+      "label": 113512,
+      "shape": "dot",
+      "title": "GENE_8404/ "
+    },
+    {
+      "color": "pink",
+      "id": 149045,
+      "label": 149045,
+      "shape": "dot",
+      "title": "DISEASE_2128/ "
+    },
+    {
+      "color": null,
+      "id": 142096,
+      "label": 142096,
+      "shape": "dot",
+      "title": "GENE_28884/ "
+    },
+    {
+      "color": "pink",
+      "id": 150416,
+      "label": 150416,
+      "shape": "dot",
+      "title": "DISEASE_1215/ "
+    },
+    {
+      "color": null,
+      "id": 140847,
+      "label": 140847,
+      "shape": "dot",
+      "title": "GENE_27635/ "
+    },
+    {
+      "color": "pink",
+      "id": 166296,
+      "label": 166296,
+      "shape": "dot",
+      "title": "DISEASE_17290/ "
+    },
+    {
+      "color": "green",
+      "id": 89760,
+      "label": 89760,
+      "shape": "dot",
+      "title": "COMPOUND_89680/0"
+    },
+    {
+      "color": null,
+      "id": 113399,
+      "label": 113399,
+      "shape": "dot",
+      "title": "GENE_6392/ "
+    },
+    {
+      "color": null,
+      "id": 146917,
+      "label": 146917,
+      "shape": "dot",
+      "title": "GENE_33705/ "
+    },
+    {
+      "color": "pink",
+      "id": 155196,
+      "label": 155196,
+      "shape": "dot",
+      "title": "DISEASE_7112/ "
+    },
+    {
+      "color": "green",
+      "id": 549,
+      "label": 549,
+      "shape": "dot",
+      "title": "COMPOUND_550/Carbamazepine"
+    },
+    {
+      "color": null,
+      "id": 113853,
+      "label": 113853,
+      "shape": "dot",
+      "title": "GENE_871/ "
+    },
+    {
+      "color": "pink",
+      "id": 149087,
+      "label": 149087,
+      "shape": "dot",
+      "title": "DISEASE_1032/ "
+    },
+    {
+      "color": "green",
+      "id": 659,
+      "label": 659,
+      "shape": "dot",
+      "title": "COMPOUND_660/Tamoxifen"
+    },
+    {
+      "color": null,
+      "id": 114275,
+      "label": 114275,
+      "shape": "dot",
+      "title": "GENE_5814/ "
+    },
+    {
+      "color": "green",
+      "id": 745,
+      "label": 745,
+      "shape": "dot",
+      "title": "COMPOUND_746/Irinotecan"
+    },
+    {
+      "color": null,
+      "id": 113472,
+      "label": 113472,
+      "shape": "dot",
+      "title": "GENE_63/ "
+    },
+    {
+      "color": "green",
+      "id": 4917,
+      "label": 4917,
+      "shape": "dot",
+      "title": "COMPOUND_4918/Glatiramer_acetate"
+    },
+    {
+      "color": null,
+      "id": 113938,
+      "label": 113938,
+      "shape": "dot",
+      "title": "GENE_19396/ "
+    },
+    {
+      "color": "pink",
+      "id": 149056,
+      "label": 149056,
+      "shape": "dot",
+      "title": "DISEASE_828/ "
+    },
+    {
+      "color": null,
+      "id": 143947,
+      "label": 143947,
+      "shape": "dot",
+      "title": "GENE_30735/ "
+    },
+    {
+      "color": "pink",
+      "id": 166334,
+      "label": 166334,
+      "shape": "dot",
+      "title": "DISEASE_17328/ "
+    },
+    {
+      "color": "green",
+      "id": 910,
+      "label": 910,
+      "shape": "dot",
+      "title": "COMPOUND_911/Azacitidine"
+    },
+    {
+      "color": null,
+      "id": 114449,
+      "label": 114449,
+      "shape": "dot",
+      "title": "GENE_2483/ "
+    },
+    {
+      "color": "green",
+      "id": 90712,
+      "label": 90712,
+      "shape": "dot",
+      "title": "COMPOUND_90701/0"
+    },
+    {
+      "color": null,
+      "id": 146375,
+      "label": 146375,
+      "shape": "dot",
+      "title": "GENE_33163/ "
+    },
+    {
+      "color": "pink",
+      "id": 154661,
+      "label": 154661,
+      "shape": "dot",
+      "title": "DISEASE_5386/ "
+    },
+    {
+      "color": null,
+      "id": 114226,
+      "label": 114226,
+      "shape": "dot",
+      "title": "GENE_9439/ "
+    },
+    {
+      "color": "pink",
+      "id": 149195,
+      "label": 149195,
+      "shape": "dot",
+      "title": "DISEASE_2256/ "
+    },
+    {
+      "color": null,
+      "id": 138257,
+      "label": 138257,
+      "shape": "dot",
+      "title": "GENE_25045/ "
+    },
+    {
+      "color": "pink",
+      "id": 155744,
+      "label": 155744,
+      "shape": "dot",
+      "title": "DISEASE_9877/ "
+    },
+    {
+      "color": null,
+      "id": 120149,
+      "label": 120149,
+      "shape": "dot",
+      "title": "GENE_5811/ "
+    },
+    {
+      "color": "pink",
+      "id": 149997,
+      "label": 149997,
+      "shape": "dot",
+      "title": "DISEASE_764/ "
+    },
+    {
+      "color": "green",
+      "id": 326,
+      "label": 326,
+      "shape": "dot",
+      "title": "COMPOUND_327/Omeprazole"
+    },
+    {
+      "color": "green",
+      "id": 14489,
+      "label": 14489,
+      "shape": "dot",
+      "title": "COMPOUND_14490/0"
+    },
+    {
+      "color": null,
+      "id": 114832,
+      "label": 114832,
+      "shape": "dot",
+      "title": "GENE_20217/ "
+    },
+    {
+      "color": null,
+      "id": 114502,
+      "label": 114502,
+      "shape": "dot",
+      "title": "GENE_4968/ "
+    },
+    {
+      "color": "pink",
+      "id": 149296,
+      "label": 149296,
+      "shape": "dot",
+      "title": "DISEASE_1191/ "
+    },
+    {
+      "color": "pink",
+      "id": 151343,
+      "label": 151343,
+      "shape": "dot",
+      "title": "DISEASE_2251/ "
+    },
+    {
+      "color": null,
+      "id": 113801,
+      "label": 113801,
+      "shape": "dot",
+      "title": "GENE_5056/ "
+    },
+    {
+      "color": "pink",
+      "id": 149126,
+      "label": 149126,
+      "shape": "dot",
+      "title": "DISEASE_299/ "
+    },
+    {
+      "color": null,
+      "id": 113628,
+      "label": 113628,
+      "shape": "dot",
+      "title": "GENE_1663/ "
+    },
+    {
+      "color": null,
+      "id": 114063,
+      "label": 114063,
+      "shape": "dot",
+      "title": "GENE_21260/ "
+    },
+    {
+      "color": "pink",
+      "id": 149049,
+      "label": 149049,
+      "shape": "dot",
+      "title": "DISEASE_807/ "
+    },
+    {
+      "color": null,
+      "id": 148076,
+      "label": 148076,
+      "shape": "dot",
+      "title": "GENE_34864/ "
+    },
+    {
+      "color": "pink",
+      "id": 162925,
+      "label": 162925,
+      "shape": "dot",
+      "title": "DISEASE_13919/ "
+    },
+    {
+      "color": null,
+      "id": 148752,
+      "label": 148752,
+      "shape": "dot",
+      "title": "GENE_35540/ "
+    },
+    {
+      "color": "pink",
+      "id": 166229,
+      "label": 166229,
+      "shape": "dot",
+      "title": "DISEASE_17223/ "
+    },
+    {
+      "color": null,
+      "id": 148280,
+      "label": 148280,
+      "shape": "dot",
+      "title": "GENE_35068/ "
+    },
+    {
+      "color": "pink",
+      "id": 165509,
+      "label": 165509,
+      "shape": "dot",
+      "title": "DISEASE_16503/ "
+    },
+    {
+      "color": null,
+      "id": 148565,
+      "label": 148565,
+      "shape": "dot",
+      "title": "GENE_35353/ "
+    },
+    {
+      "color": "pink",
+      "id": 155803,
+      "label": 155803,
+      "shape": "dot",
+      "title": "DISEASE_10215/ "
+    },
+    {
+      "color": null,
+      "id": 113544,
+      "label": 113544,
+      "shape": "dot",
+      "title": "GENE_4346/ "
+    },
+    {
+      "color": "pink",
+      "id": 149055,
+      "label": 149055,
+      "shape": "dot",
+      "title": "DISEASE_2634/ "
+    },
+    {
+      "color": null,
+      "id": 148203,
+      "label": 148203,
+      "shape": "dot",
+      "title": "GENE_34991/ "
+    },
+    {
+      "color": "pink",
+      "id": 161748,
+      "label": 161748,
+      "shape": "dot",
+      "title": "DISEASE_12306/ "
+    },
+    {
+      "color": null,
+      "id": 113834,
+      "label": 113834,
+      "shape": "dot",
+      "title": "GENE_4358/ "
+    },
+    {
+      "color": "pink",
+      "id": 149182,
+      "label": 149182,
+      "shape": "dot",
+      "title": "DISEASE_498/ "
+    },
+    {
+      "color": "green",
+      "id": 274,
+      "label": 274,
+      "shape": "dot",
+      "title": "COMPOUND_275/Venlafaxine"
+    },
+    {
+      "color": null,
+      "id": 113624,
+      "label": 113624,
+      "shape": "dot",
+      "title": "GENE_6430/ "
+    },
+    {
+      "color": null,
+      "id": 146516,
+      "label": 146516,
+      "shape": "dot",
+      "title": "GENE_33304/ "
+    },
+    {
+      "color": "pink",
+      "id": 166318,
+      "label": 166318,
+      "shape": "dot",
+      "title": "DISEASE_17312/ "
+    },
+    {
+      "color": null,
+      "id": 114234,
+      "label": 114234,
+      "shape": "dot",
+      "title": "GENE_12503/ "
+    },
+    {
+      "color": null,
+      "id": 139769,
+      "label": 139769,
+      "shape": "dot",
+      "title": "GENE_26557/ "
+    },
+    {
+      "color": "pink",
+      "id": 166906,
+      "label": 166906,
+      "shape": "dot",
+      "title": "DISEASE_17900/ "
+    },
+    {
+      "color": null,
+      "id": 113602,
+      "label": 113602,
+      "shape": "dot",
+      "title": "GENE_430/ "
+    },
+    {
+      "color": "green",
+      "id": 14520,
+      "label": 14520,
+      "shape": "dot",
+      "title": "COMPOUND_14521/0"
+    },
+    {
+      "color": null,
+      "id": 113538,
+      "label": 113538,
+      "shape": "dot",
+      "title": "GENE_752/ "
+    },
+    {
+      "color": null,
+      "id": 113792,
+      "label": 113792,
+      "shape": "dot",
+      "title": "GENE_7645/ "
+    },
+    {
+      "color": "pink",
+      "id": 149135,
+      "label": 149135,
+      "shape": "dot",
+      "title": "DISEASE_3151/ "
+    },
+    {
+      "color": null,
+      "id": 142709,
+      "label": 142709,
+      "shape": "dot",
+      "title": "GENE_29497/ "
+    },
+    {
+      "color": "pink",
+      "id": 163302,
+      "label": 163302,
+      "shape": "dot",
+      "title": "DISEASE_14296/ "
+    },
+    {
+      "color": null,
+      "id": 132667,
+      "label": 132667,
+      "shape": "dot",
+      "title": "GENE_19152/ "
+    },
+    {
+      "color": null,
+      "id": 113864,
+      "label": 113864,
+      "shape": "dot",
+      "title": "GENE_8036/ "
+    },
+    {
+      "color": "green",
+      "id": 5167,
+      "label": 5167,
+      "shape": "dot",
+      "title": "COMPOUND_5168/Ustekinumab"
+    },
+    {
+      "color": null,
+      "id": 113274,
+      "label": 113274,
+      "shape": "dot",
+      "title": "GENE_9056/ "
+    },
+    {
+      "color": null,
+      "id": 140264,
+      "label": 140264,
+      "shape": "dot",
+      "title": "GENE_27052/ "
+    },
+    {
+      "color": "pink",
+      "id": 154199,
+      "label": 154199,
+      "shape": "dot",
+      "title": "DISEASE_3968/ "
+    },
+    {
+      "color": null,
+      "id": 139017,
+      "label": 139017,
+      "shape": "dot",
+      "title": "GENE_25805/ "
+    },
+    {
+      "color": "pink",
+      "id": 165152,
+      "label": 165152,
+      "shape": "dot",
+      "title": "DISEASE_16146/ "
+    },
+    {
+      "color": null,
+      "id": 141836,
+      "label": 141836,
+      "shape": "dot",
+      "title": "GENE_28624/ "
+    },
+    {
+      "color": "pink",
+      "id": 156679,
+      "label": 156679,
+      "shape": "dot",
+      "title": "DISEASE_3599/ "
+    },
+    {
+      "color": null,
+      "id": 138234,
+      "label": 138234,
+      "shape": "dot",
+      "title": "GENE_25022/ "
+    },
+    {
+      "color": "pink",
+      "id": 152599,
+      "label": 152599,
+      "shape": "dot",
+      "title": "DISEASE_4267/ "
+    },
+    {
+      "color": "green",
+      "id": 14615,
+      "label": 14615,
+      "shape": "dot",
+      "title": "COMPOUND_14616/0"
+    },
+    {
+      "color": null,
+      "id": 114838,
+      "label": 114838,
+      "shape": "dot",
+      "title": "GENE_2411/ "
+    },
+    {
+      "color": null,
+      "id": 146141,
+      "label": 146141,
+      "shape": "dot",
+      "title": "GENE_32929/ "
+    },
+    {
+      "color": "pink",
+      "id": 165239,
+      "label": 165239,
+      "shape": "dot",
+      "title": "DISEASE_16233/ "
+    },
+    {
+      "color": null,
+      "id": 113720,
+      "label": 113720,
+      "shape": "dot",
+      "title": "GENE_22997/ "
+    },
+    {
+      "color": null,
+      "id": 142465,
+      "label": 142465,
+      "shape": "dot",
+      "title": "GENE_29253/ "
+    },
+    {
+      "color": "pink",
+      "id": 163258,
+      "label": 163258,
+      "shape": "dot",
+      "title": "DISEASE_14252/ "
+    },
+    {
+      "color": null,
+      "id": 146191,
+      "label": 146191,
+      "shape": "dot",
+      "title": "GENE_32979/ "
+    },
+    {
+      "color": "pink",
+      "id": 162165,
+      "label": 162165,
+      "shape": "dot",
+      "title": "DISEASE_12922/ "
+    },
+    {
+      "color": null,
+      "id": 113650,
+      "label": 113650,
+      "shape": "dot",
+      "title": "GENE_17437/ "
+    },
+    {
+      "color": null,
+      "id": 142708,
+      "label": 142708,
+      "shape": "dot",
+      "title": "GENE_29496/ "
+    },
+    {
+      "color": "pink",
+      "id": 154734,
+      "label": 154734,
+      "shape": "dot",
+      "title": "DISEASE_5577/ "
+    },
+    {
+      "color": null,
+      "id": 113936,
+      "label": 113936,
+      "shape": "dot",
+      "title": "GENE_3594/ "
+    },
+    {
+      "color": null,
+      "id": 139127,
+      "label": 139127,
+      "shape": "dot",
+      "title": "GENE_25915/ "
+    },
+    {
+      "color": "pink",
+      "id": 166644,
+      "label": 166644,
+      "shape": "dot",
+      "title": "DISEASE_17638/ "
+    },
+    {
+      "color": "green",
+      "id": 90833,
+      "label": 90833,
+      "shape": "dot",
+      "title": "COMPOUND_90834/0"
+    },
+    {
+      "color": "pink",
+      "id": 149077,
+      "label": 149077,
+      "shape": "dot",
+      "title": "DISEASE_902/ "
+    },
+    {
+      "color": null,
+      "id": 113244,
+      "label": 113244,
+      "shape": "dot",
+      "title": "GENE_9115/ "
+    },
+    {
+      "color": null,
+      "id": 113277,
+      "label": 113277,
+      "shape": "dot",
+      "title": "GENE_10701/ "
+    },
+    {
+      "color": null,
+      "id": 142052,
+      "label": 142052,
+      "shape": "dot",
+      "title": "GENE_28840/ "
+    },
+    {
+      "color": "pink",
+      "id": 149233,
+      "label": 149233,
+      "shape": "dot",
+      "title": "DISEASE_749/ "
+    },
+    {
+      "color": "green",
+      "id": 408,
+      "label": 408,
+      "shape": "dot",
+      "title": "COMPOUND_409/Spironolactone"
+    },
+    {
+      "color": null,
+      "id": 113354,
+      "label": 113354,
+      "shape": "dot",
+      "title": "GENE_13618/ "
+    },
+    {
+      "color": null,
+      "id": 147419,
+      "label": 147419,
+      "shape": "dot",
+      "title": "GENE_34207/ "
+    },
+    {
+      "color": "pink",
+      "id": 163246,
+      "label": 163246,
+      "shape": "dot",
+      "title": "DISEASE_14240/ "
+    },
+    {
+      "color": null,
+      "id": 114028,
+      "label": 114028,
+      "shape": "dot",
+      "title": "GENE_2494/ "
+    },
+    {
+      "color": "green",
+      "id": 14747,
+      "label": 14747,
+      "shape": "dot",
+      "title": "COMPOUND_14748/0"
+    },
+    {
+      "color": null,
+      "id": 114680,
+      "label": 114680,
+      "shape": "dot",
+      "title": "GENE_13617/ "
+    },
+    {
+      "color": "green",
+      "id": 412,
+      "label": 412,
+      "shape": "dot",
+      "title": "COMPOUND_413/Zolpidem"
+    },
+    {
+      "color": null,
+      "id": 114269,
+      "label": 114269,
+      "shape": "dot",
+      "title": "GENE_16754/ "
+    },
+    {
+      "color": "pink",
+      "id": 150459,
+      "label": 150459,
+      "shape": "dot",
+      "title": "DISEASE_1262/ "
+    },
+    {
+      "color": null,
+      "id": 143717,
+      "label": 143717,
+      "shape": "dot",
+      "title": "GENE_30505/ "
+    },
+    {
+      "color": "pink",
+      "id": 162716,
+      "label": 162716,
+      "shape": "dot",
+      "title": "DISEASE_13710/ "
+    },
+    {
+      "color": null,
+      "id": 114595,
+      "label": 114595,
+      "shape": "dot",
+      "title": "GENE_15241/ "
+    },
+    {
+      "color": "green",
+      "id": 10387,
+      "label": 10387,
+      "shape": "dot",
+      "title": "COMPOUND_10388/Piritramide"
+    },
+    {
+      "color": null,
+      "id": 113665,
+      "label": 113665,
+      "shape": "dot",
+      "title": "GENE_6840/ "
+    },
+    {
+      "color": "green",
+      "id": 8119,
+      "label": 8119,
+      "shape": "dot",
+      "title": "COMPOUND_8120/Viloxazine"
+    },
+    {
+      "color": "green",
+      "id": 269,
+      "label": 269,
+      "shape": "dot",
+      "title": "COMPOUND_270/Disopyramide"
+    },
+    {
+      "color": null,
+      "id": 147447,
+      "label": 147447,
+      "shape": "dot",
+      "title": "GENE_34235/ "
+    },
+    {
+      "color": "pink",
+      "id": 153313,
+      "label": 153313,
+      "shape": "dot",
+      "title": "DISEASE_10673/ "
+    },
+    {
+      "color": "green",
+      "id": 500,
+      "label": 500,
+      "shape": "dot",
+      "title": "COMPOUND_501/Cisplatin"
+    },
+    {
+      "color": "green",
+      "id": 5119,
+      "label": 5119,
+      "shape": "dot",
+      "title": "COMPOUND_5120/Brivaracetam"
+    },
+    {
+      "color": null,
+      "id": 147790,
+      "label": 147790,
+      "shape": "dot",
+      "title": "GENE_34578/ "
+    },
+    {
+      "color": "pink",
+      "id": 154204,
+      "label": 154204,
+      "shape": "dot",
+      "title": "DISEASE_3991/ "
+    },
+    {
+      "color": null,
+      "id": 114496,
+      "label": 114496,
+      "shape": "dot",
+      "title": "GENE_9665/ "
+    },
+    {
+      "color": "pink",
+      "id": 150279,
+      "label": 150279,
+      "shape": "dot",
+      "title": "DISEASE_1072/ "
+    },
+    {
+      "color": null,
+      "id": 113682,
+      "label": 113682,
+      "shape": "dot",
+      "title": "GENE_13609/ "
+    },
+    {
+      "color": null,
+      "id": 113351,
+      "label": 113351,
+      "shape": "dot",
+      "title": "GENE_6821/ "
+    },
+    {
+      "color": "pink",
+      "id": 150562,
+      "label": 150562,
+      "shape": "dot",
+      "title": "DISEASE_1380/ "
+    },
+    {
+      "color": null,
+      "id": 142478,
+      "label": 142478,
+      "shape": "dot",
+      "title": "GENE_29266/ "
+    },
+    {
+      "color": "pink",
+      "id": 155680,
+      "label": 155680,
+      "shape": "dot",
+      "title": "DISEASE_9501/ "
+    },
+    {
+      "color": "green",
+      "id": 972,
+      "label": 972,
+      "shape": "dot",
+      "title": "COMPOUND_973/Exemestane"
+    },
+    {
+      "color": null,
+      "id": 113303,
+      "label": 113303,
+      "shape": "dot",
+      "title": "GENE_5709/ "
+    },
+    {
+      "color": null,
+      "id": 145873,
+      "label": 145873,
+      "shape": "dot",
+      "title": "GENE_32661/ "
+    },
+    {
+      "color": "pink",
+      "id": 154001,
+      "label": 154001,
+      "shape": "dot",
+      "title": "DISEASE_12548/ "
+    },
+    {
+      "color": null,
+      "id": 146473,
+      "label": 146473,
+      "shape": "dot",
+      "title": "GENE_33261/ "
+    },
+    {
+      "color": "pink",
+      "id": 160475,
+      "label": 160475,
+      "shape": "dot",
+      "title": "DISEASE_10104/ "
+    },
+    {
+      "color": null,
+      "id": 145837,
+      "label": 145837,
+      "shape": "dot",
+      "title": "GENE_32625/ "
+    },
+    {
+      "color": "pink",
+      "id": 165327,
+      "label": 165327,
+      "shape": "dot",
+      "title": "DISEASE_16321/ "
+    },
+    {
+      "color": null,
+      "id": 114492,
+      "label": 114492,
+      "shape": "dot",
+      "title": "GENE_21419/ "
+    },
+    {
+      "color": "green",
+      "id": 1037,
+      "label": 1037,
+      "shape": "dot",
+      "title": "COMPOUND_1038/Praziquantel"
+    },
+    {
+      "color": null,
+      "id": 139186,
+      "label": 139186,
+      "shape": "dot",
+      "title": "GENE_25974/ "
+    },
+    {
+      "color": "pink",
+      "id": 149891,
+      "label": 149891,
+      "shape": "dot",
+      "title": "DISEASE_646/ "
+    },
+    {
+      "color": null,
+      "id": 113453,
+      "label": 113453,
+      "shape": "dot",
+      "title": "GENE_18977/ "
+    },
+    {
+      "color": "green",
+      "id": 593,
+      "label": 593,
+      "shape": "dot",
+      "title": "COMPOUND_594/Chloroquine"
+    },
+    {
+      "color": null,
+      "id": 113822,
+      "label": 113822,
+      "shape": "dot",
+      "title": "GENE_19492/ "
+    },
+    {
+      "color": "green",
+      "id": 48,
+      "label": 48,
+      "shape": "dot",
+      "title": "COMPOUND_49/Adalimumab"
+    },
+    {
+      "color": null,
+      "id": 113286,
+      "label": 113286,
+      "shape": "dot",
+      "title": "GENE_21329/ "
+    },
+    {
+      "color": null,
+      "id": 123421,
+      "label": 123421,
+      "shape": "dot",
+      "title": "GENE_9366/ "
+    },
+    {
+      "color": "pink",
+      "id": 151188,
+      "label": 151188,
+      "shape": "dot",
+      "title": "DISEASE_2074/ "
+    },
+    {
+      "color": null,
+      "id": 114688,
+      "label": 114688,
+      "shape": "dot",
+      "title": "GENE_15547/ "
+    },
+    {
+      "color": "pink",
+      "id": 149090,
+      "label": 149090,
+      "shape": "dot",
+      "title": "DISEASE_2712/ "
+    },
+    {
+      "color": null,
+      "id": 113620,
+      "label": 113620,
+      "shape": "dot",
+      "title": "GENE_7627/ "
+    },
+    {
+      "color": "green",
+      "id": 14470,
+      "label": 14470,
+      "shape": "dot",
+      "title": "COMPOUND_14471/0"
+    },
+    {
+      "color": null,
+      "id": 113553,
+      "label": 113553,
+      "shape": "dot",
+      "title": "GENE_4343/ "
+    },
+    {
+      "color": "green",
+      "id": 14554,
+      "label": 14554,
+      "shape": "dot",
+      "title": "COMPOUND_14555/0"
+    },
+    {
+      "color": null,
+      "id": 113790,
+      "label": 113790,
+      "shape": "dot",
+      "title": "GENE_5829/ "
+    },
+    {
+      "color": "pink",
+      "id": 149098,
+      "label": 149098,
+      "shape": "dot",
+      "title": "DISEASE_2176/ "
+    },
+    {
+      "color": null,
+      "id": 113451,
+      "label": 113451,
+      "shape": "dot",
+      "title": "GENE_5637/ "
+    },
+    {
+      "color": "green",
+      "id": 1160,
+      "label": 1160,
+      "shape": "dot",
+      "title": "COMPOUND_1161/Ifosfamide"
+    },
+    {
+      "color": "green",
+      "id": 90690,
+      "label": 90690,
+      "shape": "dot",
+      "title": "COMPOUND_90676/0"
+    },
+    {
+      "color": "green",
+      "id": 432,
+      "label": 432,
+      "shape": "dot",
+      "title": "COMPOUND_433/Epirubicin"
+    },
+    {
+      "color": null,
+      "id": 147186,
+      "label": 147186,
+      "shape": "dot",
+      "title": "GENE_33974/ "
+    },
+    {
+      "color": "pink",
+      "id": 153093,
+      "label": 153093,
+      "shape": "dot",
+      "title": "DISEASE_6896/ "
+    },
+    {
+      "color": null,
+      "id": 114855,
+      "label": 114855,
+      "shape": "dot",
+      "title": "GENE_24429/ "
+    },
+    {
+      "color": "pink",
+      "id": 149108,
+      "label": 149108,
+      "shape": "dot",
+      "title": "DISEASE_350/ "
+    },
+    {
+      "color": "green",
+      "id": 420,
+      "label": 420,
+      "shape": "dot",
+      "title": "COMPOUND_421/Prochlorperazine"
+    },
+    {
+      "color": "pink",
+      "id": 149070,
+      "label": 149070,
+      "shape": "dot",
+      "title": "DISEASE_2181/ "
+    },
+    {
+      "color": null,
+      "id": 144482,
+      "label": 144482,
+      "shape": "dot",
+      "title": "GENE_31270/ "
+    },
+    {
+      "color": "pink",
+      "id": 154104,
+      "label": 154104,
+      "shape": "dot",
+      "title": "DISEASE_3657/ "
+    },
+    {
+      "color": null,
+      "id": 144189,
+      "label": 144189,
+      "shape": "dot",
+      "title": "GENE_30977/ "
+    },
+    {
+      "color": "pink",
+      "id": 166797,
+      "label": 166797,
+      "shape": "dot",
+      "title": "DISEASE_17791/ "
+    },
+    {
+      "color": null,
+      "id": 114431,
+      "label": 114431,
+      "shape": "dot",
+      "title": "GENE_10874/ "
+    },
+    {
+      "color": null,
+      "id": 144872,
+      "label": 144872,
+      "shape": "dot",
+      "title": "GENE_31660/ "
+    },
+    {
+      "color": "pink",
+      "id": 150016,
+      "label": 150016,
+      "shape": "dot",
+      "title": "DISEASE_783/ "
+    },
+    {
+      "color": "green",
+      "id": 21,
+      "label": 21,
+      "shape": "dot",
+      "title": "COMPOUND_22/Asparaginase"
+    },
+    {
+      "color": null,
+      "id": 113312,
+      "label": 113312,
+      "shape": "dot",
+      "title": "GENE_11366/ "
+    },
+    {
+      "color": "green",
+      "id": 604,
+      "label": 604,
+      "shape": "dot",
+      "title": "COMPOUND_605/Imatinib"
+    },
+    {
+      "color": null,
+      "id": 113425,
+      "label": 113425,
+      "shape": "dot",
+      "title": "GENE_7643/ "
+    },
+    {
+      "color": "pink",
+      "id": 149202,
+      "label": 149202,
+      "shape": "dot",
+      "title": "DISEASE_1822/ "
+    },
+    {
+      "color": "green",
+      "id": 89762,
+      "label": 89762,
+      "shape": "dot",
+      "title": "COMPOUND_89682/0"
+    },
+    {
+      "color": null,
+      "id": 113511,
+      "label": 113511,
+      "shape": "dot",
+      "title": "GENE_8399/ "
+    },
+    {
+      "color": null,
+      "id": 144059,
+      "label": 144059,
+      "shape": "dot",
+      "title": "GENE_30847/ "
+    },
+    {
+      "color": "pink",
+      "id": 164591,
+      "label": 164591,
+      "shape": "dot",
+      "title": "DISEASE_15585/ "
+    },
+    {
+      "color": null,
+      "id": 139051,
+      "label": 139051,
+      "shape": "dot",
+      "title": "GENE_25839/ "
+    },
+    {
+      "color": "pink",
+      "id": 160956,
+      "label": 160956,
+      "shape": "dot",
+      "title": "DISEASE_10973/ "
+    },
+    {
+      "color": null,
+      "id": 113616,
+      "label": 113616,
+      "shape": "dot",
+      "title": "GENE_22976/ "
+    },
+    {
+      "color": null,
+      "id": 146289,
+      "label": 146289,
+      "shape": "dot",
+      "title": "GENE_33077/ "
+    },
+    {
+      "color": "pink",
+      "id": 163501,
+      "label": 163501,
+      "shape": "dot",
+      "title": "DISEASE_14495/ "
+    },
+    {
+      "color": null,
+      "id": 114170,
+      "label": 114170,
+      "shape": "dot",
+      "title": "GENE_16154/ "
+    },
+    {
+      "color": null,
+      "id": 140420,
+      "label": 140420,
+      "shape": "dot",
+      "title": "GENE_27208/ "
+    },
+    {
+      "color": "pink",
+      "id": 158462,
+      "label": 158462,
+      "shape": "dot",
+      "title": "DISEASE_7478/ "
+    },
+    {
+      "color": null,
+      "id": 113798,
+      "label": 113798,
+      "shape": "dot",
+      "title": "GENE_4036/ "
+    },
+    {
+      "color": null,
+      "id": 140574,
+      "label": 140574,
+      "shape": "dot",
+      "title": "GENE_27362/ "
+    },
+    {
+      "color": "pink",
+      "id": 152624,
+      "label": 152624,
+      "shape": "dot",
+      "title": "DISEASE_4441/ "
+    },
+    {
+      "color": "green",
+      "id": 5513,
+      "label": 5513,
+      "shape": "dot",
+      "title": "COMPOUND_5514/Amisulpride"
+    },
+    {
+      "color": null,
+      "id": 113930,
+      "label": 113930,
+      "shape": "dot",
+      "title": "GENE_19655/ "
+    },
+    {
+      "color": "green",
+      "id": 90694,
+      "label": 90694,
+      "shape": "dot",
+      "title": "COMPOUND_90680/0"
+    },
+    {
+      "color": null,
+      "id": 145717,
+      "label": 145717,
+      "shape": "dot",
+      "title": "GENE_32505/ "
+    },
+    {
+      "color": "pink",
+      "id": 167331,
+      "label": 167331,
+      "shape": "dot",
+      "title": "DISEASE_18325/ "
+    },
+    {
+      "color": null,
+      "id": 113767,
+      "label": 113767,
+      "shape": "dot",
+      "title": "GENE_13959/ "
+    },
+    {
+      "color": "pink",
+      "id": 149289,
+      "label": 149289,
+      "shape": "dot",
+      "title": "DISEASE_786/ "
+    },
+    {
+      "color": null,
+      "id": 146517,
+      "label": 146517,
+      "shape": "dot",
+      "title": "GENE_33305/ "
+    },
+    {
+      "color": "pink",
+      "id": 166982,
+      "label": 166982,
+      "shape": "dot",
+      "title": "DISEASE_17976/ "
+    },
+    {
+      "color": null,
+      "id": 114681,
+      "label": 114681,
+      "shape": "dot",
+      "title": "GENE_8120/ "
+    },
+    {
+      "color": "pink",
+      "id": 149286,
+      "label": 149286,
+      "shape": "dot",
+      "title": "DISEASE_2578/ "
+    },
+    {
+      "color": "pink",
+      "id": 149205,
+      "label": 149205,
+      "shape": "dot",
+      "title": "DISEASE_2394/ "
+    },
+    {
+      "color": null,
+      "id": 113380,
+      "label": 113380,
+      "shape": "dot",
+      "title": "GENE_4354/ "
+    },
+    {
+      "color": "pink",
+      "id": 149171,
+      "label": 149171,
+      "shape": "dot",
+      "title": "DISEASE_3310/ "
+    },
+    {
+      "color": null,
+      "id": 138170,
+      "label": 138170,
+      "shape": "dot",
+      "title": "GENE_24958/ "
+    },
+    {
+      "color": "pink",
+      "id": 166683,
+      "label": 166683,
+      "shape": "dot",
+      "title": "DISEASE_17677/ "
+    },
+    {
+      "color": "green",
+      "id": 1236,
+      "label": 1236,
+      "shape": "dot",
+      "title": "COMPOUND_1237/Eculizumab"
+    },
+    {
+      "color": "green",
+      "id": 1506,
+      "label": 1506,
+      "shape": "dot",
+      "title": "COMPOUND_1507/Methamphetamine"
+    },
+    {
+      "color": null,
+      "id": 113231,
+      "label": 113231,
+      "shape": "dot",
+      "title": "GENE_13649/ "
+    },
+    {
+      "color": null,
+      "id": 114135,
+      "label": 114135,
+      "shape": "dot",
+      "title": "GENE_583/ "
+    },
+    {
+      "color": null,
+      "id": 140092,
+      "label": 140092,
+      "shape": "dot",
+      "title": "GENE_26880/ "
+    },
+    {
+      "color": "pink",
+      "id": 164323,
+      "label": 164323,
+      "shape": "dot",
+      "title": "DISEASE_15317/ "
+    },
+    {
+      "color": null,
+      "id": 144348,
+      "label": 144348,
+      "shape": "dot",
+      "title": "GENE_31136/ "
+    },
+    {
+      "color": "pink",
+      "id": 149447,
+      "label": 149447,
+      "shape": "dot",
+      "title": "DISEASE_160/ "
+    },
+    {
+      "color": "green",
+      "id": 981,
+      "label": 981,
+      "shape": "dot",
+      "title": "COMPOUND_982/Hydrochlorothiazide"
+    },
+    {
+      "color": null,
+      "id": 114543,
+      "label": 114543,
+      "shape": "dot",
+      "title": "GENE_23545/ "
+    },
+    {
+      "color": null,
+      "id": 140470,
+      "label": 140470,
+      "shape": "dot",
+      "title": "GENE_27258/ "
+    },
+    {
+      "color": "pink",
+      "id": 156367,
+      "label": 156367,
+      "shape": "dot",
+      "title": "DISEASE_12546/ "
+    },
+    {
+      "color": null,
+      "id": 146348,
+      "label": 146348,
+      "shape": "dot",
+      "title": "GENE_33136/ "
+    },
+    {
+      "color": "pink",
+      "id": 165478,
+      "label": 165478,
+      "shape": "dot",
+      "title": "DISEASE_16472/ "
+    },
+    {
+      "color": null,
+      "id": 145856,
+      "label": 145856,
+      "shape": "dot",
+      "title": "GENE_32644/ "
+    },
+    {
+      "color": "pink",
+      "id": 163806,
+      "label": 163806,
+      "shape": "dot",
+      "title": "DISEASE_14800/ "
+    },
+    {
+      "color": "green",
+      "id": 1227,
+      "label": 1227,
+      "shape": "dot",
+      "title": "COMPOUND_1228/Docetaxel"
+    },
+    {
+      "color": "green",
+      "id": 489,
+      "label": 489,
+      "shape": "dot",
+      "title": "COMPOUND_490/Haloperidol"
+    },
+    {
+      "color": null,
+      "id": 143565,
+      "label": 143565,
+      "shape": "dot",
+      "title": "GENE_30353/ "
+    },
+    {
+      "color": "pink",
+      "id": 153681,
+      "label": 153681,
+      "shape": "dot",
+      "title": "DISEASE_4220/ "
+    },
+    {
+      "color": "green",
+      "id": 89749,
+      "label": 89749,
+      "shape": "dot",
+      "title": "COMPOUND_89669/0"
+    },
+    {
+      "color": null,
+      "id": 113545,
+      "label": 113545,
+      "shape": "dot",
+      "title": "GENE_4445/ "
+    },
+    {
+      "color": null,
+      "id": 147980,
+      "label": 147980,
+      "shape": "dot",
+      "title": "GENE_34768/ "
+    },
+    {
+      "color": "pink",
+      "id": 153477,
+      "label": 153477,
+      "shape": "dot",
+      "title": "DISEASE_12098/ "
+    },
+    {
+      "color": "green",
+      "id": 978,
+      "label": 978,
+      "shape": "dot",
+      "title": "COMPOUND_979/Gabapentin"
+    },
+    {
+      "color": "pink",
+      "id": 149076,
+      "label": 149076,
+      "shape": "dot",
+      "title": "DISEASE_2253/ "
+    },
+    {
+      "color": "green",
+      "id": 89567,
+      "label": 89567,
+      "shape": "dot",
+      "title": "COMPOUND_89481/0"
+    },
+    {
+      "color": null,
+      "id": 113984,
+      "label": 113984,
+      "shape": "dot",
+      "title": "GENE_4329/ "
+    },
+    {
+      "color": "pink",
+      "id": 149276,
+      "label": 149276,
+      "shape": "dot",
+      "title": "DISEASE_1378/ "
+    },
+    {
+      "color": null,
+      "id": 142507,
+      "label": 142507,
+      "shape": "dot",
+      "title": "GENE_29295/ "
+    },
+    {
+      "color": "pink",
+      "id": 161873,
+      "label": 161873,
+      "shape": "dot",
+      "title": "DISEASE_12480/ "
+    },
+    {
+      "color": null,
+      "id": 141071,
+      "label": 141071,
+      "shape": "dot",
+      "title": "GENE_27859/ "
+    },
+    {
+      "color": "pink",
+      "id": 164523,
+      "label": 164523,
+      "shape": "dot",
+      "title": "DISEASE_15517/ "
+    },
+    {
+      "color": "green",
+      "id": 1021,
+      "label": 1021,
+      "shape": "dot",
+      "title": "COMPOUND_1022/Thalidomide"
+    },
+    {
+      "color": "pink",
+      "id": 149114,
+      "label": 149114,
+      "shape": "dot",
+      "title": "DISEASE_3239/ "
+    },
+    {
+      "color": null,
+      "id": 144561,
+      "label": 144561,
+      "shape": "dot",
+      "title": "GENE_31349/ "
+    },
+    {
+      "color": "pink",
+      "id": 164921,
+      "label": 164921,
+      "shape": "dot",
+      "title": "DISEASE_15915/ "
+    },
+    {
+      "color": "green",
+      "id": 194,
+      "label": 194,
+      "shape": "dot",
+      "title": "COMPOUND_195/Pyrimethamine"
+    },
+    {
+      "color": null,
+      "id": 113589,
+      "label": 113589,
+      "shape": "dot",
+      "title": "GENE_9031/ "
+    },
+    {
+      "color": null,
+      "id": 129998,
+      "label": 129998,
+      "shape": "dot",
+      "title": "GENE_16321/ "
+    },
+    {
+      "color": "pink",
+      "id": 149014,
+      "label": 149014,
+      "shape": "dot",
+      "title": "DISEASE_2705/ "
+    },
+    {
+      "color": null,
+      "id": 143826,
+      "label": 143826,
+      "shape": "dot",
+      "title": "GENE_30614/ "
+    },
+    {
+      "color": "pink",
+      "id": 165330,
+      "label": 165330,
+      "shape": "dot",
+      "title": "DISEASE_16324/ "
+    },
+    {
+      "color": null,
+      "id": 144015,
+      "label": 144015,
+      "shape": "dot",
+      "title": "GENE_30803/ "
+    },
+    {
+      "color": "pink",
+      "id": 163427,
+      "label": 163427,
+      "shape": "dot",
+      "title": "DISEASE_14421/ "
+    },
+    {
+      "color": "green",
+      "id": 90114,
+      "label": 90114,
+      "shape": "dot",
+      "title": "COMPOUND_90060/0"
+    },
+    {
+      "color": null,
+      "id": 113537,
+      "label": 113537,
+      "shape": "dot",
+      "title": "GENE_3349/ "
+    },
+    {
+      "color": "green",
+      "id": 14564,
+      "label": 14564,
+      "shape": "dot",
+      "title": "COMPOUND_14565/0"
+    },
+    {
+      "color": null,
+      "id": 113670,
+      "label": 113670,
+      "shape": "dot",
+      "title": "GENE_6843/ "
+    },
+    {
+      "color": null,
+      "id": 114596,
+      "label": 114596,
+      "shape": "dot",
+      "title": "GENE_4721/ "
+    },
+    {
+      "color": "pink",
+      "id": 149271,
+      "label": 149271,
+      "shape": "dot",
+      "title": "DISEASE_850/ "
+    },
+    {
+      "color": null,
+      "id": 119991,
+      "label": 119991,
+      "shape": "dot",
+      "title": "GENE_5639/ "
+    },
+    {
+      "color": "pink",
+      "id": 149086,
+      "label": 149086,
+      "shape": "dot",
+      "title": "DISEASE_904/ "
+    },
+    {
+      "color": null,
+      "id": 114130,
+      "label": 114130,
+      "shape": "dot",
+      "title": "GENE_23441/ "
+    },
+    {
+      "color": null,
+      "id": 113756,
+      "label": 113756,
+      "shape": "dot",
+      "title": "GENE_8336/ "
+    },
+    {
+      "color": null,
+      "id": 140019,
+      "label": 140019,
+      "shape": "dot",
+      "title": "GENE_26807/ "
+    },
+    {
+      "color": "pink",
+      "id": 156000,
+      "label": 156000,
+      "shape": "dot",
+      "title": "DISEASE_11011/ "
+    },
+    {
+      "color": null,
+      "id": 114092,
+      "label": 114092,
+      "shape": "dot",
+      "title": "GENE_2294/ "
+    },
+    {
+      "color": null,
+      "id": 140256,
+      "label": 140256,
+      "shape": "dot",
+      "title": "GENE_27044/ "
+    },
+    {
+      "color": "pink",
+      "id": 150876,
+      "label": 150876,
+      "shape": "dot",
+      "title": "DISEASE_1722/ "
+    },
+    {
+      "color": null,
+      "id": 147457,
+      "label": 147457,
+      "shape": "dot",
+      "title": "GENE_34245/ "
+    },
+    {
+      "color": "pink",
+      "id": 157313,
+      "label": 157313,
+      "shape": "dot",
+      "title": "DISEASE_5171/ "
+    },
+    {
+      "color": "green",
+      "id": 241,
+      "label": 241,
+      "shape": "dot",
+      "title": "COMPOUND_242/Phenytoin"
+    },
+    {
+      "color": null,
+      "id": 113661,
+      "label": 113661,
+      "shape": "dot",
+      "title": "GENE_18558/ "
+    },
+    {
+      "color": null,
+      "id": 139685,
+      "label": 139685,
+      "shape": "dot",
+      "title": "GENE_26473/ "
+    },
+    {
+      "color": "pink",
+      "id": 154107,
+      "label": 154107,
+      "shape": "dot",
+      "title": "DISEASE_3668/ "
+    },
+    {
+      "color": "green",
+      "id": 90490,
+      "label": 90490,
+      "shape": "dot",
+      "title": "COMPOUND_90465/0"
+    },
+    {
+      "color": null,
+      "id": 113566,
+      "label": 113566,
+      "shape": "dot",
+      "title": "GENE_4342/ "
+    },
+    {
+      "color": null,
+      "id": 114606,
+      "label": 114606,
+      "shape": "dot",
+      "title": "GENE_13691/ "
+    },
+    {
+      "color": null,
+      "id": 144954,
+      "label": 144954,
+      "shape": "dot",
+      "title": "GENE_31742/ "
+    },
+    {
+      "color": "pink",
+      "id": 155070,
+      "label": 155070,
+      "shape": "dot",
+      "title": "DISEASE_6673/ "
+    },
+    {
+      "color": "green",
+      "id": 90057,
+      "label": 90057,
+      "shape": "dot",
+      "title": "COMPOUND_89995/0"
+    },
+    {
+      "color": null,
+      "id": 113875,
+      "label": 113875,
+      "shape": "dot",
+      "title": "GENE_4371/ "
+    },
+    {
+      "color": null,
+      "id": 113667,
+      "label": 113667,
+      "shape": "dot",
+      "title": "GENE_22981/ "
+    },
+    {
+      "color": "pink",
+      "id": 149113,
+      "label": 149113,
+      "shape": "dot",
+      "title": "DISEASE_836/ "
+    },
+    {
+      "color": null,
+      "id": 113390,
+      "label": 113390,
+      "shape": "dot",
+      "title": "GENE_1750/ "
+    },
+    {
+      "color": null,
+      "id": 114884,
+      "label": 114884,
+      "shape": "dot",
+      "title": "GENE_6516/ "
+    },
+    {
+      "color": "green",
+      "id": 280,
+      "label": 280,
+      "shape": "dot",
+      "title": "COMPOUND_281/Chlorambucil"
+    },
+    {
+      "color": "pink",
+      "id": 149033,
+      "label": 149033,
+      "shape": "dot",
+      "title": "DISEASE_1816/ "
+    },
+    {
+      "color": null,
+      "id": 147409,
+      "label": 147409,
+      "shape": "dot",
+      "title": "GENE_34197/ "
+    },
+    {
+      "color": "pink",
+      "id": 160393,
+      "label": 160393,
+      "shape": "dot",
+      "title": "DISEASE_10019/ "
+    },
+    {
+      "color": "green",
+      "id": 268,
+      "label": 268,
+      "shape": "dot",
+      "title": "COMPOUND_269/Liothyronine"
+    },
+    {
+      "color": null,
+      "id": 113494,
+      "label": 113494,
+      "shape": "dot",
+      "title": "GENE_8398/ "
+    },
+    {
+      "color": null,
+      "id": 140748,
+      "label": 140748,
+      "shape": "dot",
+      "title": "GENE_27536/ "
+    },
+    {
+      "color": "pink",
+      "id": 163480,
+      "label": 163480,
+      "shape": "dot",
+      "title": "DISEASE_14474/ "
+    },
+    {
+      "color": "green",
+      "id": 5763,
+      "label": 5763,
+      "shape": "dot",
+      "title": "COMPOUND_5764/Norelgestromin"
+    },
+    {
+      "color": "green",
+      "id": 10998,
+      "label": 10998,
+      "shape": "dot",
+      "title": "COMPOUND_10999/Artemisinin"
+    },
+    {
+      "color": "green",
+      "id": 1526,
+      "label": 1526,
+      "shape": "dot",
+      "title": "COMPOUND_1527/Probucol"
+    },
+    {
+      "color": null,
+      "id": 141838,
+      "label": 141838,
+      "shape": "dot",
+      "title": "GENE_28626/ "
+    },
+    {
+      "color": "pink",
+      "id": 155323,
+      "label": 155323,
+      "shape": "dot",
+      "title": "DISEASE_7560/ "
+    },
+    {
+      "color": "green",
+      "id": 351,
+      "label": 351,
+      "shape": "dot",
+      "title": "COMPOUND_352/Clozapine"
+    },
+    {
+      "color": "pink",
+      "id": 149137,
+      "label": 149137,
+      "shape": "dot",
+      "title": "DISEASE_654/ "
+    },
+    {
+      "color": null,
+      "id": 148861,
+      "label": 148861,
+      "shape": "dot",
+      "title": "GENE_35649/ "
+    },
+    {
+      "color": "pink",
+      "id": 152704,
+      "label": 152704,
+      "shape": "dot",
+      "title": "DISEASE_4634/ "
+    },
+    {
+      "color": "green",
+      "id": 459,
+      "label": 459,
+      "shape": "dot",
+      "title": "COMPOUND_460/Fluoxetine"
+    },
+    {
+      "color": null,
+      "id": 140755,
+      "label": 140755,
+      "shape": "dot",
+      "title": "GENE_27543/ "
+    },
+    {
+      "color": "pink",
+      "id": 162887,
+      "label": 162887,
+      "shape": "dot",
+      "title": "DISEASE_13881/ "
+    },
+    {
+      "color": null,
+      "id": 132665,
+      "label": 132665,
+      "shape": "dot",
+      "title": "GENE_19150/ "
+    },
+    {
+      "color": "pink",
+      "id": 150277,
+      "label": 150277,
+      "shape": "dot",
+      "title": "DISEASE_1070/ "
+    },
+    {
+      "color": "pink",
+      "id": 155913,
+      "label": 155913,
+      "shape": "dot",
+      "title": "DISEASE_10627/ "
+    },
+    {
+      "color": "pink",
+      "id": 151253,
+      "label": 151253,
+      "shape": "dot",
+      "title": "DISEASE_2146/ "
+    },
+    {
+      "color": "green",
+      "id": 90142,
+      "label": 90142,
+      "shape": "dot",
+      "title": "COMPOUND_90090/0"
+    },
+    {
+      "color": null,
+      "id": 113250,
+      "label": 113250,
+      "shape": "dot",
+      "title": "GENE_17361/ "
+    },
+    {
+      "color": null,
+      "id": 113564,
+      "label": 113564,
+      "shape": "dot",
+      "title": "GENE_3351/ "
+    },
+    {
+      "color": null,
+      "id": 147138,
+      "label": 147138,
+      "shape": "dot",
+      "title": "GENE_33926/ "
+    },
+    {
+      "color": "pink",
+      "id": 166670,
+      "label": 166670,
+      "shape": "dot",
+      "title": "DISEASE_17664/ "
+    },
+    {
+      "color": null,
+      "id": 148056,
+      "label": 148056,
+      "shape": "dot",
+      "title": "GENE_34844/ "
+    },
+    {
+      "color": "pink",
+      "id": 164681,
+      "label": 164681,
+      "shape": "dot",
+      "title": "DISEASE_15675/ "
+    },
+    {
+      "color": null,
+      "id": 146032,
+      "label": 146032,
+      "shape": "dot",
+      "title": "GENE_32820/ "
+    },
+    {
+      "color": "pink",
+      "id": 162798,
+      "label": 162798,
+      "shape": "dot",
+      "title": "DISEASE_13792/ "
+    },
+    {
+      "color": "green",
+      "id": 89991,
+      "label": 89991,
+      "shape": "dot",
+      "title": "COMPOUND_89928/0"
+    },
+    {
+      "color": null,
+      "id": 142697,
+      "label": 142697,
+      "shape": "dot",
+      "title": "GENE_29485/ "
+    },
+    {
+      "color": "pink",
+      "id": 153889,
+      "label": 153889,
+      "shape": "dot",
+      "title": "DISEASE_10280/ "
+    },
+    {
+      "color": null,
+      "id": 146741,
+      "label": 146741,
+      "shape": "dot",
+      "title": "GENE_33529/ "
+    },
+    {
+      "color": "pink",
+      "id": 164789,
+      "label": 164789,
+      "shape": "dot",
+      "title": "DISEASE_15783/ "
+    },
+    {
+      "color": null,
+      "id": 114573,
+      "label": 114573,
+      "shape": "dot",
+      "title": "GENE_13290/ "
+    },
+    {
+      "color": "pink",
+      "id": 150492,
+      "label": 150492,
+      "shape": "dot",
+      "title": "DISEASE_1300/ "
+    },
+    {
+      "color": null,
+      "id": 113296,
+      "label": 113296,
+      "shape": "dot",
+      "title": "GENE_19490/ "
+    },
+    {
+      "color": null,
+      "id": 113306,
+      "label": 113306,
+      "shape": "dot",
+      "title": "GENE_11576/ "
+    },
+    {
+      "color": "pink",
+      "id": 149181,
+      "label": 149181,
+      "shape": "dot",
+      "title": "DISEASE_2081/ "
+    },
+    {
+      "color": null,
+      "id": 114829,
+      "label": 114829,
+      "shape": "dot",
+      "title": "GENE_2384/ "
+    },
+    {
+      "color": null,
+      "id": 114239,
+      "label": 114239,
+      "shape": "dot",
+      "title": "GENE_8334/ "
+    },
+    {
+      "color": "green",
+      "id": 89833,
+      "label": 89833,
+      "shape": "dot",
+      "title": "COMPOUND_89761/0"
+    },
+    {
+      "color": null,
+      "id": 120584,
+      "label": 120584,
+      "shape": "dot",
+      "title": "GENE_6269/ "
+    },
+    {
+      "color": "green",
+      "id": 323,
+      "label": 323,
+      "shape": "dot",
+      "title": "COMPOUND_324/Atenolol"
+    },
+    {
+      "color": null,
+      "id": 148675,
+      "label": 148675,
+      "shape": "dot",
+      "title": "GENE_35463/ "
+    },
+    {
+      "color": "pink",
+      "id": 164354,
+      "label": 164354,
+      "shape": "dot",
+      "title": "DISEASE_15348/ "
+    },
+    {
+      "color": null,
+      "id": 137897,
+      "label": 137897,
+      "shape": "dot",
+      "title": "GENE_24685/ "
+    },
+    {
+      "color": "pink",
+      "id": 154157,
+      "label": 154157,
+      "shape": "dot",
+      "title": "DISEASE_3812/ "
+    },
+    {
+      "color": "green",
+      "id": 239,
+      "label": 239,
+      "shape": "dot",
+      "title": "COMPOUND_240/Dapsone"
+    },
+    {
+      "color": null,
+      "id": 113846,
+      "label": 113846,
+      "shape": "dot",
+      "title": "GENE_12744/ "
+    },
+    {
+      "color": null,
+      "id": 142120,
+      "label": 142120,
+      "shape": "dot",
+      "title": "GENE_28908/ "
+    },
+    {
+      "color": "pink",
+      "id": 162926,
+      "label": 162926,
+      "shape": "dot",
+      "title": "DISEASE_13920/ "
+    },
+    {
+      "color": null,
+      "id": 113653,
+      "label": 113653,
+      "shape": "dot",
+      "title": "GENE_11047/ "
+    },
+    {
+      "color": null,
+      "id": 113490,
+      "label": 113490,
+      "shape": "dot",
+      "title": "GENE_7429/ "
+    },
+    {
+      "color": "pink",
+      "id": 149044,
+      "label": 149044,
+      "shape": "dot",
+      "title": "DISEASE_3342/ "
+    },
+    {
+      "color": null,
+      "id": 144865,
+      "label": 144865,
+      "shape": "dot",
+      "title": "GENE_31653/ "
+    },
+    {
+      "color": "pink",
+      "id": 164220,
+      "label": 164220,
+      "shape": "dot",
+      "title": "DISEASE_15214/ "
+    },
+    {
+      "color": null,
+      "id": 113783,
+      "label": 113783,
+      "shape": "dot",
+      "title": "GENE_13960/ "
+    },
+    {
+      "color": "pink",
+      "id": 149067,
+      "label": 149067,
+      "shape": "dot",
+      "title": "DISEASE_3200/ "
+    },
+    {
+      "color": null,
+      "id": 148993,
+      "label": 148993,
+      "shape": "dot",
+      "title": "GENE_35781/ "
+    },
+    {
+      "color": "pink",
+      "id": 162977,
+      "label": 162977,
+      "shape": "dot",
+      "title": "DISEASE_13971/ "
+    },
+    {
+      "color": "pink",
+      "id": 162855,
+      "label": 162855,
+      "shape": "dot",
+      "title": "DISEASE_13849/ "
+    },
+    {
+      "color": "green",
+      "id": 14748,
+      "label": 14748,
+      "shape": "dot",
+      "title": "COMPOUND_14749/0"
+    },
+    {
+      "color": null,
+      "id": 143015,
+      "label": 143015,
+      "shape": "dot",
+      "title": "GENE_29803/ "
+    },
+    {
+      "color": "pink",
+      "id": 166181,
+      "label": 166181,
+      "shape": "dot",
+      "title": "DISEASE_17175/ "
+    },
+    {
+      "color": "green",
+      "id": 14758,
+      "label": 14758,
+      "shape": "dot",
+      "title": "COMPOUND_14759/0"
+    },
+    {
+      "color": null,
+      "id": 113349,
+      "label": 113349,
+      "shape": "dot",
+      "title": "GENE_4259/ "
+    },
+    {
+      "color": "pink",
+      "id": 154135,
+      "label": 154135,
+      "shape": "dot",
+      "title": "DISEASE_3763/ "
+    },
+    {
+      "color": "green",
+      "id": 422,
+      "label": 422,
+      "shape": "dot",
+      "title": "COMPOUND_423/Nitric_oxide"
+    },
+    {
+      "color": null,
+      "id": 113939,
+      "label": 113939,
+      "shape": "dot",
+      "title": "GENE_12997/ "
+    },
+    {
+      "color": null,
+      "id": 139751,
+      "label": 139751,
+      "shape": "dot",
+      "title": "GENE_26539/ "
+    },
+    {
+      "color": "pink",
+      "id": 159203,
+      "label": 159203,
+      "shape": "dot",
+      "title": "DISEASE_8478/ "
+    },
+    {
+      "color": null,
+      "id": 147344,
+      "label": 147344,
+      "shape": "dot",
+      "title": "GENE_34132/ "
+    },
+    {
+      "color": "pink",
+      "id": 164165,
+      "label": 164165,
+      "shape": "dot",
+      "title": "DISEASE_15159/ "
+    },
+    {
+      "color": "pink",
+      "id": 162923,
+      "label": 162923,
+      "shape": "dot",
+      "title": "DISEASE_13917/ "
+    },
+    {
+      "color": "green",
+      "id": 89945,
+      "label": 89945,
+      "shape": "dot",
+      "title": "COMPOUND_89878/0"
+    },
+    {
+      "color": null,
+      "id": 113445,
+      "label": 113445,
+      "shape": "dot",
+      "title": "GENE_4368/ "
+    },
+    {
+      "color": null,
+      "id": 113656,
+      "label": 113656,
+      "shape": "dot",
+      "title": "GENE_12996/ "
+    },
+    {
+      "color": null,
+      "id": 144619,
+      "label": 144619,
+      "shape": "dot",
+      "title": "GENE_31407/ "
+    },
+    {
+      "color": "pink",
+      "id": 159516,
+      "label": 159516,
+      "shape": "dot",
+      "title": "DISEASE_8906/ "
+    },
+    {
+      "color": null,
+      "id": 114012,
+      "label": 114012,
+      "shape": "dot",
+      "title": "GENE_18249/ "
+    },
+    {
+      "color": "pink",
+      "id": 149025,
+      "label": 149025,
+      "shape": "dot",
+      "title": "DISEASE_1824/ "
+    },
+    {
+      "color": null,
+      "id": 148613,
+      "label": 148613,
+      "shape": "dot",
+      "title": "GENE_35401/ "
+    },
+    {
+      "color": "pink",
+      "id": 166096,
+      "label": 166096,
+      "shape": "dot",
+      "title": "DISEASE_17090/ "
+    },
+    {
+      "color": "pink",
+      "id": 149290,
+      "label": 149290,
+      "shape": "dot",
+      "title": "DISEASE_884/ "
+    },
+    {
+      "color": null,
+      "id": 139737,
+      "label": 139737,
+      "shape": "dot",
+      "title": "GENE_26525/ "
+    },
+    {
+      "color": "pink",
+      "id": 156119,
+      "label": 156119,
+      "shape": "dot",
+      "title": "DISEASE_11459/ "
+    },
+    {
+      "color": null,
+      "id": 113307,
+      "label": 113307,
+      "shape": "dot",
+      "title": "GENE_23631/ "
+    },
+    {
+      "color": null,
+      "id": 113281,
+      "label": 113281,
+      "shape": "dot",
+      "title": "GENE_16383/ "
+    },
+    {
+      "color": null,
+      "id": 113516,
+      "label": 113516,
+      "shape": "dot",
+      "title": "GENE_19444/ "
+    },
+    {
+      "color": "green",
+      "id": 90155,
+      "label": 90155,
+      "shape": "dot",
+      "title": "COMPOUND_90103/0"
+    },
+    {
+      "color": null,
+      "id": 113575,
+      "label": 113575,
+      "shape": "dot",
+      "title": "GENE_3185/ "
+    },
+    {
+      "color": "pink",
+      "id": 149212,
+      "label": 149212,
+      "shape": "dot",
+      "title": "DISEASE_3352/ "
+    },
+    {
+      "color": "green",
+      "id": 634,
+      "label": 634,
+      "shape": "dot",
+      "title": "COMPOUND_635/Stavudine"
+    },
+    {
+      "color": "green",
+      "id": 358,
+      "label": 358,
+      "shape": "dot",
+      "title": "COMPOUND_359/Mirtazapine"
+    },
+    {
+      "color": null,
+      "id": 113607,
+      "label": 113607,
+      "shape": "dot",
+      "title": "GENE_13221/ "
+    },
+    {
+      "color": "green",
+      "id": 14514,
+      "label": 14514,
+      "shape": "dot",
+      "title": "COMPOUND_14515/0"
+    },
+    {
+      "color": "green",
+      "id": 89916,
+      "label": 89916,
+      "shape": "dot",
+      "title": "COMPOUND_89848/0"
+    },
+    {
+      "color": null,
+      "id": 146761,
+      "label": 146761,
+      "shape": "dot",
+      "title": "GENE_33549/ "
+    },
+    {
+      "color": "pink",
+      "id": 162939,
+      "label": 162939,
+      "shape": "dot",
+      "title": "DISEASE_13933/ "
+    },
+    {
+      "color": null,
+      "id": 145297,
+      "label": 145297,
+      "shape": "dot",
+      "title": "GENE_32085/ "
+    },
+    {
+      "color": "pink",
+      "id": 164451,
+      "label": 164451,
+      "shape": "dot",
+      "title": "DISEASE_15445/ "
+    },
+    {
+      "color": "green",
+      "id": 89740,
+      "label": 89740,
+      "shape": "dot",
+      "title": "COMPOUND_89659/0"
+    },
+    {
+      "color": null,
+      "id": 114080,
+      "label": 114080,
+      "shape": "dot",
+      "title": "GENE_2990/ "
+    },
+    {
+      "color": null,
+      "id": 113598,
+      "label": 113598,
+      "shape": "dot",
+      "title": "GENE_22010/ "
+    },
+    {
+      "color": "green",
+      "id": 717,
+      "label": 717,
+      "shape": "dot",
+      "title": "COMPOUND_718/Risperidone"
+    },
+    {
+      "color": null,
+      "id": 114357,
+      "label": 114357,
+      "shape": "dot",
+      "title": "GENE_10574/ "
+    },
+    {
+      "color": "green",
+      "id": 1213,
+      "label": 1213,
+      "shape": "dot",
+      "title": "COMPOUND_1214/Dexamethasone"
+    },
+    {
+      "color": null,
+      "id": 114439,
+      "label": 114439,
+      "shape": "dot",
+      "title": "GENE_10579/ "
+    },
+    {
+      "color": "green",
+      "id": 4621,
+      "label": 4621,
+      "shape": "dot",
+      "title": "COMPOUND_4622/Flibanserin"
+    },
+    {
+      "color": null,
+      "id": 114074,
+      "label": 114074,
+      "shape": "dot",
+      "title": "GENE_2290/ "
+    },
+    {
+      "color": null,
+      "id": 114487,
+      "label": 114487,
+      "shape": "dot",
+      "title": "GENE_17695/ "
+    },
+    {
+      "color": "green",
+      "id": 14654,
+      "label": 14654,
+      "shape": "dot",
+      "title": "COMPOUND_14655/0"
+    },
+    {
+      "color": null,
+      "id": 114850,
+      "label": 114850,
+      "shape": "dot",
+      "title": "GENE_17390/ "
+    },
+    {
+      "color": null,
+      "id": 113686,
+      "label": 113686,
+      "shape": "dot",
+      "title": "GENE_18566/ "
+    },
+    {
+      "color": "pink",
+      "id": 152113,
+      "label": 152113,
+      "shape": "dot",
+      "title": "DISEASE_3083/ "
+    },
+    {
+      "color": null,
+      "id": 114122,
+      "label": 114122,
+      "shape": "dot",
+      "title": "GENE_21966/ "
+    },
+    {
+      "color": null,
+      "id": 148948,
+      "label": 148948,
+      "shape": "dot",
+      "title": "GENE_35736/ "
+    },
+    {
+      "color": "pink",
+      "id": 156005,
+      "label": 156005,
+      "shape": "dot",
+      "title": "DISEASE_11036/ "
+    },
+    {
+      "color": null,
+      "id": 148531,
+      "label": 148531,
+      "shape": "dot",
+      "title": "GENE_35319/ "
+    },
+    {
+      "color": "green",
+      "id": 824,
+      "label": 824,
+      "shape": "dot",
+      "title": "COMPOUND_825/Oxazepam"
+    },
+    {
+      "color": "green",
+      "id": 90229,
+      "label": 90229,
+      "shape": "dot",
+      "title": "COMPOUND_90182/0"
+    },
+    {
+      "color": null,
+      "id": 144111,
+      "label": 144111,
+      "shape": "dot",
+      "title": "GENE_30899/ "
+    },
+    {
+      "color": "pink",
+      "id": 165010,
+      "label": 165010,
+      "shape": "dot",
+      "title": "DISEASE_16004/ "
+    },
+    {
+      "color": null,
+      "id": 139046,
+      "label": 139046,
+      "shape": "dot",
+      "title": "GENE_25834/ "
+    },
+    {
+      "color": "pink",
+      "id": 154197,
+      "label": 154197,
+      "shape": "dot",
+      "title": "DISEASE_3946/ "
+    },
+    {
+      "color": null,
+      "id": 143379,
+      "label": 143379,
+      "shape": "dot",
+      "title": "GENE_30167/ "
+    },
+    {
+      "color": "pink",
+      "id": 154162,
+      "label": 154162,
+      "shape": "dot",
+      "title": "DISEASE_3822/ "
+    },
+    {
+      "color": null,
+      "id": 113637,
+      "label": 113637,
+      "shape": "dot",
+      "title": "GENE_19160/ "
+    },
+    {
+      "color": null,
+      "id": 113531,
+      "label": 113531,
+      "shape": "dot",
+      "title": "GENE_13962/ "
+    },
+    {
+      "color": "pink",
+      "id": 151458,
+      "label": 151458,
+      "shape": "dot",
+      "title": "DISEASE_2381/ "
+    },
+    {
+      "color": null,
+      "id": 113558,
+      "label": 113558,
+      "shape": "dot",
+      "title": "GENE_6471/ "
+    },
+    {
+      "color": null,
+      "id": 114026,
+      "label": 114026,
+      "shape": "dot",
+      "title": "GENE_9553/ "
+    },
+    {
+      "color": "pink",
+      "id": 150080,
+      "label": 150080,
+      "shape": "dot",
+      "title": "DISEASE_857/ "
+    },
+    {
+      "color": "green",
+      "id": 227,
+      "label": 227,
+      "shape": "dot",
+      "title": "COMPOUND_228/Nevirapine"
+    },
+    {
+      "color": "green",
+      "id": 322,
+      "label": 322,
+      "shape": "dot",
+      "title": "COMPOUND_323/Olanzapine"
+    },
+    {
+      "color": null,
+      "id": 113527,
+      "label": 113527,
+      "shape": "dot",
+      "title": "GENE_8389/ "
+    },
+    {
+      "color": "green",
+      "id": 1154,
+      "label": 1154,
+      "shape": "dot",
+      "title": "COMPOUND_1155/Escitalopram"
+    },
+    {
+      "color": null,
+      "id": 113314,
+      "label": 113314,
+      "shape": "dot",
+      "title": "GENE_11493/ "
+    },
+    {
+      "color": null,
+      "id": 113581,
+      "label": 113581,
+      "shape": "dot",
+      "title": "GENE_415/ "
+    },
+    {
+      "color": "pink",
+      "id": 150142,
+      "label": 150142,
+      "shape": "dot",
+      "title": "DISEASE_926/ "
+    },
+    {
+      "color": "green",
+      "id": 305,
+      "label": 305,
+      "shape": "dot",
+      "title": "COMPOUND_306/Paracetamol"
+    },
+    {
+      "color": null,
+      "id": 113389,
+      "label": 113389,
+      "shape": "dot",
+      "title": "GENE_8028/ "
+    },
+    {
+      "color": null,
+      "id": 114889,
+      "label": 114889,
+      "shape": "dot",
+      "title": "GENE_3980/ "
+    },
+    {
+      "color": null,
+      "id": 113228,
+      "label": 113228,
+      "shape": "dot",
+      "title": "GENE_10143/ "
+    },
+    {
+      "color": "green",
+      "id": 1074,
+      "label": 1074,
+      "shape": "dot",
+      "title": "COMPOUND_1075/Fluvastatin"
+    },
+    {
+      "color": null,
+      "id": 113504,
+      "label": 113504,
+      "shape": "dot",
+      "title": "GENE_10454/ "
+    },
+    {
+      "color": null,
+      "id": 147055,
+      "label": 147055,
+      "shape": "dot",
+      "title": "GENE_33843/ "
+    },
+    {
+      "color": "pink",
+      "id": 150325,
+      "label": 150325,
+      "shape": "dot",
+      "title": "DISEASE_1121/ "
+    },
+    {
+      "color": "pink",
+      "id": 149026,
+      "label": 149026,
+      "shape": "dot",
+      "title": "DISEASE_2361/ "
+    }
+  ],
+  "edges": [
+    {
+      "arrows": "to",
+      "from": 139984,
+      "title": "causes_condition",
+      "to": 150185
+    },
+    {
+      "arrows": "to",
+      "from": 14705,
+      "title": "is_affecting",
+      "to": 114876
+    },
+    {
+      "arrows": "to",
+      "from": 113524,
+      "title": "causes_condition",
+      "to": 149083
+    },
+    {
+      "arrows": "to",
+      "from": 145158,
+      "title": "causes_condition",
+      "to": 162943
+    },
+    {
+      "arrows": "to",
+      "from": 142278,
+      "title": "causes_condition",
+      "to": 154257
+    },
+    {
+      "arrows": "to",
+      "from": 147256,
+      "title": "causes_condition",
+      "to": 163886
+    },
+    {
+      "arrows": "to",
+      "from": 469,
+      "title": "is_affecting",
+      "to": 113366
+    },
+    {
+      "arrows": "to",
+      "from": 113476,
+      "title": "causes_condition",
+      "to": 149082
+    },
+    {
+      "arrows": "to",
+      "from": 141061,
+      "title": "causes_condition",
+      "to": 164581
+    },
+    {
+      "arrows": "to",
+      "from": 148715,
+      "title": "causes_condition",
+      "to": 164977
+    },
+    {
+      "arrows": "to",
+      "from": 114256,
+      "title": "causes_condition",
+      "to": 149201
+    },
+    {
+      "arrows": "to",
+      "from": 140161,
+      "title": "causes_condition",
+      "to": 154850
+    },
+    {
+      "arrows": "to",
+      "from": 114520,
+      "title": "causes_condition",
+      "to": 149131
+    },
+    {
+      "arrows": "to",
+      "from": 579,
+      "title": "is_affecting",
+      "to": 113872
+    },
+    {
+      "arrows": "to",
+      "from": 1253,
+      "title": "is_affecting",
+      "to": 113288
+    },
+    {
+      "arrows": "to",
+      "from": 90862,
+      "title": "is_affecting",
+      "to": 113941
+    },
+    {
+      "arrows": "to",
+      "from": 147564,
+      "title": "causes_condition",
+      "to": 165203
+    },
+    {
+      "arrows": "to",
+      "from": 146580,
+      "title": "causes_condition",
+      "to": 162938
+    },
+    {
+      "arrows": "to",
+      "from": 511,
+      "title": "is_substance_that_treats",
+      "to": 149038
+    },
+    {
+      "arrows": "to",
+      "from": 113587,
+      "title": "causes_condition",
+      "to": 149259
+    },
+    {
+      "arrows": "to",
+      "from": 114539,
+      "title": "causes_condition",
+      "to": 149035
+    },
+    {
+      "arrows": "to",
+      "from": 144533,
+      "title": "causes_condition",
+      "to": 165987
+    },
+    {
+      "arrows": "to",
+      "from": 409,
+      "title": "is_affecting",
+      "to": 113918
+    },
+    {
+      "arrows": "to",
+      "from": 113308,
+      "title": "causes_condition",
+      "to": 149159
+    },
+    {
+      "arrows": "to",
+      "from": 1055,
+      "title": "is_affecting",
+      "to": 113493
+    },
+    {
+      "arrows": "to",
+      "from": 113253,
+      "title": "causes_condition",
+      "to": 149216
+    },
+    {
+      "arrows": "to",
+      "from": 143200,
+      "title": "causes_condition",
+      "to": 162780
+    },
+    {
+      "arrows": "to",
+      "from": 143143,
+      "title": "causes_condition",
+      "to": 163259
+    },
+    {
+      "arrows": "to",
+      "from": 140412,
+      "title": "causes_condition",
+      "to": 166573
+    },
+    {
+      "arrows": "to",
+      "from": 113999,
+      "title": "causes_condition",
+      "to": 149103
+    },
+    {
+      "arrows": "to",
+      "from": 1161,
+      "title": "is_affecting",
+      "to": 113343
+    },
+    {
+      "arrows": "to",
+      "from": 741,
+      "title": "is_substance_that_treats",
+      "to": 149046
+    },
+    {
+      "arrows": "to",
+      "from": 516,
+      "title": "is_affecting",
+      "to": 114195
+    },
+    {
+      "arrows": "to",
+      "from": 146072,
+      "title": "causes_condition",
+      "to": 155357
+    },
+    {
+      "arrows": "to",
+      "from": 141832,
+      "title": "causes_condition",
+      "to": 164497
+    },
+    {
+      "arrows": "to",
+      "from": 306,
+      "title": "is_affecting",
+      "to": 113252
+    },
+    {
+      "arrows": "to",
+      "from": 516,
+      "title": "is_substance_that_treats",
+      "to": 149161
+    },
+    {
+      "arrows": "to",
+      "from": 140059,
+      "title": "causes_condition",
+      "to": 163699
+    },
+    {
+      "arrows": "to",
+      "from": 113524,
+      "title": "causes_condition",
+      "to": 149050
+    },
+    {
+      "arrows": "to",
+      "from": 113974,
+      "title": "causes_condition",
+      "to": 149011
+    },
+    {
+      "arrows": "to",
+      "from": 139897,
+      "title": "causes_condition",
+      "to": 163378
+    },
+    {
+      "arrows": "to",
+      "from": 143740,
+      "title": "causes_condition",
+      "to": 152964
+    },
+    {
+      "arrows": "to",
+      "from": 113591,
+      "title": "causes_condition",
+      "to": 149179
+    },
+    {
+      "arrows": "to",
+      "from": 9502,
+      "title": "is_affecting",
+      "to": 114662
+    },
+    {
+      "arrows": "to",
+      "from": 145699,
+      "title": "causes_condition",
+      "to": 150893
+    },
+    {
+      "arrows": "to",
+      "from": 139195,
+      "title": "causes_condition",
+      "to": 159021
+    },
+    {
+      "arrows": "to",
+      "from": 144021,
+      "title": "causes_condition",
+      "to": 156120
+    },
+    {
+      "arrows": "to",
+      "from": 143663,
+      "title": "causes_condition",
+      "to": 163970
+    },
+    {
+      "arrows": "to",
+      "from": 145336,
+      "title": "causes_condition",
+      "to": 156389
+    },
+    {
+      "arrows": "to",
+      "from": 113223,
+      "title": "causes_condition",
+      "to": 149008
+    },
+    {
+      "arrows": "to",
+      "from": 144419,
+      "title": "causes_condition",
+      "to": 156515
+    },
+    {
+      "arrows": "to",
+      "from": 148051,
+      "title": "causes_condition",
+      "to": 154179
+    },
+    {
+      "arrows": "to",
+      "from": 114410,
+      "title": "causes_condition",
+      "to": 149231
+    },
+    {
+      "arrows": "to",
+      "from": 147004,
+      "title": "causes_condition",
+      "to": 166481
+    },
+    {
+      "arrows": "to",
+      "from": 14264,
+      "title": "is_affecting",
+      "to": 113324
+    },
+    {
+      "arrows": "to",
+      "from": 516,
+      "title": "is_affecting",
+      "to": 113320
+    },
+    {
+      "arrows": "to",
+      "from": 113396,
+      "title": "causes_condition",
+      "to": 149080
+    },
+    {
+      "arrows": "to",
+      "from": 148803,
+      "title": "causes_condition",
+      "to": 163175
+    },
+    {
+      "arrows": "to",
+      "from": 147296,
+      "title": "causes_condition",
+      "to": 149693
+    },
+    {
+      "arrows": "to",
+      "from": 148219,
+      "title": "causes_condition",
+      "to": 150446
+    },
+    {
+      "arrows": "to",
+      "from": 144205,
+      "title": "causes_condition",
+      "to": 152863
+    },
+    {
+      "arrows": "to",
+      "from": 140063,
+      "title": "causes_condition",
+      "to": 152555
+    },
+    {
+      "arrows": "to",
+      "from": 140434,
+      "title": "causes_condition",
+      "to": 162859
+    },
+    {
+      "arrows": "to",
+      "from": 114609,
+      "title": "causes_condition",
+      "to": 149037
+    },
+    {
+      "arrows": "to",
+      "from": 143046,
+      "title": "causes_condition",
+      "to": 158611
+    },
+    {
+      "arrows": "to",
+      "from": 57,
+      "title": "is_affecting",
+      "to": 113287
+    },
+    {
+      "arrows": "to",
+      "from": 490,
+      "title": "is_affecting",
+      "to": 113592
+    },
+    {
+      "arrows": "to",
+      "from": 938,
+      "title": "is_affecting",
+      "to": 113522
+    },
+    {
+      "arrows": "to",
+      "from": 114192,
+      "title": "causes_condition",
+      "to": 149186
+    },
+    {
+      "arrows": "to",
+      "from": 138687,
+      "title": "causes_condition",
+      "to": 161935
+    },
+    {
+      "arrows": "to",
+      "from": 969,
+      "title": "is_affecting",
+      "to": 113384
+    },
+    {
+      "arrows": "to",
+      "from": 148396,
+      "title": "causes_condition",
+      "to": 164964
+    },
+    {
+      "arrows": "to",
+      "from": 126193,
+      "title": "causes_condition",
+      "to": 149189
+    },
+    {
+      "arrows": "to",
+      "from": 678,
+      "title": "is_affecting",
+      "to": 113416
+    },
+    {
+      "arrows": "to",
+      "from": 526,
+      "title": "is_affecting",
+      "to": 113318
+    },
+    {
+      "arrows": "to",
+      "from": 9534,
+      "title": "is_affecting",
+      "to": 113300
+    },
+    {
+      "arrows": "to",
+      "from": 9896,
+      "title": "is_affecting",
+      "to": 113718
+    },
+    {
+      "arrows": "to",
+      "from": 113789,
+      "title": "causes_condition",
+      "to": 149136
+    },
+    {
+      "arrows": "to",
+      "from": 113776,
+      "title": "causes_condition",
+      "to": 149015
+    },
+    {
+      "arrows": "to",
+      "from": 143089,
+      "title": "causes_condition",
+      "to": 158325
+    },
+    {
+      "arrows": "to",
+      "from": 147592,
+      "title": "causes_condition",
+      "to": 167230
+    },
+    {
+      "arrows": "to",
+      "from": 140301,
+      "title": "causes_condition",
+      "to": 160016
+    },
+    {
+      "arrows": "to",
+      "from": 190,
+      "title": "is_affecting",
+      "to": 113580
+    },
+    {
+      "arrows": "to",
+      "from": 14611,
+      "title": "is_affecting",
+      "to": 113690
+    },
+    {
+      "arrows": "to",
+      "from": 302,
+      "title": "is_affecting",
+      "to": 113530
+    },
+    {
+      "arrows": "to",
+      "from": 1080,
+      "title": "is_affecting",
+      "to": 114600
+    },
+    {
+      "arrows": "to",
+      "from": 1196,
+      "title": "is_affecting",
+      "to": 114501
+    },
+    {
+      "arrows": "to",
+      "from": 469,
+      "title": "is_affecting",
+      "to": 113803
+    },
+    {
+      "arrows": "to",
+      "from": 113459,
+      "title": "causes_condition",
+      "to": 150127
+    },
+    {
+      "arrows": "to",
+      "from": 113530,
+      "title": "causes_condition",
+      "to": 149083
+    },
+    {
+      "arrows": "to",
+      "from": 113645,
+      "title": "causes_condition",
+      "to": 149196
+    },
+    {
+      "arrows": "to",
+      "from": 145219,
+      "title": "causes_condition",
+      "to": 158959
+    },
+    {
+      "arrows": "to",
+      "from": 89835,
+      "title": "is_affecting",
+      "to": 113524
+    },
+    {
+      "arrows": "to",
+      "from": 1203,
+      "title": "is_substance_that_treats",
+      "to": 149124
+    },
+    {
+      "arrows": "to",
+      "from": 144768,
+      "title": "causes_condition",
+      "to": 165295
+    },
+    {
+      "arrows": "to",
+      "from": 113305,
+      "title": "causes_condition",
+      "to": 151394
+    },
+    {
+      "arrows": "to",
+      "from": 1013,
+      "title": "is_affecting",
+      "to": 113343
+    },
+    {
+      "arrows": "to",
+      "from": 147027,
+      "title": "causes_condition",
+      "to": 154250
+    },
+    {
+      "arrows": "to",
+      "from": 141830,
+      "title": "causes_condition",
+      "to": 163033
+    },
+    {
+      "arrows": "to",
+      "from": 90219,
+      "title": "is_affecting",
+      "to": 113427
+    },
+    {
+      "arrows": "to",
+      "from": 139562,
+      "title": "causes_condition",
+      "to": 156079
+    },
+    {
+      "arrows": "to",
+      "from": 140055,
+      "title": "causes_condition",
+      "to": 155140
+    },
+    {
+      "arrows": "to",
+      "from": 113712,
+      "title": "causes_condition",
+      "to": 149051
+    },
+    {
+      "arrows": "to",
+      "from": 14198,
+      "title": "is_affecting",
+      "to": 113533
+    },
+    {
+      "arrows": "to",
+      "from": 114015,
+      "title": "causes_condition",
+      "to": 149252
+    },
+    {
+      "arrows": "to",
+      "from": 113974,
+      "title": "causes_condition",
+      "to": 149165
+    },
+    {
+      "arrows": "to",
+      "from": 148368,
+      "title": "causes_condition",
+      "to": 156992
+    },
+    {
+      "arrows": "to",
+      "from": 113633,
+      "title": "causes_condition",
+      "to": 149169
+    },
+    {
+      "arrows": "to",
+      "from": 477,
+      "title": "is_affecting",
+      "to": 113530
+    },
+    {
+      "arrows": "to",
+      "from": 141265,
+      "title": "causes_condition",
+      "to": 155553
+    },
+    {
+      "arrows": "to",
+      "from": 139955,
+      "title": "causes_condition",
+      "to": 166911
+    },
+    {
+      "arrows": "to",
+      "from": 142781,
+      "title": "causes_condition",
+      "to": 163046
+    },
+    {
+      "arrows": "to",
+      "from": 1076,
+      "title": "is_affecting",
+      "to": 113305
+    },
+    {
+      "arrows": "to",
+      "from": 139684,
+      "title": "causes_condition",
+      "to": 156393
+    },
+    {
+      "arrows": "to",
+      "from": 137932,
+      "title": "causes_condition",
+      "to": 152423
+    },
+    {
+      "arrows": "to",
+      "from": 140253,
+      "title": "causes_condition",
+      "to": 167214
+    },
+    {
+      "arrows": "to",
+      "from": 138679,
+      "title": "causes_condition",
+      "to": 152422
+    },
+    {
+      "arrows": "to",
+      "from": 139141,
+      "title": "causes_condition",
+      "to": 158952
+    },
+    {
+      "arrows": "to",
+      "from": 1033,
+      "title": "is_affecting",
+      "to": 113815
+    },
+    {
+      "arrows": "to",
+      "from": 139805,
+      "title": "causes_condition",
+      "to": 153178
+    },
+    {
+      "arrows": "to",
+      "from": 113479,
+      "title": "causes_condition",
+      "to": 149257
+    },
+    {
+      "arrows": "to",
+      "from": 139014,
+      "title": "causes_condition",
+      "to": 166689
+    },
+    {
+      "arrows": "to",
+      "from": 138469,
+      "title": "causes_condition",
+      "to": 156387
+    },
+    {
+      "arrows": "to",
+      "from": 89373,
+      "title": "is_affecting",
+      "to": 113529
+    },
+    {
+      "arrows": "to",
+      "from": 90376,
+      "title": "is_affecting",
+      "to": 113519
+    },
+    {
+      "arrows": "to",
+      "from": 89682,
+      "title": "is_affecting",
+      "to": 113287
+    },
+    {
+      "arrows": "to",
+      "from": 143045,
+      "title": "causes_condition",
+      "to": 161160
+    },
+    {
+      "arrows": "to",
+      "from": 114057,
+      "title": "causes_condition",
+      "to": 149164
+    },
+    {
+      "arrows": "to",
+      "from": 148244,
+      "title": "causes_condition",
+      "to": 164970
+    },
+    {
+      "arrows": "to",
+      "from": 113343,
+      "title": "causes_condition",
+      "to": 149162
+    },
+    {
+      "arrows": "to",
+      "from": 114329,
+      "title": "causes_condition",
+      "to": 149007
+    },
+    {
+      "arrows": "to",
+      "from": 14622,
+      "title": "is_affecting",
+      "to": 113427
+    },
+    {
+      "arrows": "to",
+      "from": 800,
+      "title": "is_affecting",
+      "to": 114428
+    },
+    {
+      "arrows": "to",
+      "from": 139419,
+      "title": "causes_condition",
+      "to": 165791
+    },
+    {
+      "arrows": "to",
+      "from": 145746,
+      "title": "causes_condition",
+      "to": 163969
+    },
+    {
+      "arrows": "to",
+      "from": 1247,
+      "title": "is_affecting",
+      "to": 113235
+    },
+    {
+      "arrows": "to",
+      "from": 137769,
+      "title": "causes_condition",
+      "to": 155950
+    },
+    {
+      "arrows": "to",
+      "from": 143299,
+      "title": "causes_condition",
+      "to": 154087
+    },
+    {
+      "arrows": "to",
+      "from": 90583,
+      "title": "is_substance_that_treats",
+      "to": 149020
+    },
+    {
+      "arrows": "to",
+      "from": 4936,
+      "title": "is_affecting",
+      "to": 113879
+    },
+    {
+      "arrows": "to",
+      "from": 1355,
+      "title": "is_affecting",
+      "to": 113475
+    },
+    {
+      "arrows": "to",
+      "from": 114131,
+      "title": "causes_condition",
+      "to": 149054
+    },
+    {
+      "arrows": "to",
+      "from": 1246,
+      "title": "is_affecting",
+      "to": 114193
+    },
+    {
+      "arrows": "to",
+      "from": 113868,
+      "title": "causes_condition",
+      "to": 151487
+    },
+    {
+      "arrows": "to",
+      "from": 979,
+      "title": "is_affecting",
+      "to": 114205
+    },
+    {
+      "arrows": "to",
+      "from": 302,
+      "title": "is_affecting",
+      "to": 113574
+    },
+    {
+      "arrows": "to",
+      "from": 144338,
+      "title": "causes_condition",
+      "to": 162784
+    },
+    {
+      "arrows": "to",
+      "from": 940,
+      "title": "is_affecting",
+      "to": 114167
+    },
+    {
+      "arrows": "to",
+      "from": 511,
+      "title": "is_affecting",
+      "to": 114107
+    },
+    {
+      "arrows": "to",
+      "from": 113528,
+      "title": "causes_condition",
+      "to": 149251
+    },
+    {
+      "arrows": "to",
+      "from": 113304,
+      "title": "causes_condition",
+      "to": 149153
+    },
+    {
+      "arrows": "to",
+      "from": 90285,
+      "title": "is_affecting",
+      "to": 113350
+    },
+    {
+      "arrows": "to",
+      "from": 525,
+      "title": "is_affecting",
+      "to": 113523
+    },
+    {
+      "arrows": "to",
+      "from": 139180,
+      "title": "causes_condition",
+      "to": 166570
+    },
+    {
+      "arrows": "to",
+      "from": 14773,
+      "title": "is_affecting",
+      "to": 113757
+    },
+    {
+      "arrows": "to",
+      "from": 141427,
+      "title": "causes_condition",
+      "to": 152465
+    },
+    {
+      "arrows": "to",
+      "from": 61,
+      "title": "is_affecting",
+      "to": 113294
+    },
+    {
+      "arrows": "to",
+      "from": 113530,
+      "title": "causes_condition",
+      "to": 149155
+    },
+    {
+      "arrows": "to",
+      "from": 141394,
+      "title": "causes_condition",
+      "to": 162847
+    },
+    {
+      "arrows": "to",
+      "from": 1033,
+      "title": "is_substance_that_treats",
+      "to": 149035
+    },
+    {
+      "arrows": "to",
+      "from": 871,
+      "title": "is_affecting",
+      "to": 113417
+    },
+    {
+      "arrows": "to",
+      "from": 114620,
+      "title": "causes_condition",
+      "to": 149037
+    },
+    {
+      "arrows": "to",
+      "from": 90151,
+      "title": "is_substance_that_treats",
+      "to": 149164
+    },
+    {
+      "arrows": "to",
+      "from": 116964,
+      "title": "causes_condition",
+      "to": 149154
+    },
+    {
+      "arrows": "to",
+      "from": 113324,
+      "title": "causes_condition",
+      "to": 149179
+    },
+    {
+      "arrows": "to",
+      "from": 142528,
+      "title": "causes_condition",
+      "to": 155752
+    },
+    {
+      "arrows": "to",
+      "from": 113395,
+      "title": "causes_condition",
+      "to": 149248
+    },
+    {
+      "arrows": "to",
+      "from": 147025,
+      "title": "causes_condition",
+      "to": 155390
+    },
+    {
+      "arrows": "to",
+      "from": 143713,
+      "title": "causes_condition",
+      "to": 157483
+    },
+    {
+      "arrows": "to",
+      "from": 89421,
+      "title": "is_affecting",
+      "to": 114742
+    },
+    {
+      "arrows": "to",
+      "from": 145445,
+      "title": "causes_condition",
+      "to": 154694
+    },
+    {
+      "arrows": "to",
+      "from": 8066,
+      "title": "is_affecting",
+      "to": 113427
+    },
+    {
+      "arrows": "to",
+      "from": 89415,
+      "title": "is_affecting",
+      "to": 114444
+    },
+    {
+      "arrows": "to",
+      "from": 672,
+      "title": "is_affecting",
+      "to": 114320
+    },
+    {
+      "arrows": "to",
+      "from": 145506,
+      "title": "causes_condition",
+      "to": 162791
+    },
+    {
+      "arrows": "to",
+      "from": 113433,
+      "title": "causes_condition",
+      "to": 149008
+    },
+    {
+      "arrows": "to",
+      "from": 482,
+      "title": "is_affecting",
+      "to": 114107
+    },
+    {
+      "arrows": "to",
+      "from": 113254,
+      "title": "causes_condition",
+      "to": 149023
+    },
+    {
+      "arrows": "to",
+      "from": 759,
+      "title": "is_affecting",
+      "to": 113663
+    },
+    {
+      "arrows": "to",
+      "from": 148018,
+      "title": "causes_condition",
+      "to": 166077
+    },
+    {
+      "arrows": "to",
+      "from": 114410,
+      "title": "causes_condition",
+      "to": 149165
+    },
+    {
+      "arrows": "to",
+      "from": 1014,
+      "title": "is_substance_that_treats",
+      "to": 149133
+    },
+    {
+      "arrows": "to",
+      "from": 113434,
+      "title": "causes_condition",
+      "to": 149102
+    },
+    {
+      "arrows": "to",
+      "from": 140259,
+      "title": "causes_condition",
+      "to": 154649
+    },
+    {
+      "arrows": "to",
+      "from": 842,
+      "title": "is_affecting",
+      "to": 113339
+    },
+    {
+      "arrows": "to",
+      "from": 113631,
+      "title": "causes_condition",
+      "to": 149054
+    },
+    {
+      "arrows": "to",
+      "from": 1083,
+      "title": "is_affecting",
+      "to": 113287
+    },
+    {
+      "arrows": "to",
+      "from": 139733,
+      "title": "causes_condition",
+      "to": 167160
+    },
+    {
+      "arrows": "to",
+      "from": 138384,
+      "title": "causes_condition",
+      "to": 153915
+    },
+    {
+      "arrows": "to",
+      "from": 516,
+      "title": "is_affecting",
+      "to": 114011
+    },
+    {
+      "arrows": "to",
+      "from": 138945,
+      "title": "causes_condition",
+      "to": 152783
+    },
+    {
+      "arrows": "to",
+      "from": 113789,
+      "title": "causes_condition",
+      "to": 149136
+    },
+    {
+      "arrows": "to",
+      "from": 113524,
+      "title": "causes_condition",
+      "to": 149278
+    },
+    {
+      "arrows": "to",
+      "from": 114837,
+      "title": "causes_condition",
+      "to": 149124
+    },
+    {
+      "arrows": "to",
+      "from": 113512,
+      "title": "causes_condition",
+      "to": 149045
+    },
+    {
+      "arrows": "to",
+      "from": 142096,
+      "title": "causes_condition",
+      "to": 150416
+    },
+    {
+      "arrows": "to",
+      "from": 113366,
+      "title": "causes_condition",
+      "to": 149023
+    },
+    {
+      "arrows": "to",
+      "from": 140847,
+      "title": "causes_condition",
+      "to": 166296
+    },
+    {
+      "arrows": "to",
+      "from": 89760,
+      "title": "is_affecting",
+      "to": 113399
+    },
+    {
+      "arrows": "to",
+      "from": 146917,
+      "title": "causes_condition",
+      "to": 155196
+    },
+    {
+      "arrows": "to",
+      "from": 549,
+      "title": "is_affecting",
+      "to": 113287
+    },
+    {
+      "arrows": "to",
+      "from": 113757,
+      "title": "causes_condition",
+      "to": 149008
+    },
+    {
+      "arrows": "to",
+      "from": 113853,
+      "title": "causes_condition",
+      "to": 149087
+    },
+    {
+      "arrows": "to",
+      "from": 659,
+      "title": "is_affecting",
+      "to": 114275
+    },
+    {
+      "arrows": "to",
+      "from": 745,
+      "title": "is_affecting",
+      "to": 113472
+    },
+    {
+      "arrows": "to",
+      "from": 4917,
+      "title": "is_affecting",
+      "to": 113253
+    },
+    {
+      "arrows": "to",
+      "from": 113938,
+      "title": "causes_condition",
+      "to": 149056
+    },
+    {
+      "arrows": "to",
+      "from": 143947,
+      "title": "causes_condition",
+      "to": 166334
+    },
+    {
+      "arrows": "to",
+      "from": 910,
+      "title": "is_affecting",
+      "to": 114449
+    },
+    {
+      "arrows": "to",
+      "from": 90712,
+      "title": "is_affecting",
+      "to": 113574
+    },
+    {
+      "arrows": "to",
+      "from": 90285,
+      "title": "is_affecting",
+      "to": 113350
+    },
+    {
+      "arrows": "to",
+      "from": 146375,
+      "title": "causes_condition",
+      "to": 154661
+    },
+    {
+      "arrows": "to",
+      "from": 114226,
+      "title": "causes_condition",
+      "to": 149195
+    },
+    {
+      "arrows": "to",
+      "from": 138257,
+      "title": "causes_condition",
+      "to": 155744
+    },
+    {
+      "arrows": "to",
+      "from": 120149,
+      "title": "causes_condition",
+      "to": 149997
+    },
+    {
+      "arrows": "to",
+      "from": 326,
+      "title": "is_affecting",
+      "to": 113528
+    },
+    {
+      "arrows": "to",
+      "from": 14489,
+      "title": "is_affecting",
+      "to": 114832
+    },
+    {
+      "arrows": "to",
+      "from": 114502,
+      "title": "causes_condition",
+      "to": 149296
+    },
+    {
+      "arrows": "to",
+      "from": 113223,
+      "title": "causes_condition",
+      "to": 151343
+    },
+    {
+      "arrows": "to",
+      "from": 113801,
+      "title": "causes_condition",
+      "to": 149126
+    },
+    {
+      "arrows": "to",
+      "from": 113628,
+      "title": "causes_condition",
+      "to": 149051
+    },
+    {
+      "arrows": "to",
+      "from": 114063,
+      "title": "causes_condition",
+      "to": 149049
+    },
+    {
+      "arrows": "to",
+      "from": 113288,
+      "title": "causes_condition",
+      "to": 149015
+    },
+    {
+      "arrows": "to",
+      "from": 148076,
+      "title": "causes_condition",
+      "to": 162925
+    },
+    {
+      "arrows": "to",
+      "from": 148752,
+      "title": "causes_condition",
+      "to": 166229
+    },
+    {
+      "arrows": "to",
+      "from": 148280,
+      "title": "causes_condition",
+      "to": 165509
+    },
+    {
+      "arrows": "to",
+      "from": 148565,
+      "title": "causes_condition",
+      "to": 155803
+    },
+    {
+      "arrows": "to",
+      "from": 113544,
+      "title": "causes_condition",
+      "to": 149055
+    },
+    {
+      "arrows": "to",
+      "from": 148203,
+      "title": "causes_condition",
+      "to": 161748
+    },
+    {
+      "arrows": "to",
+      "from": 113834,
+      "title": "causes_condition",
+      "to": 149182
+    },
+    {
+      "arrows": "to",
+      "from": 274,
+      "title": "is_affecting",
+      "to": 113624
+    },
+    {
+      "arrows": "to",
+      "from": 146516,
+      "title": "causes_condition",
+      "to": 166318
+    },
+    {
+      "arrows": "to",
+      "from": 526,
+      "title": "is_affecting",
+      "to": 114234
+    },
+    {
+      "arrows": "to",
+      "from": 139769,
+      "title": "causes_condition",
+      "to": 166906
+    },
+    {
+      "arrows": "to",
+      "from": 113602,
+      "title": "causes_condition",
+      "to": 149997
+    },
+    {
+      "arrows": "to",
+      "from": 14520,
+      "title": "is_affecting",
+      "to": 113538
+    },
+    {
+      "arrows": "to",
+      "from": 113792,
+      "title": "causes_condition",
+      "to": 149135
+    },
+    {
+      "arrows": "to",
+      "from": 142709,
+      "title": "causes_condition",
+      "to": 163302
+    },
+    {
+      "arrows": "to",
+      "from": 132667,
+      "title": "causes_condition",
+      "to": 149083
+    },
+    {
+      "arrows": "to",
+      "from": 113864,
+      "title": "causes_condition",
+      "to": 149083
+    },
+    {
+      "arrows": "to",
+      "from": 5167,
+      "title": "is_affecting",
+      "to": 113274
+    },
+    {
+      "arrows": "to",
+      "from": 525,
+      "title": "is_affecting",
+      "to": 113544
+    },
+    {
+      "arrows": "to",
+      "from": 140264,
+      "title": "causes_condition",
+      "to": 154199
+    },
+    {
+      "arrows": "to",
+      "from": 139017,
+      "title": "causes_condition",
+      "to": 165152
+    },
+    {
+      "arrows": "to",
+      "from": 141836,
+      "title": "causes_condition",
+      "to": 156679
+    },
+    {
+      "arrows": "to",
+      "from": 138234,
+      "title": "causes_condition",
+      "to": 152599
+    },
+    {
+      "arrows": "to",
+      "from": 14615,
+      "title": "is_affecting",
+      "to": 114838
+    },
+    {
+      "arrows": "to",
+      "from": 146141,
+      "title": "causes_condition",
+      "to": 165239
+    },
+    {
+      "arrows": "to",
+      "from": 549,
+      "title": "is_affecting",
+      "to": 113720
+    },
+    {
+      "arrows": "to",
+      "from": 142465,
+      "title": "causes_condition",
+      "to": 163258
+    },
+    {
+      "arrows": "to",
+      "from": 146191,
+      "title": "causes_condition",
+      "to": 162165
+    },
+    {
+      "arrows": "to",
+      "from": 525,
+      "title": "is_affecting",
+      "to": 113650
+    },
+    {
+      "arrows": "to",
+      "from": 142708,
+      "title": "causes_condition",
+      "to": 154734
+    },
+    {
+      "arrows": "to",
+      "from": 409,
+      "title": "is_affecting",
+      "to": 113936
+    },
+    {
+      "arrows": "to",
+      "from": 139127,
+      "title": "causes_condition",
+      "to": 166644
+    },
+    {
+      "arrows": "to",
+      "from": 90833,
+      "title": "is_substance_that_treats",
+      "to": 149077
+    },
+    {
+      "arrows": "to",
+      "from": 113538,
+      "title": "causes_condition",
+      "to": 149257
+    },
+    {
+      "arrows": "to",
+      "from": 113244,
+      "title": "causes_condition",
+      "to": 149008
+    },
+    {
+      "arrows": "to",
+      "from": 113277,
+      "title": "causes_condition",
+      "to": 149023
+    },
+    {
+      "arrows": "to",
+      "from": 142052,
+      "title": "causes_condition",
+      "to": 149233
+    },
+    {
+      "arrows": "to",
+      "from": 408,
+      "title": "is_affecting",
+      "to": 113354
+    },
+    {
+      "arrows": "to",
+      "from": 147419,
+      "title": "causes_condition",
+      "to": 163246
+    },
+    {
+      "arrows": "to",
+      "from": 114028,
+      "title": "causes_condition",
+      "to": 149007
+    },
+    {
+      "arrows": "to",
+      "from": 14747,
+      "title": "is_affecting",
+      "to": 114680
+    },
+    {
+      "arrows": "to",
+      "from": 412,
+      "title": "is_affecting",
+      "to": 113427
+    },
+    {
+      "arrows": "to",
+      "from": 114269,
+      "title": "causes_condition",
+      "to": 150459
+    },
+    {
+      "arrows": "to",
+      "from": 143717,
+      "title": "causes_condition",
+      "to": 162716
+    },
+    {
+      "arrows": "to",
+      "from": 1055,
+      "title": "is_affecting",
+      "to": 114595
+    },
+    {
+      "arrows": "to",
+      "from": 10387,
+      "title": "is_affecting",
+      "to": 113343
+    },
+    {
+      "arrows": "to",
+      "from": 302,
+      "title": "is_affecting",
+      "to": 113665
+    },
+    {
+      "arrows": "to",
+      "from": 8119,
+      "title": "is_affecting",
+      "to": 113304
+    },
+    {
+      "arrows": "to",
+      "from": 269,
+      "title": "is_affecting",
+      "to": 113587
+    },
+    {
+      "arrows": "to",
+      "from": 147447,
+      "title": "causes_condition",
+      "to": 153313
+    },
+    {
+      "arrows": "to",
+      "from": 500,
+      "title": "is_affecting",
+      "to": 113792
+    },
+    {
+      "arrows": "to",
+      "from": 5119,
+      "title": "is_affecting",
+      "to": 113523
+    },
+    {
+      "arrows": "to",
+      "from": 147790,
+      "title": "causes_condition",
+      "to": 154204
+    },
+    {
+      "arrows": "to",
+      "from": 114496,
+      "title": "causes_condition",
+      "to": 150279
+    },
+    {
+      "arrows": "to",
+      "from": 113682,
+      "title": "causes_condition",
+      "to": 149201
+    },
+    {
+      "arrows": "to",
+      "from": 113351,
+      "title": "causes_condition",
+      "to": 150562
+    },
+    {
+      "arrows": "to",
+      "from": 142478,
+      "title": "causes_condition",
+      "to": 155680
+    },
+    {
+      "arrows": "to",
+      "from": 274,
+      "title": "is_affecting",
+      "to": 113343
+    },
+    {
+      "arrows": "to",
+      "from": 972,
+      "title": "is_affecting",
+      "to": 113303
+    },
+    {
+      "arrows": "to",
+      "from": 145873,
+      "title": "causes_condition",
+      "to": 154001
+    },
+    {
+      "arrows": "to",
+      "from": 146473,
+      "title": "causes_condition",
+      "to": 160475
+    },
+    {
+      "arrows": "to",
+      "from": 145837,
+      "title": "causes_condition",
+      "to": 165327
+    },
+    {
+      "arrows": "to",
+      "from": 940,
+      "title": "is_affecting",
+      "to": 114492
+    },
+    {
+      "arrows": "to",
+      "from": 1037,
+      "title": "is_affecting",
+      "to": 113523
+    },
+    {
+      "arrows": "to",
+      "from": 139186,
+      "title": "causes_condition",
+      "to": 149891
+    },
+    {
+      "arrows": "to",
+      "from": 1014,
+      "title": "is_affecting",
+      "to": 113453
+    },
+    {
+      "arrows": "to",
+      "from": 593,
+      "title": "is_affecting",
+      "to": 113822
+    },
+    {
+      "arrows": "to",
+      "from": 48,
+      "title": "is_affecting",
+      "to": 113286
+    },
+    {
+      "arrows": "to",
+      "from": 123421,
+      "title": "causes_condition",
+      "to": 151188
+    },
+    {
+      "arrows": "to",
+      "from": 114688,
+      "title": "causes_condition",
+      "to": 149090
+    },
+    {
+      "arrows": "to",
+      "from": 14705,
+      "title": "is_affecting",
+      "to": 113620
+    },
+    {
+      "arrows": "to",
+      "from": 14470,
+      "title": "is_affecting",
+      "to": 113553
+    },
+    {
+      "arrows": "to",
+      "from": 14554,
+      "title": "is_affecting",
+      "to": 113790
+    },
+    {
+      "arrows": "to",
+      "from": 113343,
+      "title": "causes_condition",
+      "to": 149102
+    },
+    {
+      "arrows": "to",
+      "from": 113522,
+      "title": "causes_condition",
+      "to": 149098
+    },
+    {
+      "arrows": "to",
+      "from": 516,
+      "title": "is_affecting",
+      "to": 113451
+    },
+    {
+      "arrows": "to",
+      "from": 1160,
+      "title": "is_affecting",
+      "to": 113354
+    },
+    {
+      "arrows": "to",
+      "from": 90690,
+      "title": "is_affecting",
+      "to": 113427
+    },
+    {
+      "arrows": "to",
+      "from": 432,
+      "title": "is_affecting",
+      "to": 113308
+    },
+    {
+      "arrows": "to",
+      "from": 147186,
+      "title": "causes_condition",
+      "to": 153093
+    },
+    {
+      "arrows": "to",
+      "from": 14705,
+      "title": "is_affecting",
+      "to": 114855
+    },
+    {
+      "arrows": "to",
+      "from": 113524,
+      "title": "causes_condition",
+      "to": 149108
+    },
+    {
+      "arrows": "to",
+      "from": 420,
+      "title": "is_substance_that_treats",
+      "to": 149070
+    },
+    {
+      "arrows": "to",
+      "from": 144482,
+      "title": "causes_condition",
+      "to": 154104
+    },
+    {
+      "arrows": "to",
+      "from": 144189,
+      "title": "causes_condition",
+      "to": 166797
+    },
+    {
+      "arrows": "to",
+      "from": 969,
+      "title": "is_affecting",
+      "to": 113320
+    },
+    {
+      "arrows": "to",
+      "from": 114431,
+      "title": "causes_condition",
+      "to": 149083
+    },
+    {
+      "arrows": "to",
+      "from": 144872,
+      "title": "causes_condition",
+      "to": 150016
+    },
+    {
+      "arrows": "to",
+      "from": 21,
+      "title": "is_affecting",
+      "to": 113312
+    },
+    {
+      "arrows": "to",
+      "from": 604,
+      "title": "is_affecting",
+      "to": 113425
+    },
+    {
+      "arrows": "to",
+      "from": 113533,
+      "title": "causes_condition",
+      "to": 149997
+    },
+    {
+      "arrows": "to",
+      "from": 113434,
+      "title": "causes_condition",
+      "to": 149202
+    },
+    {
+      "arrows": "to",
+      "from": 89762,
+      "title": "is_affecting",
+      "to": 113511
+    },
+    {
+      "arrows": "to",
+      "from": 144059,
+      "title": "causes_condition",
+      "to": 164591
+    },
+    {
+      "arrows": "to",
+      "from": 114688,
+      "title": "causes_condition",
+      "to": 149090
+    },
+    {
+      "arrows": "to",
+      "from": 139051,
+      "title": "causes_condition",
+      "to": 160956
+    },
+    {
+      "arrows": "to",
+      "from": 113616,
+      "title": "causes_condition",
+      "to": 149007
+    },
+    {
+      "arrows": "to",
+      "from": 146289,
+      "title": "causes_condition",
+      "to": 163501
+    },
+    {
+      "arrows": "to",
+      "from": 114170,
+      "title": "causes_condition",
+      "to": 149008
+    },
+    {
+      "arrows": "to",
+      "from": 140420,
+      "title": "causes_condition",
+      "to": 158462
+    },
+    {
+      "arrows": "to",
+      "from": 511,
+      "title": "is_affecting",
+      "to": 113798
+    },
+    {
+      "arrows": "to",
+      "from": 140574,
+      "title": "causes_condition",
+      "to": 152624
+    },
+    {
+      "arrows": "to",
+      "from": 5513,
+      "title": "is_affecting",
+      "to": 113930
+    },
+    {
+      "arrows": "to",
+      "from": 90694,
+      "title": "is_affecting",
+      "to": 113304
+    },
+    {
+      "arrows": "to",
+      "from": 145717,
+      "title": "causes_condition",
+      "to": 167331
+    },
+    {
+      "arrows": "to",
+      "from": 113767,
+      "title": "causes_condition",
+      "to": 149289
+    },
+    {
+      "arrows": "to",
+      "from": 146517,
+      "title": "causes_condition",
+      "to": 166982
+    },
+    {
+      "arrows": "to",
+      "from": 114681,
+      "title": "causes_condition",
+      "to": 149286
+    },
+    {
+      "arrows": "to",
+      "from": 969,
+      "title": "is_substance_that_treats",
+      "to": 149007
+    },
+    {
+      "arrows": "to",
+      "from": 113574,
+      "title": "causes_condition",
+      "to": 149205
+    },
+    {
+      "arrows": "to",
+      "from": 113380,
+      "title": "causes_condition",
+      "to": 149171
+    },
+    {
+      "arrows": "to",
+      "from": 138170,
+      "title": "causes_condition",
+      "to": 166683
+    },
+    {
+      "arrows": "to",
+      "from": 1236,
+      "title": "is_affecting",
+      "to": 114662
+    },
+    {
+      "arrows": "to",
+      "from": 1506,
+      "title": "is_affecting",
+      "to": 113231
+    },
+    {
+      "arrows": "to",
+      "from": 114135,
+      "title": "causes_condition",
+      "to": 149090
+    },
+    {
+      "arrows": "to",
+      "from": 140092,
+      "title": "causes_condition",
+      "to": 164323
+    },
+    {
+      "arrows": "to",
+      "from": 144348,
+      "title": "causes_condition",
+      "to": 149447
+    },
+    {
+      "arrows": "to",
+      "from": 981,
+      "title": "is_affecting",
+      "to": 114543
+    },
+    {
+      "arrows": "to",
+      "from": 140470,
+      "title": "causes_condition",
+      "to": 156367
+    },
+    {
+      "arrows": "to",
+      "from": 146348,
+      "title": "causes_condition",
+      "to": 165478
+    },
+    {
+      "arrows": "to",
+      "from": 145856,
+      "title": "causes_condition",
+      "to": 163806
+    },
+    {
+      "arrows": "to",
+      "from": 1227,
+      "title": "is_substance_that_treats",
+      "to": 149153
+    },
+    {
+      "arrows": "to",
+      "from": 489,
+      "title": "is_affecting",
+      "to": 113533
+    },
+    {
+      "arrows": "to",
+      "from": 143565,
+      "title": "causes_condition",
+      "to": 153681
+    },
+    {
+      "arrows": "to",
+      "from": 89749,
+      "title": "is_affecting",
+      "to": 113545
+    },
+    {
+      "arrows": "to",
+      "from": 147980,
+      "title": "causes_condition",
+      "to": 153477
+    },
+    {
+      "arrows": "to",
+      "from": 978,
+      "title": "is_substance_that_treats",
+      "to": 149076
+    },
+    {
+      "arrows": "to",
+      "from": 89567,
+      "title": "is_affecting",
+      "to": 113984
+    },
+    {
+      "arrows": "to",
+      "from": 90376,
+      "title": "is_substance_that_treats",
+      "to": 149276
+    },
+    {
+      "arrows": "to",
+      "from": 142507,
+      "title": "causes_condition",
+      "to": 161873
+    },
+    {
+      "arrows": "to",
+      "from": 141071,
+      "title": "causes_condition",
+      "to": 164523
+    },
+    {
+      "arrows": "to",
+      "from": 1021,
+      "title": "is_affecting",
+      "to": 113434
+    },
+    {
+      "arrows": "to",
+      "from": 113354,
+      "title": "causes_condition",
+      "to": 149114
+    },
+    {
+      "arrows": "to",
+      "from": 144561,
+      "title": "causes_condition",
+      "to": 164921
+    },
+    {
+      "arrows": "to",
+      "from": 194,
+      "title": "is_affecting",
+      "to": 113589
+    },
+    {
+      "arrows": "to",
+      "from": 129998,
+      "title": "causes_condition",
+      "to": 149014
+    },
+    {
+      "arrows": "to",
+      "from": 113879,
+      "title": "causes_condition",
+      "to": 149165
+    },
+    {
+      "arrows": "to",
+      "from": 143826,
+      "title": "causes_condition",
+      "to": 165330
+    },
+    {
+      "arrows": "to",
+      "from": 549,
+      "title": "is_affecting",
+      "to": 113287
+    },
+    {
+      "arrows": "to",
+      "from": 144015,
+      "title": "causes_condition",
+      "to": 163427
+    },
+    {
+      "arrows": "to",
+      "from": 90114,
+      "title": "is_affecting",
+      "to": 113537
+    },
+    {
+      "arrows": "to",
+      "from": 14564,
+      "title": "is_affecting",
+      "to": 113670
+    },
+    {
+      "arrows": "to",
+      "from": 114596,
+      "title": "causes_condition",
+      "to": 149271
+    },
+    {
+      "arrows": "to",
+      "from": 119991,
+      "title": "causes_condition",
+      "to": 149086
+    },
+    {
+      "arrows": "to",
+      "from": 114130,
+      "title": "causes_condition",
+      "to": 149037
+    },
+    {
+      "arrows": "to",
+      "from": 89682,
+      "title": "is_affecting",
+      "to": 113756
+    },
+    {
+      "arrows": "to",
+      "from": 140019,
+      "title": "causes_condition",
+      "to": 156000
+    },
+    {
+      "arrows": "to",
+      "from": 469,
+      "title": "is_affecting",
+      "to": 114092
+    },
+    {
+      "arrows": "to",
+      "from": 140256,
+      "title": "causes_condition",
+      "to": 150876
+    },
+    {
+      "arrows": "to",
+      "from": 147457,
+      "title": "causes_condition",
+      "to": 157313
+    },
+    {
+      "arrows": "to",
+      "from": 241,
+      "title": "is_affecting",
+      "to": 113661
+    },
+    {
+      "arrows": "to",
+      "from": 1227,
+      "title": "is_substance_that_treats",
+      "to": 149037
+    },
+    {
+      "arrows": "to",
+      "from": 139685,
+      "title": "causes_condition",
+      "to": 154107
+    },
+    {
+      "arrows": "to",
+      "from": 90490,
+      "title": "is_affecting",
+      "to": 113566
+    },
+    {
+      "arrows": "to",
+      "from": 114606,
+      "title": "causes_condition",
+      "to": 149037
+    },
+    {
+      "arrows": "to",
+      "from": 144954,
+      "title": "causes_condition",
+      "to": 155070
+    },
+    {
+      "arrows": "to",
+      "from": 90057,
+      "title": "is_affecting",
+      "to": 113875
+    },
+    {
+      "arrows": "to",
+      "from": 113667,
+      "title": "causes_condition",
+      "to": 149113
+    },
+    {
+      "arrows": "to",
+      "from": 90376,
+      "title": "is_affecting",
+      "to": 113390
+    },
+    {
+      "arrows": "to",
+      "from": 14747,
+      "title": "is_affecting",
+      "to": 114884
+    },
+    {
+      "arrows": "to",
+      "from": 280,
+      "title": "is_substance_that_treats",
+      "to": 149033
+    },
+    {
+      "arrows": "to",
+      "from": 147409,
+      "title": "causes_condition",
+      "to": 160393
+    },
+    {
+      "arrows": "to",
+      "from": 268,
+      "title": "is_substance_that_treats",
+      "to": 149050
+    },
+    {
+      "arrows": "to",
+      "from": 113494,
+      "title": "causes_condition",
+      "to": 149007
+    },
+    {
+      "arrows": "to",
+      "from": 140748,
+      "title": "causes_condition",
+      "to": 163480
+    },
+    {
+      "arrows": "to",
+      "from": 5763,
+      "title": "is_affecting",
+      "to": 113324
+    },
+    {
+      "arrows": "to",
+      "from": 10998,
+      "title": "is_affecting",
+      "to": 113427
+    },
+    {
+      "arrows": "to",
+      "from": 1526,
+      "title": "is_affecting",
+      "to": 113587
+    },
+    {
+      "arrows": "to",
+      "from": 141838,
+      "title": "causes_condition",
+      "to": 155323
+    },
+    {
+      "arrows": "to",
+      "from": 113396,
+      "title": "causes_condition",
+      "to": 149161
+    },
+    {
+      "arrows": "to",
+      "from": 351,
+      "title": "is_substance_that_treats",
+      "to": 149137
+    },
+    {
+      "arrows": "to",
+      "from": 148861,
+      "title": "causes_condition",
+      "to": 152704
+    },
+    {
+      "arrows": "to",
+      "from": 459,
+      "title": "is_affecting",
+      "to": 113544
+    },
+    {
+      "arrows": "to",
+      "from": 140755,
+      "title": "causes_condition",
+      "to": 162887
+    },
+    {
+      "arrows": "to",
+      "from": 132665,
+      "title": "causes_condition",
+      "to": 150277
+    },
+    {
+      "arrows": "to",
+      "from": 140847,
+      "title": "causes_condition",
+      "to": 155913
+    },
+    {
+      "arrows": "to",
+      "from": 842,
+      "title": "is_affecting",
+      "to": 113223
+    },
+    {
+      "arrows": "to",
+      "from": 241,
+      "title": "is_affecting",
+      "to": 113324
+    },
+    {
+      "arrows": "to",
+      "from": 113300,
+      "title": "causes_condition",
+      "to": 151253
+    },
+    {
+      "arrows": "to",
+      "from": 90142,
+      "title": "is_affecting",
+      "to": 113250
+    },
+    {
+      "arrows": "to",
+      "from": 9502,
+      "title": "is_affecting",
+      "to": 113564
+    },
+    {
+      "arrows": "to",
+      "from": 1033,
+      "title": "is_affecting",
+      "to": 113343
+    },
+    {
+      "arrows": "to",
+      "from": 147138,
+      "title": "causes_condition",
+      "to": 166670
+    },
+    {
+      "arrows": "to",
+      "from": 148056,
+      "title": "causes_condition",
+      "to": 164681
+    },
+    {
+      "arrows": "to",
+      "from": 146032,
+      "title": "causes_condition",
+      "to": 162798
+    },
+    {
+      "arrows": "to",
+      "from": 114234,
+      "title": "causes_condition",
+      "to": 149196
+    },
+    {
+      "arrows": "to",
+      "from": 89991,
+      "title": "is_affecting",
+      "to": 113523
+    },
+    {
+      "arrows": "to",
+      "from": 142697,
+      "title": "causes_condition",
+      "to": 153889
+    },
+    {
+      "arrows": "to",
+      "from": 14554,
+      "title": "is_affecting",
+      "to": 113524
+    },
+    {
+      "arrows": "to",
+      "from": 146741,
+      "title": "causes_condition",
+      "to": 164789
+    },
+    {
+      "arrows": "to",
+      "from": 114573,
+      "title": "causes_condition",
+      "to": 150492
+    },
+    {
+      "arrows": "to",
+      "from": 61,
+      "title": "is_affecting",
+      "to": 113296
+    },
+    {
+      "arrows": "to",
+      "from": 113306,
+      "title": "causes_condition",
+      "to": 149181
+    },
+    {
+      "arrows": "to",
+      "from": 114829,
+      "title": "causes_condition",
+      "to": 149216
+    },
+    {
+      "arrows": "to",
+      "from": 89682,
+      "title": "is_affecting",
+      "to": 114239
+    },
+    {
+      "arrows": "to",
+      "from": 89833,
+      "title": "is_affecting",
+      "to": 120584
+    },
+    {
+      "arrows": "to",
+      "from": 323,
+      "title": "is_affecting",
+      "to": 113574
+    },
+    {
+      "arrows": "to",
+      "from": 148675,
+      "title": "causes_condition",
+      "to": 164354
+    },
+    {
+      "arrows": "to",
+      "from": 137897,
+      "title": "causes_condition",
+      "to": 154157
+    },
+    {
+      "arrows": "to",
+      "from": 239,
+      "title": "is_affecting",
+      "to": 113591
+    },
+    {
+      "arrows": "to",
+      "from": 113846,
+      "title": "causes_condition",
+      "to": 149165
+    },
+    {
+      "arrows": "to",
+      "from": 142120,
+      "title": "causes_condition",
+      "to": 162926
+    },
+    {
+      "arrows": "to",
+      "from": 113417,
+      "title": "causes_condition",
+      "to": 149008
+    },
+    {
+      "arrows": "to",
+      "from": 5513,
+      "title": "is_affecting",
+      "to": 113653
+    },
+    {
+      "arrows": "to",
+      "from": 113490,
+      "title": "causes_condition",
+      "to": 149044
+    },
+    {
+      "arrows": "to",
+      "from": 144865,
+      "title": "causes_condition",
+      "to": 164220
+    },
+    {
+      "arrows": "to",
+      "from": 14554,
+      "title": "is_affecting",
+      "to": 113783
+    },
+    {
+      "arrows": "to",
+      "from": 113396,
+      "title": "causes_condition",
+      "to": 149067
+    },
+    {
+      "arrows": "to",
+      "from": 148993,
+      "title": "causes_condition",
+      "to": 162977
+    },
+    {
+      "arrows": "to",
+      "from": 140434,
+      "title": "causes_condition",
+      "to": 162855
+    },
+    {
+      "arrows": "to",
+      "from": 14748,
+      "title": "is_affecting",
+      "to": 113304
+    },
+    {
+      "arrows": "to",
+      "from": 143015,
+      "title": "causes_condition",
+      "to": 166181
+    },
+    {
+      "arrows": "to",
+      "from": 14758,
+      "title": "is_affecting",
+      "to": 113349
+    },
+    {
+      "arrows": "to",
+      "from": 145699,
+      "title": "causes_condition",
+      "to": 154135
+    },
+    {
+      "arrows": "to",
+      "from": 422,
+      "title": "is_affecting",
+      "to": 113939
+    },
+    {
+      "arrows": "to",
+      "from": 139751,
+      "title": "causes_condition",
+      "to": 159203
+    },
+    {
+      "arrows": "to",
+      "from": 147344,
+      "title": "causes_condition",
+      "to": 164165
+    },
+    {
+      "arrows": "to",
+      "from": 142478,
+      "title": "causes_condition",
+      "to": 162923
+    },
+    {
+      "arrows": "to",
+      "from": 89945,
+      "title": "is_affecting",
+      "to": 113445
+    },
+    {
+      "arrows": "to",
+      "from": 113656,
+      "title": "causes_condition",
+      "to": 149015
+    },
+    {
+      "arrows": "to",
+      "from": 144619,
+      "title": "causes_condition",
+      "to": 159516
+    },
+    {
+      "arrows": "to",
+      "from": 113416,
+      "title": "causes_condition",
+      "to": 149159
+    },
+    {
+      "arrows": "to",
+      "from": 61,
+      "title": "is_affecting",
+      "to": 113294
+    },
+    {
+      "arrows": "to",
+      "from": 114012,
+      "title": "causes_condition",
+      "to": 149025
+    },
+    {
+      "arrows": "to",
+      "from": 148613,
+      "title": "causes_condition",
+      "to": 166096
+    },
+    {
+      "arrows": "to",
+      "from": 113524,
+      "title": "causes_condition",
+      "to": 149290
+    },
+    {
+      "arrows": "to",
+      "from": 139737,
+      "title": "causes_condition",
+      "to": 156119
+    },
+    {
+      "arrows": "to",
+      "from": 969,
+      "title": "is_affecting",
+      "to": 113307
+    },
+    {
+      "arrows": "to",
+      "from": 113281,
+      "title": "causes_condition",
+      "to": 149011
+    },
+    {
+      "arrows": "to",
+      "from": 113417,
+      "title": "causes_condition",
+      "to": 149195
+    },
+    {
+      "arrows": "to",
+      "from": 409,
+      "title": "is_affecting",
+      "to": 113516
+    },
+    {
+      "arrows": "to",
+      "from": 90155,
+      "title": "is_affecting",
+      "to": 113575
+    },
+    {
+      "arrows": "to",
+      "from": 114275,
+      "title": "causes_condition",
+      "to": 149212
+    },
+    {
+      "arrows": "to",
+      "from": 634,
+      "title": "is_substance_that_treats",
+      "to": 149196
+    },
+    {
+      "arrows": "to",
+      "from": 358,
+      "title": "is_substance_that_treats",
+      "to": 149049
+    },
+    {
+      "arrows": "to",
+      "from": 90057,
+      "title": "is_affecting",
+      "to": 113607
+    },
+    {
+      "arrows": "to",
+      "from": 14514,
+      "title": "is_substance_that_treats",
+      "to": 149054
+    },
+    {
+      "arrows": "to",
+      "from": 1083,
+      "title": "is_affecting",
+      "to": 113628
+    },
+    {
+      "arrows": "to",
+      "from": 89916,
+      "title": "is_affecting",
+      "to": 113524
+    },
+    {
+      "arrows": "to",
+      "from": 302,
+      "title": "is_affecting",
+      "to": 113523
+    },
+    {
+      "arrows": "to",
+      "from": 146761,
+      "title": "causes_condition",
+      "to": 162939
+    },
+    {
+      "arrows": "to",
+      "from": 145297,
+      "title": "causes_condition",
+      "to": 164451
+    },
+    {
+      "arrows": "to",
+      "from": 89740,
+      "title": "is_affecting",
+      "to": 113287
+    },
+    {
+      "arrows": "to",
+      "from": 469,
+      "title": "is_affecting",
+      "to": 114080
+    },
+    {
+      "arrows": "to",
+      "from": 113598,
+      "title": "causes_condition",
+      "to": 149154
+    },
+    {
+      "arrows": "to",
+      "from": 717,
+      "title": "is_affecting",
+      "to": 114357
+    },
+    {
+      "arrows": "to",
+      "from": 1213,
+      "title": "is_affecting",
+      "to": 114439
+    },
+    {
+      "arrows": "to",
+      "from": 4621,
+      "title": "is_affecting",
+      "to": 113523
+    },
+    {
+      "arrows": "to",
+      "from": 114074,
+      "title": "causes_condition",
+      "to": 149087
+    },
+    {
+      "arrows": "to",
+      "from": 940,
+      "title": "is_affecting",
+      "to": 114487
+    },
+    {
+      "arrows": "to",
+      "from": 14654,
+      "title": "is_affecting",
+      "to": 114850
+    },
+    {
+      "arrows": "to",
+      "from": 113686,
+      "title": "causes_condition",
+      "to": 152113
+    },
+    {
+      "arrows": "to",
+      "from": 489,
+      "title": "is_affecting",
+      "to": 114122
+    },
+    {
+      "arrows": "to",
+      "from": 148948,
+      "title": "causes_condition",
+      "to": 156005
+    },
+    {
+      "arrows": "to",
+      "from": 148531,
+      "title": "causes_condition",
+      "to": 149891
+    },
+    {
+      "arrows": "to",
+      "from": 113343,
+      "title": "causes_condition",
+      "to": 149023
+    },
+    {
+      "arrows": "to",
+      "from": 824,
+      "title": "is_affecting",
+      "to": 113663
+    },
+    {
+      "arrows": "to",
+      "from": 90229,
+      "title": "is_affecting",
+      "to": 113524
+    },
+    {
+      "arrows": "to",
+      "from": 144111,
+      "title": "causes_condition",
+      "to": 165010
+    },
+    {
+      "arrows": "to",
+      "from": 241,
+      "title": "is_affecting",
+      "to": 113287
+    },
+    {
+      "arrows": "to",
+      "from": 139046,
+      "title": "causes_condition",
+      "to": 154197
+    },
+    {
+      "arrows": "to",
+      "from": 143379,
+      "title": "causes_condition",
+      "to": 154162
+    },
+    {
+      "arrows": "to",
+      "from": 1014,
+      "title": "is_affecting",
+      "to": 113637
+    },
+    {
+      "arrows": "to",
+      "from": 113531,
+      "title": "causes_condition",
+      "to": 151458
+    },
+    {
+      "arrows": "to",
+      "from": 678,
+      "title": "is_affecting",
+      "to": 113558
+    },
+    {
+      "arrows": "to",
+      "from": 114026,
+      "title": "causes_condition",
+      "to": 150080
+    },
+    {
+      "arrows": "to",
+      "from": 227,
+      "title": "is_affecting",
+      "to": 113637
+    },
+    {
+      "arrows": "to",
+      "from": 322,
+      "title": "is_affecting",
+      "to": 113527
+    },
+    {
+      "arrows": "to",
+      "from": 1154,
+      "title": "is_affecting",
+      "to": 113528
+    },
+    {
+      "arrows": "to",
+      "from": 516,
+      "title": "is_affecting",
+      "to": 113314
+    },
+    {
+      "arrows": "to",
+      "from": 113581,
+      "title": "causes_condition",
+      "to": 150142
+    },
+    {
+      "arrows": "to",
+      "from": 305,
+      "title": "is_affecting",
+      "to": 113389
+    },
+    {
+      "arrows": "to",
+      "from": 89945,
+      "title": "is_affecting",
+      "to": 114889
+    },
+    {
+      "arrows": "to",
+      "from": 113228,
+      "title": "causes_condition",
+      "to": 149008
+    },
+    {
+      "arrows": "to",
+      "from": 1074,
+      "title": "is_affecting",
+      "to": 113504
+    },
+    {
+      "arrows": "to",
+      "from": 147055,
+      "title": "causes_condition",
+      "to": 150325
+    },
+    {
+      "arrows": "to",
+      "from": 1213,
+      "title": "is_substance_that_treats",
+      "to": 149026
+    }
+  ]
+}

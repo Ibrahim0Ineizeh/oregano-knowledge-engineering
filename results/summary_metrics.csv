@@ -1,0 +1,15 @@
+metric,value,source_notebook,source_cell,derivation
+source_relation_rows,823005,assessment_1,14,saved output
+entity_types,11,assessment_1,31,saved output
+attributes,237,assessment_1,12,saved output
+relation_types,17,assessment_1,26,saved output
+entity_instances,189847,assessment_1,33,sum saved counts
+retained_object_assertions,816481,assessment_1,28,sum saved counts
+indirect_candidate_pool,9449,assessment_2,27,saved output
+direct_treatment_compounds,435,assessment_2,27,saved output
+pool_without_direct_treatment,9234,assessment_2,28,saved output
+candidate_path_rows,3,assessment_2,30,saved table row count
+bayesian_compounds,60,assessment_2,42,saved output
+bayesian_proteins,2009,assessment_2,42,saved output
+bayesian_genes,837,assessment_2,42,saved output
+bayesian_diseases,1190,assessment_2,42,saved output
