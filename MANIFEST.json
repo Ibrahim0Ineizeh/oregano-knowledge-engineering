@@ -14,43 +14,13 @@
     },
     {
       "path": "README.md",
-      "bytes": 4613,
-      "sha256": "60c4d72d8f68f7627c27d0967f0daa7367976395b5c4189dcf61b1c3a1e6ede3"
-    },
-    {
-      "path": "data/README.md",
-      "bytes": 1001,
-      "sha256": "bcb26ed851aef87df3628bc7f965814822067ca45c465d5cb06beae87e26b516"
-    },
-    {
-      "path": "docs/editorial-notes.md",
-      "bytes": 3796,
-      "sha256": "15beb5b63761479a25e20fea34c5fb75839c8b4e501e3297859e4231f172c5a4"
-    },
-    {
-      "path": "docs/notebook-changes.md",
-      "bytes": 8606,
-      "sha256": "c9e41eb37dc5d603ad32ea0fc66c7d9764c7553ba8080c230e76ed0893609d64"
-    },
-    {
-      "path": "docs/publishing.md",
-      "bytes": 1930,
-      "sha256": "31bb16c90d378c5e787289b489816baf28a0be6893bc99d515d82f032d1851b9"
+      "bytes": 3093,
+      "sha256": "beb70615232db09287740c829ff5061ce4f8bc5bab4aa7a6d1d61489bf07b9e9"
     },
     {
       "path": "docs/reproducibility.md",
-      "bytes": 4048,
-      "sha256": "9ebb76a1cd7e2f0146751188bda6c3572140c6e044873d8951a6846bb2790637"
-    },
-    {
-      "path": "docs/validation.md",
-      "bytes": 2062,
-      "sha256": "b42a4ad616b8f48a2444a6ed4d1142d7cbb23f5f621eccb08b802bf0e68022df"
-    },
-    {
-      "path": "figures/README.md",
-      "bytes": 1063,
-      "sha256": "eafdf16e8dd9be593cfb5c7521fed3e9a110076b6b0a15299c763d59dfe8afd9"
+      "bytes": 4266,
+      "sha256": "ea9ad831ff2ef68e86af146f53eb79af6f9b6bd76a36ad5c0d60dfe50d7134a6"
     },
     {
       "path": "figures/bayesian_network.png",
@@ -114,8 +84,8 @@
     },
     {
       "path": "notebooks/oregano-study.ipynb",
-      "bytes": 2227252,
-      "sha256": "b392575a841f4ae3c41ec62425e717a5c8da7e682822d79be7b5aac290bd847e"
+      "bytes": 2227257,
+      "sha256": "f2bc4027d26c4c6170438544ff144196a5d43766ec4399d1369f8d94b91b7fda"
     },
     {
       "path": "output/pdf/oregano-study.pdf",
@@ -136,11 +106,6 @@
       "path": "requirements.txt",
       "bytes": 318,
       "sha256": "fabb3a2535012971c1ed3b54b8dc95d195b6ecf5fe4c0ce6a40e7a77f4a0eb04"
-    },
-    {
-      "path": "results/README.md",
-      "bytes": 2615,
-      "sha256": "af871dddc149ef1df052fe9c0b6882a84c8d6d1aea24a2a23e228ab95ff79c9d"
     },
     {
       "path": "results/bayesian_rankings.csv",
@@ -194,8 +159,8 @@
     },
     {
       "path": "scripts/build_notebook.py",
-      "bytes": 39054,
-      "sha256": "9bc07dddaf1fe215ffb53c6c880178aa56892412e99a7c0ca82464f7fc8729bb"
+      "bytes": 39059,
+      "sha256": "776790a89b163e5f54ba121c68502af95dc289440829af221924ad395b99df88"
     },
     {
       "path": "scripts/build_report.py",

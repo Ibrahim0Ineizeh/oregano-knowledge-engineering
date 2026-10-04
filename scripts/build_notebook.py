@@ -39,7 +39,7 @@ INTRO = clean(r"""
 
     **Reading the results.** Every stored code output below comes from the original assessment notebooks. I have retained those outputs as a historical record; they have **not been regenerated after the portability, ordering and display changes**. Original category indices and execution counts therefore describe the saved run. A new run can produce different indices and rankings. The sampled counts are model outputs, not probabilities that a drug will treat a disease.
 
-    The accompanying [report](../report.md) presents the findings and figures. [Notebook changes](../docs/notebook-changes.md) records the editorial corrections and the practical limits of reproduction.
+    The accompanying [report](../report.md) presents the findings and figures. [Setup and reproducibility](../docs/reproducibility.md) explains how to run or rebuild the study and the limits of reproduction.
 
     **Contents**
 
